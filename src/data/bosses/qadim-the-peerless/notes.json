@@ -11,28 +11,30 @@
     {
       "heading": "Pylons & tethers",
       "bullets": [
-        "Qadim starts the fight holding all the pylons, which form his invulnerability shield. Three <b>Pylon Kiters</b> break each pylon's breakbar and tether to it (via the Flux Disruptor action key) to strip that protection — if he repossesses a pylon, he regains the shield and knocks everyone back.",
+        "Qadim starts the fight holding all the pylons, which form his invulnerability shield. Three <b>Pylon Kiters</b> break each pylon's breakbar and tether to it (via the Flux Disruptor action key) to strip that protection.",
+        "<mark>Battering Blitz</mark> is Qadim rushing at and destroying a pylon directly — stop him before he reaches one. If a pylon does get repossessed, he regains the shield and knocks everyone back.",
         "<b>Good Tether</b> stacks (on Qadim) increase his damage taken 5% per stack, up to 50% at 10 stacks. <b>Bad Tether</b> reduces the affected player's outgoing damage — the tank and kiters manage the main tethers, but they can spread to up to 3 more players each, so don't let them go unmanaged."
       ]
     },
     {
       "heading": "Force of Havoc & Ruinous Nova",
       "bullets": [
-        "<b>Force of Havoc</b> (\"the carpet\"): a long rectangular death path — the tank steers it away from the squad and away from pylons so it can't undo a repossession.",
+        "<mark>Force of Havoc</mark> (\"the carpet\"): a wave of energy that leaves a persistent damage field along its path — if it crosses a pylon, Qadim takes its power (repossession). The tank steers it away from the squad and away from pylons.",
         "In phase 1, Qadim channels <b>Ruinous Nova</b> until every pylon breakbar is broken — miss it and it's a squad wipe."
       ]
     },
     {
       "heading": "Fire split (80% / 60%)",
       "bullets": [
-        "Qadim lifts the whole squad and drops fire circles beneath everyone — the squad typically stacks on a predetermined pylon side for this so the drop is coordinated rather than chaotic."
+        "<mark>Shatter</mark> lifts the whole squad and drops fire circles beneath everyone — the squad typically stacks on a predetermined pylon side for this so the drop is coordinated rather than chaotic."
       ]
     },
     {
       "heading": "Anomalies & other mechanics",
       "bullets": [
         "From 75% health, Anomaly adds spawn from orb points every 30-40s (faster in later phases) — they have breakbars and can be soloed by a Druid or handled with CC. Ones standing on a player-cast fire die on their own; any that reach Qadim need to be killed directly.",
-        "Also watch for: <b>Skyhammer</b> (expanding lightning circle on a random non-tank), <b>Arrow</b> (unblockable tracking missile), timed <b>Orbs</b> that kiters need to catch mid-air, and <b>Poisoned Power</b> (a channel on pylons that needs a breakbar interrupt)."
+        "<mark>Caustic Chaos</mark> is the debuff that increases incoming damage if it stacks up — don't ignore it.",
+        "Also watch for: <b>Skyhammer</b> (expanding lightning circle on a random non-tank), <b>Arrow</b> (unblockable tracking missile), and timed <b>Orbs</b> that kiters need to catch mid-air."
       ]
     },
     {

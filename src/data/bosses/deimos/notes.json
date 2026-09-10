@@ -9,31 +9,32 @@
       ]
     },
     {
-      "heading": "Demonic Tears (from 75%)",
+      "heading": "Demonic Projection (tears, from 75%)",
       "bullets": [
-        "Tears spawn around the platform every 15 seconds — close one by walking into it. Each player has a 1-minute cooldown after closing a tear, so spread the duty across the squad.",
+        "<mark>Demonic Projection</mark> shoots tears out at player locations every 15 seconds — close one by walking into it. Each player has a 1-minute cooldown after closing a tear, so spread the duty across the squad.",
         "The projectiles tears fire can't be blocked and ignore protection — don't rely on defensives to sit in one."
       ]
     },
     {
       "heading": "Annihilate (\"pizza\")",
       "bullets": [
-        "Roughly every 20 seconds Deimos smashes his flails down, sending a cascading knockback around the arena from front to back — telegraphed by an orange segmented circle.",
+        "Roughly every 20 seconds Deimos uses <mark>Annihilate</mark>, smashing his flails down and sending a cascading knockback around the arena from front to back — telegraphed by an orange segmented circle.",
         "Dodge toward the boss's front, or stay within a single segment, to avoid the damage (you'll still get knocked back either way). A block reduces damage but doesn't stop the knockback — mind the platform edge."
       ]
     },
     {
       "heading": "Mind Crush & Saul's ward",
       "bullets": [
-        "Roughly every 40 seconds, <b>Mind Crush</b> targets everyone on the platform — after a 5-second channel, anyone hit is instantly downed.",
-        "Saul drops a protective dome at the center that blocks it — get inside. Outside the dome (even blocking) still takes 70% max HP over 10 seconds.",
+        "Roughly every 40 seconds, <mark>Mind Crush</mark> targets everyone on the platform — it can't be evaded or blocked. After a 5-second channel, anyone hit is instantly downed.",
+        "Saul drops a protective dome at the center that blocks it — get inside. Outside the dome (even with defensives up) still takes 70% max HP over 10 seconds.",
         "During the oil phase, tank Deimos away from center rather than on top of it — oils target whoever's closest to Deimos besides the tank, and keeping the boss off-center keeps Saul's ward accessible to everyone else."
       ]
     },
     {
-      "heading": "Oils (from 60%)",
+      "heading": "Rapid Decay (oils, from 60%)",
       "bullets": [
-        "Oils spawn on the closest non-tank player to Deimos, telegraphed by orange circles that expand over 30 seconds — new ones spawn every 15 seconds. A fully expanded oil is generally a wipe, so pop it or move the fight before that happens.",
+        "<mark>Rapid Decay</mark> drops oil fields on the closest non-tank player to Deimos, telegraphed by orange circles that expand over 30 seconds and grow further with each player hit — new ones spawn every 15 seconds. A fully expanded oil is generally a wipe, so pop it or move the fight before that happens.",
+        "<mark>Soul Feast</mark> creates additional deadly zones around the room that periodically get consumed — treat these with the same caution as the oils.",
         "At 25%, Drunkard Saul shows up — break his bar quickly, or he'll randomly teleport players, sometimes straight into an oil."
       ]
     },

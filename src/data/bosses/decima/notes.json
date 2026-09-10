@@ -11,22 +11,22 @@
     {
       "heading": "Fluxlance & conduits",
       "bullets": [
-        "<b>Orange Arrow</b> targets the furthest player(s) — after a 5s cast it fires a beam that applies Galvanic Sensitivity (massively boosts Spark damage to whoever's hit) and charges any conduit in its path. Phase 1 is a single arrow; phases 2-3 target the 5 furthest players (sequential in phase 2, simultaneous in phase 3).",
+        "<mark>Fluxlance</mark> targets the furthest player(s) — after a 5s cast it fires a beam that applies Galvanic Sensitivity (massively boosts Spark damage to whoever's hit) and charges any conduit in its path. Phase 1 is a single beam; phase 2 upgrades to <mark>Fluxlance Fusillade</mark> (sequential beams at the 5 furthest players), phase 3 to <mark>Fluxlance Salvo</mark> (the same, but simultaneous).",
         "<b>Red Arrow</b> (all phases) instantly kills anyone in its path — stand behind an uncharged conduit to block it.",
-        "Conduits charge up to 3 times and release Sparks during Seismic Crash — a Spark reaching Decima gives her a Charge stack, and 10 stacks is a squad wipe."
+        "Conduits charge up to 3 times and release sparks during Seismic Crash — a Spark reaching Decima gives her a Charge stack, and 10 stacks is a squad wipe."
       ]
     },
     {
       "heading": "Sparks",
       "bullets": [
-        "Sparks freeze once enough players are standing in them (more players = faster dissipation). In phase 1, anyone not kiting can soak a spark; in phases 2-3, only the boss group should soak — Galvanic Sensitivity makes it lethal for anyone else."
+        "<mark>Sparking Aura</mark> is what releases the sparks from charged conduits, drifting toward Decima. Sparks freeze once enough players are standing in them (more players = faster dissipation). In phase 1, anyone not kiting can soak a spark; in phases 2-3, only the boss group should soak — Galvanic Sensitivity makes it lethal for anyone else."
       ]
     },
     {
-      "heading": "Seismic Crash, Wind, and Green Arrow",
+      "heading": "Seismic Crash, Swirling Winds, and Green Arrow",
       "bullets": [
-        "<b>Seismic Crash</b>: an instant-kill jump-crash near her, followed by a knockback and then a Spark release — Stability or CC-immunity gets you through it safely.",
-        "<b>Wind</b> (phases 2-3): forcibly rotates players around her (direction is random each cast) — fully countered by Stability. Phase 2 only affects the outer ring; phase 3 hits the whole platform.",
+        "<mark>Seismic Crash</mark>: an instant-kill jump-crash near her, followed by a knockback and then a Spark release — Stability or CC-immunity gets you through it safely.",
+        "<mark>Swirling Winds</mark> (phases 2-3): forcibly rotates players around her, clockwise or counter-clockwise depending on the cast — fully countered by Stability. Phase 2 only affects the outer ring; phase 3 hits the whole platform.",
         "<b>Green Arrow</b> (phase 3 only): 5 players must stand in it at detonation or the whole squad gets Exposed — missing players makes the targeted conduit overcharge instead."
       ]
     },
@@ -34,7 +34,7 @@
       "heading": "Intermissions (75% / 40%)",
       "bullets": [
         "Decima channels with a defiance bar while everyone loses Galvanic Sensitivity, so the whole squad can soak Sparks freely — break the bar for a 10-second stun, but any Spark that reaches her during this fully regenerates it.",
-        "Each intermission ends with <b>Fulminate/Flux Nova</b>, detonating every conduit — any conduit at max charge when this goes off gives the squad an Exposed stack and Decima 5 stacks of Harmony and Discord each, so clear conduits down before the detonation."
+        "Each intermission ends with <mark>Flux Nova</mark> — Decima gathers arcane flux into an unstable orb and detonates it after several seconds, hitting every conduit at once. Any conduit at max charge when this goes off gives the squad an Exposed stack and Decima 5 stacks of Harmony and Discord each (which fuel her <mark>Chorus of Thunder</mark> attack), so clear conduits down before the detonation."
       ]
     },
     {

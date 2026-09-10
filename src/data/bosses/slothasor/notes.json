@@ -11,28 +11,29 @@
     {
       "heading": "Tantrum & Narcolepsy",
       "bullets": [
-        "<b>Tantrum</b>: 3 ground pounds drop dark circles under each player — a 4th stack knocks you down for 5 seconds. Stop moving once it starts so you're not spreading the AoEs around the arena; dodge, block, or invuln each pound.",
-        "Every 20% health (and again at 10%), Slothasor falls asleep with a breakbar — breaking it applies a 10-second fear to the whole squad, so have stability, aegis, or a stunbreak ready."
+        "<mark>Tantrum</mark>: 3 ground pounds drop dark circles under each player and knock down on impact — stop moving once it starts so you're not spreading the AoEs around the arena; dodge, block, or invuln each pound.",
+        "Every 20% health (and again at 10%), Slothasor falls asleep with <mark>Narcolepsy</mark> and gains a breakbar — breaking it applies a 10-second fear to the whole squad, so have stability, aegis, or a stunbreak ready."
       ]
     },
     {
       "heading": "Poison mushrooms & Volatile Poison",
       "bullets": [
         "The floor starts covered in poison from red mushrooms — 4 players transform into Slublings (via blue Imbued Mushrooms) and eat the red ones to clear safe zones. A transformed player can't transform again for 4 minutes, and the rest of the squad shouldn't cleave, pull, or stun their own Slublings.",
-        "Every 25 seconds someone gets <b>Volatile Poison</b> — carry it away from the group and drop it; it expands to cover roughly a third of the arena. It drops early if unused for 8s, you go down, or you eat an imbued mushroom."
+        "Every 25 seconds someone gets <mark>Volatile Poison</mark> — carry it away from the group and drop it; it expands to cover roughly a third of the arena. It drops early if unused for 8s, you go down, or you eat an imbued mushroom."
       ]
     },
     {
-      "heading": "Fire Breath & Spore Release",
+      "heading": "Halitosis & Spore Release",
       "bullets": [
-        "<b>Fire Breath</b>: Slothasor stops and breathes fire in front of him — dodge, block, or sidestep out. He usually faces the tank, but not always, so stay alert even from behind.",
-        "From 50% health onward, <b>Spore Release</b> pulses poison/torment/confusion/vulnerability outward — dodge away, pause a beat, then dodge back into his hitbox rather than standing in the spore ring."
+        "<mark>Halitosis</mark> (fire breath): Slothasor stops and breathes fire in front of him — dodge, block, or sidestep out. He usually faces the tank, but not always, so stay alert even from behind.",
+        "From 50% health onward, <mark>Spore Release</mark> shakes spores off his back that inflict poison/torment/confusion/vulnerability — dodge away, pause a beat, then dodge back into his hitbox rather than standing in it."
       ]
     },
     {
-      "heading": "Fixate & adds",
+      "heading": "Fixate, adds & Volatile Aura",
       "bullets": [
         "A random player is fixated every 30 seconds (sound cue + purple diamond) — move the boss onto the most recently cleared mushroom patch and hold position there.",
+        "Slothasor also pulses <mark>Volatile Aura</mark>, a passive damage aura hitting anyone nearby every 3 seconds — nothing to dodge, just don't stand needlessly close if you don't have to.",
         "Slublings that aren't dealt with become Evolved Slublings and corrupt boons — use pulls and ranged cleave on them, carefully, without hitting your own transformed players."
       ]
     },

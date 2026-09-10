@@ -11,8 +11,8 @@
     {
       "heading": "Defiance bar & Bloodstone Fragments",
       "bullets": [
-        "Her defiance bar opens at 90% health and resets every 60 seconds — break it fast, since it otherwise gives her 80% reduced incoming damage and speeds up Bloodstone Fragment spawns.",
-        "Fragments spawn every 10 seconds around the arena — they damage players and stack Derangement, but if Xera herself stands in one, she deals double damage and her conditions convert to boons. Destroy fragments deliberately to create safe space; DPS should focus the two shards nearest their marked position."
+        "Her defiance bar opens at 90% health and resets every 60 seconds — break it fast, since it otherwise gives her 80% reduced incoming damage and speeds up <mark>Bloodstone Fragment</mark> spawns.",
+        "Fragments spawn every 10 seconds around the arena — they damage players and stack <mark>Derangement</mark>, but if Xera herself stands in one, she deals double damage and her conditions convert to boons. Destroy fragments deliberately to create safe space; DPS should focus the two shards nearest their marked position."
       ]
     },
     {
@@ -24,7 +24,7 @@
     {
       "heading": "Intervention",
       "bullets": [
-        "At 75% (phase 1) and 35%/15%/10% (phase 2), phantasms channel an insta-kill blast. One random player gets the Intervention skill — wait until the phantasms channel back, then pop the barrier to shield the squad rather than using it immediately."
+        "At 75% (phase 1) and 35%/15%/10% (phase 2), phantasms channel an insta-kill blast. One random player gets the <mark>Intervention</mark> skill — wait until the phantasms channel back, then pop the barrier to shield the squad rather than using it immediately."
       ]
     },
     {

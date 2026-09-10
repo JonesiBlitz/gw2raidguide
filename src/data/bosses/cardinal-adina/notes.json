@@ -12,14 +12,15 @@
       "heading": "Pillar empowerment",
       "bullets": [
         "Every damaged pillar still standing gives Adina a stack: +20% outgoing damage, -20% incoming damage per stack. Getting all 5 pillars to break during Boulder Barrage keeps this from stacking — position two players behind each pillar.",
-        "<b>Tectonic Upheaval</b> marks the 5 furthest players with an expanding circle that locks onto a tile and raises a pillar — baiters hold at max melee range, let it lock, then return to the boss. Staying on the circle when it rises is an instant kill, and a pillar that spawns too close to Adina blinds nearby allies (uncleansable)."
+        "<mark>Tectonic Upheaval</mark> marks the 5 furthest players with an expanding circle that locks onto a tile and raises a pillar — the pillar itself kills anyone nearby when it rises, and sends out a shockwave that cripples/immobilizes anyone who doesn't jump over it. Baiters hold at max melee range, let it lock, then return to the boss and jump the shockwave."
       ]
     },
     {
       "heading": "Radiant Blindness & Diamond Palisade",
       "bullets": [
-        "<b>Diamond Palisade</b> ripples damage to players and pillars alike.",
-        "In later phases it pairs with <b>Radiant Blindness</b> — Adina raises her arms with a glowing eye overhead, and anyone looking at her gets a 20-second uncleansable blind. Get to your pillar and face away from her during this."
+        "<mark>Diamond Palisade</mark> turns her skin to diamond (reflects projectiles, buffs herself) and ripples damage to players and pillars alike.",
+        "Two seconds into Diamond Palisade, she casts <mark>Radiant Blindness</mark> — anyone not facing away from her gets a 20-second uncleansable blind. Get to your pillar and turn around during this.",
+        "<mark>Sand Geyser</mark> launches nearby players into the air and blinds them — don't stand close to her without a reason."
       ]
     },
     {

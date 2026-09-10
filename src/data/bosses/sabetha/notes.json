@@ -11,9 +11,11 @@
     {
       "heading": "Sabetha's attacks (throughout)",
       "bullets": [
-        "<b>Flamewall</b>: every 45 seconds she unleashes a wall of fire that slowly rotates counter-clockwise around the arena — it instantly defeats anyone caught in it, so keep moving with the rotation.",
-        "<b>Time Bomb</b>: the closest player gets tagged and it detonates for heavy area damage — move away from the group immediately. Below 50% HP, two players get tagged at once instead of one.",
-        "<b>Flak Shot</b>: targets the furthest player and leaves fiery patches on the ground — don't stand in them.",
+        "<mark>Firestorm</mark> (the \"Flame Wall\"): every 45 seconds she unleashes a wall of fire that slowly rotates counter-clockwise around the arena — anyone touched by it is instantly killed, so keep moving with the rotation.",
+        "<mark>Time Bomb</mark>: the closest player gets tagged (large orange circle) and it detonates after 3 seconds for heavy area damage — move away from the group immediately. Below 50% HP, two players get tagged at once instead of one.",
+        "<mark>Flak Shot</mark>: targets the furthest player and leaves burning tar fields on the ground — don't stand in them.",
+        "<mark>Heat</mark>: a close-range shotgun blast at nearby players — melee should stay alert for it rather than tunnel-visioning on rotation.",
+        "<mark>Platform Crush</mark>: only kicks in below 25% health — random dark orange circles of falling debris across the platform, on top of everything else.",
         "<b>Cannons</b> spawn every 30 seconds — designated players need Sapper Bombs to reach and use them."
       ]
     },

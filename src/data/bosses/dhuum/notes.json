@@ -17,23 +17,17 @@
       ]
     },
     {
-      "heading": "Death Mark & Shackles",
+      "heading": "Death Mark & Soul Shackle",
       "bullets": [
-        "<b>Death Mark</b>: Dhuum appears on a random player with a large orange circle — anyone caught has their boons stolen and must sprint back to their pillar of light within 10 seconds or die.",
-        "<b>Shackles</b> (from 60%): the two non-tank players closest to Dhuum get tethered together (yellow border, red tether) — 4 seconds later the shackle activates and deals heavy damage unless you've already run in opposite directions to separate."
+        "<mark>Death Mark</mark>: Dhuum slams his scythe down on a random player with a large orange circle — anyone caught has their soul ripped out and must sprint back to their pillar of light within 10 seconds or die. <mark>Greater Death Mark</mark> is the same idea but also pulls targets toward him first.",
+        "<mark>Soul Shackle</mark> (from 60%): the two non-tank players closest to Dhuum get tethered together (yellow border, red tether) — 4 seconds later the shackle activates and deals heavy damage unless you've already run in opposite directions to separate.",
+        "<mark>Cataclysmic Cycle</mark>: pulls the squad toward him — anyone who can't escape gets consumed. Dodge or displace out rather than trying to walk against the pull."
       ]
     },
     {
       "heading": "Messengers",
       "bullets": [
         "These adds fixate on whoever attacks them first and die on their own 15 seconds after fixating — a dedicated kiter should grab one and run it around the arena so it doesn't chew through the friendly Reapers instead."
-      ]
-    },
-    {
-      "heading": "Greater Death Mark (soul split, ~6:30)",
-      "bullets": [
-        "Dhuum pulls everyone out of their body for 20% max HP damage plus torment stacks — sprint back to your own glowing soul marker before the timer runs out or it's a death.",
-        "Face the center of the room when Dhuum reappears and keep your back to a safe wall so you're not caught out of position."
       ]
     },
     {

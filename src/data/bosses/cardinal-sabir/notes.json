@@ -5,13 +5,13 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A storm fight across 5 sub-phases with platform transitions at 80% and 60%, escalating from stack-and-break to serious wind hazards. 9-minute enrage."
+        "A storm fight across 5 sub-phases with platform transitions at 80% and 60% (triggered by <mark>Walloping Wind</mark>), escalating from stack-and-break to serious wind hazards. 9-minute enrage."
       ]
     },
     {
       "heading": "Phase 1 (100% → 80%) — Electrical Repulsion",
       "bullets": [
-        "Stack in front of Sabir to build Violent Currents stacks (boosts your damage). At 90% she gets a breakbar and starts a continuous knockback while dropping orange lines (Dynamic Deterrent) — break the bar fast with CC, using the Flash Discharge action key.",
+        "Stack in front of Sabir to build Violent Currents stacks (boosts your damage). At 90% she gets a breakbar and starts a continuous knockback (<mark>Dynamic Deterrent</mark>) while dropping orange lines across the platform — break the bar fast with CC, using the Flash Discharge action key.",
         "Once the bar breaks, spread out — the detonation circles that follow shouldn't overlap on anyone."
       ]
     },
@@ -19,14 +19,14 @@
       "heading": "Phase 3 (80% → 60%) — wind hazards",
       "bullets": [
         "Circling tornadoes strip your Violent Currents stacks.",
-        "<b>Unbridled Tempest</b> (at 75%): a lethal wind wall — survive it by riding a tornado up and over, teleporting through with Flash Discharge, or using a death-prevention skill. You cannot outrun it on foot."
+        "<mark>Unbridled Tempest</mark> (at 75%): a lethal wind wall — survive it by riding a tornado up and over, teleporting through with Flash Discharge, or using a death-prevention skill. You cannot outrun it on foot."
       ]
     },
     {
       "heading": "Phase 5 (60% → 0%) — advanced mechanics",
       "bullets": [
         "<b>Ion Shield</b>: a fast-refilling breakbar needing synchronized CC — the commander waits for ~6 players to have their action key up, then calls a simultaneous Flash Discharge.",
-        "<b>Titanic Twister</b> (from 50%): a huge orange tornado rotating clockwise — direct contact downs you, and being downed near it risks a full kill.",
+        "<mark>Titanic Twister</mark> (from 50%): a huge orange tornado rotating clockwise — direct contact downs you via <mark>Dire Drafts</mark>, and being downed near it risks a full kill.",
         "<b>Fury of the Storm</b> (at 50%): an expanding orange square — get into one of the two corner safe bubbles before it reaches the edge, or you go down.",
         "<b>Paralyzing Wisps</b> (from 40%, more every 10%): side platforms spawn wisps — designated players glide over, break their bar, and kill them before they respawn 40 seconds later."
       ]

@@ -11,7 +11,7 @@
     {
       "heading": "Howling Death (breakbar)",
       "bullets": [
-        "This attack gives the boss a defiance bar — if it isn't broken in time, an uncleansable Fear sends the whole squad retreating off the platform, which is a wipe. This is the one mechanic that can never be missed.",
+        "<mark>Howling Death</mark> gives the boss a defiance bar — if it isn't broken in time, it inflicts an uncleansable Fear that sends the whole squad fleeing off the platform, which is a wipe. This is the one mechanic that can never be missed.",
         "It appears after every other Death Bloom cast and despawns all active Surging Souls when it happens — a brief breather to focus the bar."
       ]
     },
@@ -25,8 +25,9 @@
       "heading": "Adds & hazards",
       "bullets": [
         "<b>Tormented Dead</b> spawn every 20s after 90% health and fixate the inactive tank — kill them at range; their death leaves a deceptively large, high-damage AoE, so don't stand near the kill.",
-        "<b>Surging Souls</b> (from 7:50 remaining): moving walls that instantly kill on contact and can't be dodged, invulned, or blocked — the gaps are randomized each time, so stay mobile rather than memorizing a path. They disappear once the boss's defiance bar is up.",
-        "<b>Spinning Scythes</b>: slow-moving line hazards that corrupt all your boons into conditions on contact — easy to avoid if you're paying attention, punishing if you're not."
+        "<mark>Surging Souls</mark> (from 7:50 remaining): moving walls that instantly kill on contact and can't be dodged, invulned, or blocked — the gaps are randomized each time, so stay mobile rather than memorizing a path. They disappear once the boss's defiance bar is up.",
+        "<mark>Spinning Slash</mark>: a slow-moving scythe hazard that converts your boons into conditions on contact — easy to avoid if you're paying attention, punishing if you're not.",
+        "<mark>Death Bloom</mark>: an 8-cone circular strike for heavy damage — stay out of the cones."
       ]
     },
     {

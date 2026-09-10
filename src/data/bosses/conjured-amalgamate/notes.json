@@ -11,8 +11,9 @@
     {
       "heading": "Arm smashes & adds",
       "bullets": [
-        "Squad stacks on the middle two of the platform's four tiles. The first smash spawns <b>sword adds</b> — killing them grants a <b>Conjured Slash</b> special action key (50% damage debuff on the boss); save these for the second slam instead of using them right away.",
-        "The second smash spawns <b>shield adds</b> with their own breakbar — break it, kill them, and you get <b>Conjured Protection</b> (blocks some of the boss's attacks). Save these for Thunderhead Clap. Sword action keys can also break shield breakbars while cleaving through.",
+        "Squad stacks on the middle two of the platform's four tiles. <mark>Pulverize</mark> is the arm smash — it knocks down anyone in the targeted section, while <mark>Tremor</mark> damages anyone standing outside it, so don't try to dodge Pulverize by leaving the section entirely.",
+        "The first smash spawns <b>sword adds</b> — killing them grants a <b>Conjured Slash</b> special action key (50% damage debuff on the boss); save these for the second slam instead of using them right away.",
+        "The second smash spawns <b>shield adds</b> with their own breakbar — break it, kill them, and you get <b>Conjured Protection</b> (blocks some of the boss's attacks). Save these for Thunderclap. Sword action keys can also break shield breakbars while cleaving through.",
         "If swords/shields aren't killed fast enough they merge into much nastier Warriors — don't let that happen."
       ]
     },
@@ -25,16 +26,16 @@
       ]
     },
     {
-      "heading": "Burn phase — Junk Wall",
+      "heading": "Burn phase — Junk Torrent",
       "bullets": [
-        "After collection, a damaging wall sweeps across the platform starting from the side of the arm you just killed. The shield collector pops shields right before it hits.",
+        "After collection, <mark>Junk Torrent</mark> sweeps a fatal wall across the platform starting from the side of the arm you just killed, leaving damaging <mark>Ruptured Ground</mark> behind it. The shield collector pops shields right before it hits.",
         "High-DPS squads can kill the boss before the wall returns; lower-DPS squads can reposition to the far side and use one shield activation to cover both the outgoing and returning wall."
       ]
     },
     {
-      "heading": "Thunderhead Clap (50%)",
+      "heading": "Thunderclap (50%)",
       "bullets": [
-        "The boss goes invulnerable and downs the entire squad unless you're covered by a saved Conjured Protection, a defensive like Rebound, or similar precast protection."
+        "At 50% health, the boss goes invulnerable and casts <mark>Thunderclap</mark>, downing the entire squad unless you're covered by a saved Conjured Protection, a defensive like Rebound, or similar precast protection."
       ]
     },
     {

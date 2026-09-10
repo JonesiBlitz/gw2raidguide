@@ -11,9 +11,9 @@
     {
       "heading": "Orb phases (66% / 33%) — Magic Blast",
       "bullets": [
-        "Keep Construct goes invulnerable and channels Magic Blast — everyone gets a red or white marker, and matching colored energy balls move toward the boss.",
+        "Keep Construct goes invulnerable and channels <mark>Magic Blast</mark> — everyone gets a red or white marker, and matching colored energy balls move toward the boss.",
         "Block the balls matching your own marker — spread by color and stay in your section rather than crossing the arena to help another color.",
-        "Every ball that connects stacks Magic Blast Intensity — 15+ stacks gets dangerous, 20+ risks a wipe, so don't let them slip through."
+        "Every ball that connects stacks Magic Blast Intensity, which scales the eventual explosion — 15+ stacks gets dangerous, 20+ risks a wipe, so don't let them slip through."
       ]
     },
     {
@@ -25,9 +25,12 @@
       ]
     },
     {
-      "heading": "Phantasms",
+      "heading": "Other attacks to know",
       "bullets": [
-        "Large waves of Phantasms spawn with red/white markers matching player markers — only damage the ones matching your color. Failing to clear them in time triggers a squad-wide attack."
+        "<mark>Xera's Fury</mark>: the red circle attack — heavy damage if it's allowed to fill, so spread and don't overlap.",
+        "<mark>Hail of Fury</mark>: he leaps and drops debris, stunning anyone hit for 1 second. <mark>Tower Drop</mark> is similar — a leap that knocks down on landing. Both are worth dodging rather than tanking through.",
+        "<mark>Construct Aura</mark> pulses passive damage to the whole arena the entire fight — nothing to react to, just don't ignore it as free incoming damage.",
+        "Large waves of <b>Phantasms</b> spawn with red/white markers matching player markers — only damage the ones matching your color. Failing to clear them in time triggers a squad-wide attack."
       ]
     },
     {

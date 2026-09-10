@@ -11,7 +11,7 @@
     {
       "heading": "Spectral Darkness (orbs)",
       "bullets": [
-        "Starting at 66% HP, dark orbs spawn and expand — contact stacks Spectral Darkness, which reduces your outgoing damage and increases your incoming damage by 10% per stack.",
+        "Starting at 66% HP, dark orbs spawn and expand — contact stacks <mark>Spectral Darkness</mark>, which reduces your outgoing damage and increases your incoming damage by 10% per stack.",
         "Destroying an orb drops a golden energy pickup that clears 5 stacks — grab it.",
         "Ranged players are responsible for popping any orb that spawns close to Gorseval — don't leave those for melee to deal with."
       ]
@@ -19,7 +19,7 @@
     {
       "heading": "World Eater",
       "bullets": [
-        "If Gorseval isn't phased in time, this attack fills the arena and kills anyone still in it.",
+        "If Gorseval isn't phased in time, <mark>World Eater</mark> fills the arena and kills anyone still in it.",
         "Counter it by DPSing him to the next health barrier (66%, 33%, or 0%) before it goes off, or by breaking through the arena walls and gliding to an updraft to wait it out.",
         "4 updrafts ring the platform, but each is single-use per cycle — if the squad needs to glide more than once, move to a different updraft each time."
       ]
@@ -27,8 +27,8 @@
     {
       "heading": "Ghastly Rampage (CC phase)",
       "bullets": [
-        "Gorseval gets a defiance bar and starts reflecting damage — use CC skills to break the bar, and avoid multi-hit skills that punish you on the reflect.",
-        "Black goop spawns around the arena and detonates for damage plus 25 stacks of vulnerability — don't stand in it.",
+        "Gorseval gets a defiance bar and starts reflecting damage during <mark>Ghastly Rampage</mark> — use CC skills to break the bar, and avoid multi-hit skills that punish you on the reflect.",
+        "Black goop spawns around the arena and detonates for 50% of your health plus 25 stacks of vulnerability — don't stand in it.",
         "Aim for a \"Fast, Fast, Slow\" DPS rhythm through this phase rather than dumping everything at once."
       ]
     },
@@ -39,10 +39,10 @@
       ]
     },
     {
-      "heading": "Swipes, Slams & eggs",
+      "heading": "Swipes, slams & eggs",
       "bullets": [
-        "Position behind Gorseval to avoid his frontal Swipes; dodge or use protection for Slams, which knock back.",
-        "At 33% HP, <b>Ghastly Prisons</b> (eggs) spawn under every player — stack tight right before they appear, then sidestep out once they land. If you get trapped, break free with weapon skill 1."
+        "Position behind Gorseval to avoid his frontal <mark>Wicked Swipe</mark>; dodge or use protection for <mark>Spectral Impact</mark>, his ground-slam, which knocks back.",
+        "At 33% HP, <mark>Ghastly Prison</mark> encases every player in an egg — stack tight right before they appear, then sidestep out once they land. If you get trapped, break free with weapon skill 1."
       ]
     },
     {

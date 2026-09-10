@@ -12,16 +12,22 @@
       "heading": "Jade Scouts & Soldiers",
       "bullets": [
         "Jade Scouts walk across the board — if they reach the far side, they become mobile Jade Soldiers that fixate on whoever holds Protect.",
-        "Soldiers flip safe tiles as they travel and pulse an aura that damages players, applies conditions, and <b>empowers</b> the boss (more aura damage, more damage from enemy-claimed tiles). Cleave Scouts down before they convert — letting multiple Soldiers stack up makes the fight noticeably worse."
+        "Soldiers flip safe tiles into <mark>Enemy Tile</mark> as they travel and pulse an aura that damages players, applies conditions, and empowers the boss (more aura damage, more damage from enemy-claimed tiles). Cleave Scouts down before they convert — letting multiple Soldiers stack up makes the fight noticeably worse."
       ]
     },
     {
       "heading": "The tiles",
       "bullets": [
-        "<b>Orange tiles</b>: enemy-claimed — heavy ticking damage plus the Claimed condition. Don't stand on them.",
-        "<b>Green tiles</b>: turn blue-green, then spawn spikes that instantly kill anyone standing there after a 5-second delay — get off before the spikes trigger.",
+        "<mark>Enemy Tile</mark>: heavy ticking damage plus the Claimed condition — don't stand on one.",
+        "Green tiles turn blue-green, then spawn spikes that instantly kill anyone standing there after a 5-second delay — get off before the spikes trigger.",
         "Tiles cycle on a 10-second loop — track the pattern rather than reacting late.",
         "(Challenge Mote only: blue tiles require you to stand in them or die instantly — opposite of the normal rule.)"
+      ]
+    },
+    {
+      "heading": "Punishment Aura",
+      "bullets": [
+        "<mark>Punishment Aura</mark> pulses magical damage to everyone every 3 seconds for the entire fight — a steady healing/sustain check on top of the floor management."
       ]
     },
     {

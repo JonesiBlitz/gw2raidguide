@@ -12,13 +12,13 @@
       "heading": "General rules",
       "bullets": [
         "Tanking is proximity-based — stand at the enemy's hitbox center to hold aggro. Tank Chronomancers are common picks for the portal utility.",
-        "Each Legendary Enemy follows Autoattack → Autoattack → Special Ability. When a platform transition starts, the enemy gets a red circle — everyone must leave it within 2 seconds or get teleported straight to Qadim."
+        "Each Legendary Enemy follows Autoattack → Autoattack → Special Ability. When a platform transition starts, the enemy gets a red circle — everyone must leave it within 2 seconds or <mark>Djinn's Gaze</mark> teleports them straight to Qadim."
       ]
     },
     {
       "heading": "Hydra phase",
       "bullets": [
-        "Applies debuffs via cone attacks, uses Flamebreath after 2 autoattacks, then gets a breakbar — break it before it leaps or the leap punishes hard."
+        "Applies debuffs via cone attacks, uses Flamebreath after 2 autoattacks, then gets a breakbar — break it before it leaps, or a punishing <mark>Riposte</mark> goes off if the bar isn't broken in time."
       ]
     },
     {
@@ -37,7 +37,7 @@
     {
       "heading": "Final phase (33% → 0%)",
       "bullets": [
-        "Platforms spin erratically as terrain evaporates. Two Pyres spawn — reach Qadim by jumping across or using portals."
+        "Platforms spin erratically as <mark>Meteor</mark> and <mark>Sea of Flame</mark> evaporate terrain underneath you. Two Pyres spawn — reach Qadim by jumping across or using portals."
       ]
     },
     {

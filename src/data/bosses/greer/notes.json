@@ -11,20 +11,21 @@
     {
       "heading": "Rot the World (breakbar window)",
       "bullets": [
-        "Greer channels spores and briefly opens his defiance bar — break it to stagger him and cut his Empowered stacks by 10-25%. Missing this window is the fight's biggest failure point."
+        "<mark>Rot the World</mark>: Greer channels spores and briefly opens his defiance bar — break it to stagger him and cut his Empowered stacks by 10-25%. Missing this window is the fight's biggest failure point."
       ]
     },
     {
       "heading": "Eruption of Rot",
       "bullets": [
-        "Stack on the marked green circle — enough players inside when the timer ends stabilizes it safely. Failing spawns damaging rot walls and buffs Greer, so this isn't optional."
+        "<mark>Eruption of Rot</mark> puts a stacking indicator on several players — stack on the marked green circle and enough players inside when the timer ends stabilizes it safely. Failing spawns damaging rot walls and buffs Greer, so this isn't optional."
       ]
     },
     {
       "heading": "Other hazards",
       "bullets": [
-        "<b>Blob of Blight</b>: a ranged projectile that leaves a stationary hazard where it lands — move away from your own splat.",
-        "<b>Cage of Decay</b>: cascading thorn walls that resolve into rotating rot cages with boon-corrupting pools — don't get boxed in.",
+        "<mark>Rain of Spores</mark>: a torrent of exploding spores fired along a line moving toward your starting position — move away from where you're standing rather than where the boss is.",
+        "<mark>Blob of Blight</mark>: a ranged projectile that leaves a stationary hazard where it lands — move away from your own splat.",
+        "<mark>Ripples of Rot</mark>: cascading thorn walls that ripple outward, resolving into <mark>Cage of Decay</mark> — rotating rot cages with boon-corrupting pools. Don't get boxed in.",
         "Spread out for individual mechanics, but be ready to regroup fast for the green-circle stacks."
       ]
     }

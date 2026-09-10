@@ -11,18 +11,18 @@
     {
       "heading": "Mechanics active the whole fight",
       "bullets": [
-        "<b>Blood Shield</b>: Matthias goes invulnerable and fires 20-25 projectiles — reflect at least 18 of them to strip the shield. Don't destroy or body-block them, they need to bounce back at him.",
+        "<mark>Blood Shield</mark>: Matthias goes invulnerable and fires <mark>Blood Shards</mark> at you — reflect at least 18 of the 20-25 shards to strip the shield. Don't destroy or body-block them, they need to bounce back at him.",
         "<b>Blood Sacrifice</b>: starting around 9:45 and repeating every 45s (until 40% health), a marked player must have their breakbar broken by the squad before they're sacrificed — they can't break it themselves.",
-        "<b>Shards of Rage</b>: Matthias leaps and fires shards — dodge, block, or invuln these, never reflect them. Reflecting buffs his damage 10% per shard, up to +250%.",
-        "<b>Corruption</b>: every 30s a random player stacks damage and needs to reach a clean fountain. A used fountain turns red and is unusable for 1:30, so don't all rely on the same one."
+        "<mark>Shards of Rage</mark>: Matthias leaps and fires a separate volley of projectiles — dodge, block, or invuln these, never reflect them. Reflecting stacks <mark>Blood Fueled</mark> on him, buffing his damage 10% per stack, up to +250%.",
+        "<mark>Corruption</mark>: every 30s a random player stacks damage and needs to reach a clean fountain. A used fountain turns red and is unusable for 1:30, so don't all rely on the same one."
       ]
     },
     {
       "heading": "Weather phases (100% → 40%)",
       "bullets": [
-        "<b>Snowstorm (100-80%)</b>: chill stacks build every 10s, icy patches spawn. Watch for <b>Oppressive Gaze</b> — a projectile dealing 50% of max HP if it hits.",
-        "<b>Heat Wave (80-60%)</b>: standing still stacks damage; flame tornadoes spawn. <b>Unstable Blood Magic</b> marks players (audio + green skull) to drop a damaging field away from the center and fountains.",
-        "<b>Downpour (60-40%)</b>: moving stacks a debuff, 10 stacks knocks you down. Watch for <b>Zealous Benediction</b> — 5 targeted players get expanding red circles that instantly down anyone caught overlapping."
+        "<mark>Snowstorm</mark> (100-80%): chill stacks build every 10s, icy patches spawn. Watch for <b>Oppressive Gaze</b> — a projectile dealing 50% of max HP if it hits.",
+        "<mark>Heat Wave</mark> (80-60%): standing still stacks damage; flame tornadoes spawn. <b>Unstable Blood Magic</b> marks players (audio + green skull) to drop a damaging field away from the center and fountains.",
+        "<mark>Downpour</mark> (60-40%): moving stacks a debuff, 10 stacks knocks you down. Watch for <b>Zealous Benediction</b> — 5 targeted players get expanding red circles that instantly down anyone caught overlapping."
       ]
     },
     {

@@ -16,9 +16,16 @@
       ]
     },
     {
-      "heading": "Hazards",
+      "heading": "Named attacks",
       "bullets": [
-        "The river itself ticks heavy damage on anyone standing in it (blockable/dodgeable) — falling off the river entirely is an instant kill, so watch your footing.",
+        "<mark>Soul Siphon</mark>: the river itself ticks heavy damage on anyone standing in it (blockable/dodgeable) — falling off the river entirely is an instant kill, so watch your footing.",
+        "<mark>Soul Wave</mark>: rips a hit player's soul from their body — reunite with it in time or it's a death.",
+        "<mark>Soulless Torrent</mark>: damages and stuns anyone caught nearby — don't clump when it's incoming."
+      ]
+    },
+    {
+      "heading": "Other hazards",
+      "bullets": [
         "<b>Hollowed Bombers</b> channel bombs that hit Desmina for 20% of her max health — interrupt or kill them before they finish.",
         "<b>Spectral Rifts</b> pull players toward them and need about 10 hits to deactivate.",
         "Around 25% progression, a <b>Spirit Horde</b> of small ghosts starts chasing and stacking damage. Around 33% progression, <b>Walls</b> knock players into a ghost state if they touch you.",

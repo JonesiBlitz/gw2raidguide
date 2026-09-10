@@ -11,10 +11,10 @@
     {
       "heading": "Samarog's attacks",
       "bullets": [
-        "<b>Shockwave</b>: a knockback wave from his spears — jump or dodge it. The tank can stand in his hitbox and dodge/jump backward on impact; some defensive skills prevent the knockback outright.",
-        "<b>Spear placement</b>: every 20s a red circle telegraphs a spear slam that hits hard on landing and leaves a damage-over-time hazard behind. Squads usually just cleave through spears while damaging the boss rather than dedicating time to destroying them (Challenge Mote: spears land every 5s in fixed patterns and can't be destroyed).",
-        "<b>Inevitable Betrayal</b>: every 25s two players are targeted — one gets a large orange circle, the other a small green one. They need to stack on each other or the orange-circle player takes heavy damage. Pull this pair away from the rest of the group so no one else eats the damage.",
-        "<b>Brutalize</b>: every 10% health, Samarog leaps onto the current tank, goes damage-immune, and gets a defiance bar — the rest of the squad needs to CC him to free the fixated player. Healing the fixated player buys more time to land the break. Fixation moves to the furthest player once it resolves."
+        "<mark>Bludgeon</mark> (commonly called \"Shockwave\"): an overhead spear slam with a knockback — jump or dodge it. The tank can stand in his hitbox and dodge/jump backward on impact; some defensive skills prevent the knockback outright.",
+        "<mark>Spear Impact</mark>: every 20s a red circle telegraphs a spear slam that hits hard on landing and leaves a damage-over-time hazard behind. Squads usually just cleave through spears while damaging the boss rather than dedicating time to destroying them (Challenge Mote: spears land every 5s in fixed patterns and can't be destroyed).",
+        "<mark>Inevitable Betrayal</mark>: every 25s two players are targeted — one gets a large orange circle, the other a small green one. They need to stack on each other or the orange-circle player takes heavy damage. Pull this pair away from the rest of the group so no one else eats the damage.",
+        "<mark>Brutalize</mark>: every 10% health, Samarog leaps onto the current tank, goes damage-immune, and gets a defiance bar — the rest of the squad needs to CC him to free the fixated player. Healing the fixated player buys more time to land the break. Fixation moves to the furthest player once it resolves."
       ]
     },
     {

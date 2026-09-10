@@ -11,27 +11,27 @@
     {
       "heading": "Displacement (red circles)",
       "bullets": [
-        "3 red circles spawn around the arena — standing in one when it detonates deals damage and teleports you to a random spot in the arena. Dangerous mainly because it can combine with a knockback from something else. Dodge out if you can, or use a mobility skill to escape and reposition back to the squad immediately."
+        "3 red circles spawn around the arena — <mark>Displacement</mark> teleports anyone standing in one to a random spot in the arena when it detonates, plus damage. Dangerous mainly because it can combine with a knockback from something else. Dodge out if you can, or use a mobility skill to escape and reposition back to the squad immediately."
       ]
     },
     {
       "heading": "Spatial Manipulation (green circles)",
       "bullets": [
-        "Green circles appear with gold orbs above them — each needs a minimum number of players matching its orb count to activate. Being outside an active circle when it detonates means heavy damage, 25 stacks of Unseen Burden, and a 2-second Float. Standing in one when it pops clears 25 Unseen Burden stacks instead.",
+        "Green circles appear with gold orbs above them — each needs a minimum number of players matching its orb count to activate. Being outside an active <mark>Spatial Manipulation</mark> circle when it detonates means heavy damage, 25 stacks of Unseen Burden, and a stun. Standing in one when it pops clears 25 Unseen Burden stacks instead.",
         "Circles that follow Energy Surge or Orbital Sweep don't have a player-count requirement."
       ]
     },
     {
       "heading": "Energy Surge & Gravity Wave",
       "bullets": [
-        "<b>Energy Surge</b>: Cairn teleports around the platform, leaving green circles and knocking back anyone in his path — watch the directional arrows at his feet and dodge or sidestep. He always follows this with Spatial Manipulation, so the sequence is predictable.",
-        "<b>Gravity Wave</b> (from 25% health, after Orbital Sweep): 3 waves of energy expand outward — staying stacked close to Cairn keeps you safe from it, so don't spread out during this one."
+        "<mark>Energy Surge</mark>: Cairn surges forward across the platform, damaging and knocking back anyone in his path — watch the directional arrows at his feet and dodge or sidestep. He always follows this with Spatial Manipulation, so the sequence is predictable.",
+        "<mark>Gravity Wave</mark> (from 25% health, after <mark>Orbital Sweep</mark>): a cascading wave of energy pushes everyone back — staying stacked close to Cairn keeps you safe from it, so don't spread out during this one."
       ]
     },
     {
       "heading": "Targeting & Enrage",
       "bullets": [
-        "Cairn targets the furthest player for attacks like Shared Agony and Meteor Swarm — plan positioning accordingly.",
+        "Cairn targets the furthest player for attacks like <mark>Shared Agony</mark> and <mark>Meteor Swarm</mark> — plan positioning accordingly. He also pulses <mark>Cosmic Aura</mark>, a passive damage tick to everyone fighting him.",
         "8:00 enrage — past this point Unseen Burden stacks can no longer be cleansed, so a slow group snowballs fast."
       ]
     }
