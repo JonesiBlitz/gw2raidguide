@@ -1,0 +1,29 @@
+{
+  "boss": "mursaat-overseer",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A tighter, more punishing follow-up to Cairn — pulsing group damage plus an add phase that buffs the boss if left alone."
+      ]
+    },
+    {
+      "heading": "Add phase",
+      "bullets": [
+        "Jade Soldiers spawn periodically — every one left alive gives the Overseer a stack of <b>Empowered</b> (+25% damage each). Kill them fast, don't let them pile up."
+      ]
+    },
+    {
+      "heading": "Breakbar & ground damage",
+      "bullets": [
+        "His defiance bar is segmented — breaking it stuns him and opens a damage window, so save burst for that.",
+        "<b>Punishment</b> pulses magic damage to everyone every 3 seconds throughout the fight — this is a steady healing/sustain check, not a one-off dodge.",
+        "The arena floor has claimed tiles that deal damage while you're standing on them — keep moving, don't plant on a bad tile."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Mursaat Overseer", "url": "https://wiki.guildwars2.com/wiki/Mursaat_Overseer" }
+  ]
+}

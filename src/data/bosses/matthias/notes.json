@@ -1,0 +1,38 @@
+{
+  "boss": "matthias",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Cycles through three weather effects while chipping away his health, then transforms into a harder Abomination form at 40%."
+      ]
+    },
+    {
+      "heading": "Weather phases",
+      "bullets": [
+        "<b>Snowstorm</b>: slows and chills — keep moving.",
+        "<b>Heat Wave</b>: punishes standing still with damage and periodic burning.",
+        "<b>Downpour</b>: pulsing group damage that stacks Unbalanced — don't let it stack too high.",
+        "Normal form cycles weather every 20% health lost; Abomination form (sub-40%) cycles every 30 seconds instead."
+      ]
+    },
+    {
+      "heading": "Sacrifice & corruption",
+      "bullets": [
+        "Every 45s a random player is marked to be <b>sacrificed</b> in 10 seconds — break the defiance bar in time or that player dies.",
+        "Matthias fires <b>Blood Shards</b> — reflect them back to strip his protective stacks.",
+        "<b>Corruption</b> builds up on players and must be cleansed at one of four arena fountains — each fountain has a 100s cooldown after use, so don't all pile on one."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "No enrage timer listed."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Matthias Gabrel", "url": "https://wiki.guildwars2.com/wiki/Matthias_Gabrel" }
+  ]
+}

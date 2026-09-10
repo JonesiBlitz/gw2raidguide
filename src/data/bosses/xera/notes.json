@@ -1,0 +1,36 @@
+{
+  "boss": "xera",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A ground phase followed by a platforming phase on floating shards, with an 11-minute enrage that doubles her damage — this is a real DPS check."
+      ]
+    },
+    {
+      "heading": "Defiance bar & shards",
+      "bullets": [
+        "Her defiance bar activates at 90% and roughly every 60 seconds after — break it or she summons more bloodstone fragments and takes 80% reduced damage while it's up.",
+        "Bloodstone shards spawn with shields that need clearing — don't ignore them, they build up."
+      ]
+    },
+    {
+      "heading": "Chaos stacks & adds",
+      "bullets": [
+        "Standing in the wrong place stacks <b>Bending/Shifting/Twisting Chaos</b> — at 10 stacks you're Overpowered, so don't let it build unchecked.",
+        "The <b>Intervention</b> buff protects against her deadliest attack — pay attention to when it's up.",
+        "She summons phantasms and soldiers throughout — clear them so they don't pile up during the platform phase."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "11:00 — Enraged state gives her +200% damage. Treat it as a hard DPS check."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Xera", "url": "https://wiki.guildwars2.com/wiki/Xera" }
+  ]
+}

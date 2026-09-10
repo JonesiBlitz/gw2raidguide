@@ -1,0 +1,36 @@
+{
+  "boss": "cardinal-adina",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "An earth-themed fight built around pillar management, with an 8-minute enrage."
+      ]
+    },
+    {
+      "heading": "Pillars",
+      "bullets": [
+        "Damaged pillars empower Adina: +20% of her outgoing damage and +20% damage reduction per stack — manage pillar damage deliberately rather than letting it happen incidentally.",
+        "<b>Tectonic Upheaval</b> raises a pillar that kills nearby players with its shockwave unless you jump over it."
+      ]
+    },
+    {
+      "heading": "Attacks",
+      "bullets": [
+        "Boulder barrages and stalagmites that can't be evaded or blocked — get out of the way rather than trying to defend through them.",
+        "<b>Diamond Palisade</b> (Radiant Blindness) blinds anyone not facing away from her when it goes off — turn around for it.",
+        "She targets the highest-toughness player — plan positioning/roles with that in mind."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "8:00 hard enrage."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Cardinal Adina", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Adina" }
+  ]
+}

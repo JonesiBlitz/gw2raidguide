@@ -1,0 +1,37 @@
+{
+  "boss": "twin-largos",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Fight Nikare and Kenut together, then split into two groups at 50% to burn each one down separately. Platform submerges in 2 minutes once that phase starts."
+      ]
+    },
+    {
+      "heading": "Split phase (50% → 25%)",
+      "bullets": [
+        "The squad divides onto Nikare's and Kenut's platforms and fights both simultaneously — each side can advance once their target hits 25%.",
+        "DPS the twins down evenly — an enraged twin (from being left too far behind) is dangerous, especially Nikare, whose Vapor Rush dash can one-shot most players.",
+        "Communicate defiance bar breaks across both groups, not just your own platform."
+      ]
+    },
+    {
+      "heading": "Kenut's platform hazards",
+      "bullets": [
+        "Three water tornadoes rotate clockwise around the arena — the tank should hold the boss center and step out (or channel a block) when a tornado sweeps through.",
+        "<b>Aquatic Barrage</b> spins up defiance bars that must be broken quickly to stop incoming water bolts — use projectile destruction where you have it."
+      ]
+    },
+    {
+      "heading": "Waterlogged",
+      "bullets": [
+        "Stacks build from water hazards and attacks — 10 stacks is instant death. Keep condition cleanses up and avoid unnecessary water exposure."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Twin Largos", "url": "https://wiki.guildwars2.com/wiki/Twin_Largos" },
+    { "label": "Hardstuck: Twin Largos", "url": "https://hardstuck.gg/gw2/guides/w6-mythwright-gambit/twin-largos/" }
+  ]
+}

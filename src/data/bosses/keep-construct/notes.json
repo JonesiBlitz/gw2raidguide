@@ -1,0 +1,41 @@
+{
+  "boss": "keep-construct",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A big single-target burn with two invulnerable orb-catching phases and a core-exposure damage phase in between."
+      ]
+    },
+    {
+      "heading": "Orb phases (66% / 33%)",
+      "bullets": [
+        "Keep Construct goes invulnerable while colored orbs (Xera's Energy) move toward it from the statues.",
+        "Match your attunement color to a statue and intercept its orb — letting orbs through stacks a damage buff on the boss, so don't miss yours."
+      ]
+    },
+    {
+      "heading": "Core phase",
+      "bullets": [
+        "Once <b>Xera's Embrace</b> is stripped, the breakbar opens up — break it to expose the core.",
+        "Clear the phantasms guarding the core, then pull the core through the rifts to stack vulnerability before burning it down."
+      ]
+    },
+    {
+      "heading": "Red circles (Xera's Fury)",
+      "bullets": [
+        "Expanding red circles spawn under each player — spread out so a filled circle only catches you, not the group."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "No enrage timer listed."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Keep Construct", "url": "https://wiki.guildwars2.com/wiki/Keep_Construct" }
+  ]
+}

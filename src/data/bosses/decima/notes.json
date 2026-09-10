@@ -1,0 +1,36 @@
+{
+  "boss": "decima",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Three phases (breaks at 75%/50%/25%) built around a beam attack that gets progressively worse, plus a charge mechanic that punishes carelessness."
+      ]
+    },
+    {
+      "heading": "Fluxlance beams",
+      "bullets": [
+        "Starts as single beams, becomes <b>Fusillade</b> (multiple sequential beams) at 75%, then <b>Salvo</b> (simultaneous beams) at 40% — the safe path through the beams gets narrower as the fight goes on.",
+        "Conduits struck by a beam gain charge — know where the conduits are so you're not accidentally feeding them."
+      ]
+    },
+    {
+      "heading": "Dancing Sparks & charge",
+      "bullets": [
+        "Charged conduits release sparks that drift toward Decima — stand in a spark's aura to slow it down.",
+        "If sparks reach her, she gains charge stacks. At 10 stacks she goes invulnerable and unleashes an unsurvivable <b>Flux Nova</b> — preventing that buildup matters most in Challenge Mote, but it's still worth managing on Normal."
+      ]
+    },
+    {
+      "heading": "Breakbar",
+      "bullets": [
+        "Defiance bar opens at 75% and 40% — breaking it applies <b>Fractured Armor</b>, making her vulnerable to a Flux Nova punish.",
+        "Ring-shaped ground AoEs (Earthrend, Seismic Crash) push you toward or away from Decima and the conduits — know which one is active before you reposition."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Decima, the Stormsinger", "url": "https://wiki.guildwars2.com/wiki/Decima,_the_Stormsinger" }
+  ]
+}

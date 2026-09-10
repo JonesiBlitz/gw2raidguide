@@ -1,0 +1,35 @@
+{
+  "boss": "qadim",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A multi-platform fire fight that recycles adds from earlier wing 6 encounters (Conjured Amalgamate, Twin Largos) alongside new hazards."
+      ]
+    },
+    {
+      "heading": "Platforms & positioning",
+      "bullets": [
+        "Qadim has a large hitbox and periodically teleports, leaving a meteor that destroys the platform he was on — don't be standing there when he leaves.",
+        "<b>Sea of Flame</b> sets a platform on fire, stripping boons and applying cripple/weakness — get off a burning platform.",
+        "If no one is on Qadim's current platform, <b>Djinn's Gaze</b> teleports him to the nearest one with a player — don't leave him unattended."
+      ]
+    },
+    {
+      "heading": "Lava Elementals & Fiery Surge",
+      "bullets": [
+        "When Qadim absorbs a Lava Elemental he gains a stack of <b>Fiery Surge</b> — each stack is +20% damage and +2% attack speed, so don't let these adds sit around."
+      ]
+    },
+    {
+      "heading": "Champion adds",
+      "bullets": [
+        "Expect to face the Conjured Amalgamate, the largos twins Kenut and Nikare, an Ancient Invoked Hydra, and an Apocalypse Bringer across the fight — treat each with the same care as their standalone encounters."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Qadim", "url": "https://wiki.guildwars2.com/wiki/Qadim" }
+  ]
+}

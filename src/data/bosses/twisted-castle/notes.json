@@ -1,0 +1,29 @@
+{
+  "boss": "twisted-castle",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A maze traverse, not a fight — navigate the shifting castle to reach Xera while managing a stacking madness effect."
+      ]
+    },
+    {
+      "heading": "Madness stacks",
+      "bullets": [
+        "Everyone gains <b>Madness</b> stacks over time (1 every 3s) — and it doubles to 2 every 3s if you're looking at the giant rotating statue in the center of the castle. Don't stare at it.",
+        "At 99 stacks you die, no exceptions — use the fountains scattered around the castle to cleanse 10 stacks at a time, or drink from one to pause the buildup briefly."
+      ]
+    },
+    {
+      "heading": "Haunting Statues",
+      "bullets": [
+        "These chase anyone who isn't looking at them. You can knock, pull, or push them, but you can't damage them — use that to redirect them, not to fight them.",
+        "Follow your commander's callouts through the portals and fake floors — it's a scripted path, not something to improvise."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Twisted Castle", "url": "https://wiki.guildwars2.com/wiki/Twisted_Castle" }
+  ]
+}

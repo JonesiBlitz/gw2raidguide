@@ -1,0 +1,30 @@
+{
+  "boss": "statues-of-grenth",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Three separate statue-restoration events, completable in any order. Finishing all three spawns a chest and opens the path to Dhuum."
+      ]
+    },
+    {
+      "heading": "The three statues",
+      "bullets": [
+        "<b>Statue of Ice</b> — fight the Broken King under a strict 3:30 time limit.",
+        "<b>Statue of Death & Resurrection</b> — collect spirit energy; a progress-tracked event, not a burst check.",
+        "<b>Statue of Darkness</b> — grab a light orb, then defeat two bosses: Eye of Judgment and Eye of Fate."
+      ]
+    },
+    {
+      "heading": "Hazards",
+      "bullets": [
+        "Expect Eaters of Souls, Light Thieves, Minotaurs, Twisted Spirits, and Spirit Hordes spawning throughout — these aren't just flavor, they can overwhelm an unprepared squad.",
+        "If going for the 5-minute achievement across all three, split the squad efficiently up front rather than finishing one before starting the next."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Statues of Grenth", "url": "https://wiki.guildwars2.com/wiki/Statues_of_Grenth" }
+  ]
+}

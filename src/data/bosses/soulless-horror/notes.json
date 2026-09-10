@@ -1,0 +1,35 @@
+{
+  "boss": "soulless-horror",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A shrinking-arena fight with a hard-fail breakbar attack — no enrage listed, but a missed breakbar can wipe the squad outright."
+      ]
+    },
+    {
+      "heading": "Howling Death (breakbar)",
+      "bullets": [
+        "If the defiance bar isn't broken within 6.75 seconds of this attack, the target flees in terror and it's a squad wipe. This is the one mechanic that must never be missed."
+      ]
+    },
+    {
+      "heading": "Shrinking platform",
+      "bullets": [
+        "The arena shrinks at 90%, 66%, and 33% health — anyone standing near the edge when it shrinks falls and dies. Move toward the center as those thresholds approach."
+      ]
+    },
+    {
+      "heading": "Adds & attacks",
+      "bullets": [
+        "Tormented Dead spawn at the center after the first wall (past 90%) — killing them leaves Volatile Souls that drop damaging Soul Rift puddles, so don't kill them in a stack.",
+        "Two players get fixated via Issue Challenge — know who's holding it.",
+        "Watch for Surging Souls (moving death lines), Spinning Scythes (boon corrupt), and Slice (a frontal cone that spawns skeletal fingers)."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Soulless Horror", "url": "https://wiki.guildwars2.com/wiki/Soulless_Horror" }
+  ]
+}

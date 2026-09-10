@@ -1,0 +1,29 @@
+{
+  "boss": "escort",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Escort Scholar Glenna through the stronghold, capturing 5 towers along the way. No time limit — it fails if Glenna dies or the squad wipes."
+      ]
+    },
+    {
+      "heading": "Protecting Glenna",
+      "bullets": [
+        "Glenna has <b>Surveilled</b> stacks that drain when no one's near her — at zero stacks, 5 White Mantle Seekers spawn and can burst her down fast. Stay with her.",
+        "After each tower capture, two <b>Warg Bloodhounds</b> spawn (one at the entrance, one further up the path) and beeline straight for Glenna — they can kill her in 1-2 hits if unchecked. Float is the reliable hard CC on them.",
+        "The path has scattered mines: white ones are safe to target, red ones detonate — watch your footing."
+      ]
+    },
+    {
+      "heading": "Tower captures",
+      "bullets": [
+        "5 towers need capturing — you need more players in the capture zone than defending enemies, so don't spread the whole squad too thin at once."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Escort", "url": "https://wiki.guildwars2.com/wiki/Escort" }
+  ]
+}

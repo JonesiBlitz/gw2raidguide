@@ -5,7 +5,23 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Tank-and-spank with two split phases (66% and 33%) where three colored guardians spawn and must all die to bring Vale Guardian back."
+        "Tank-and-spank with two split phases (66% and 33%) where the same three colored guardians from the pre-fight trash show up together. Platform layout is randomized every pull, so this one needs live callouts, not memorized positions."
+      ]
+    },
+    {
+      "heading": "Before the pull — trash guardians",
+      "bullets": [
+        "Before Vale Guardian itself, the squad clears 3 trash mobs — Red, Blue, and Green — one at a time. These are the exact same guardians that reappear together during the split phases, just isolated, so treat this as a practice run.",
+        "Their platform layout is randomized each time you enter or pull — don't assume it matches the last attempt. The commander will call positions fresh every time."
+      ]
+    },
+    {
+      "heading": "The three guardians",
+      "bullets": [
+        "<b>Red</b> — spawns Seekers, orbs that constantly home in on whoever's fighting him. Only takes condition damage. During this trash/practice phase everyone can pitch in a bit (power DPS does far less here) — power players should spend that time pushing Seekers off the condi players rather than trying to out-damage Red.",
+        "<b>Blue</b> — spawns the green stack circles: get the required number of players standing in one before it closes, or the group takes heavy damage. Takes damage from either type, but is usually fought with power since condi is reserved for Red.",
+        "<b>Green</b> — spawns blue teleport circles. Same damage rules as Blue — either type works, typically power-focused.",
+        "None of the three die from damage alone — bring each to 1% health, then break its defiance bar to finish it off."
       ]
     },
     {
@@ -17,12 +33,13 @@
       ]
     },
     {
-      "heading": "Split Phase (66% / 33%)",
+      "heading": "Split phase strategy (66% / 33%)",
       "bullets": [
-        "Vale Guardian goes invulnerable; <b>Red</b>, <b>Green</b>, and <b>Blue</b> guardians spawn on their own pillars.",
-        "Split into 3 groups, one per color, and aim to kill all three at roughly the same time.",
-        "Stay on your color's platform — stepping off deals heavy ongoing damage.",
-        "Red spawns adds, Green drops teleport circles, Blue applies a boon that needs to be stripped."
+        "Red's condi group solos him on his own platform — remember, only condition damage works on Red.",
+        "Unlike the trash practice, the condi group doesn't have power players helping with Seekers this time — they're on their own for both damage and pushing, so call priority if Seekers start stacking up.",
+        "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways.",
+        "Same rule as the trash mobs: bring each guardian to 1%, then break its defiance bar to finish it.",
+        "Stay on your assigned platform — stepping off deals heavy ongoing damage."
       ]
     },
     {

@@ -1,0 +1,22 @@
+{
+  "boss": "river-of-souls",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A scripted crossing event between Soulless Horror and the Statues of Grenth. We haven't verified detailed pathing/callouts for this one yet — follow your commander's lead for now."
+      ]
+    },
+    {
+      "heading": "What we know",
+      "bullets": [
+        "Named attacks in this encounter are <b>Soul Siphon</b>, <b>Soul Wave</b>, and <b>Soulless Torrent</b> — expect AoE waves to dodge while the squad advances.",
+        "Treat this as a positioning/movement check rather than a burst-damage check."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: River of Souls", "url": "https://wiki.guildwars2.com/wiki/River_of_Souls" }
+  ]
+}

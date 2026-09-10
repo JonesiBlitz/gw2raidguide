@@ -1,0 +1,34 @@
+{
+  "boss": "qadim-the-peerless",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Wing 7's capstone fight, built around defending pylons from Qadim the Peerless and his adds. One of the harder DPS/coordination checks in the raid roster."
+      ]
+    },
+    {
+      "heading": "Pylons & breakbar",
+      "bullets": [
+        "Qadim the Peerless repeatedly tries to capture pylons — breaking his defiance bar triggers <b>Havoc Break</b>, stunning him and stopping the capture attempt.",
+        "<b>Entropic Distortion</b> adds can also charge at pylons — stopping them (the \"Power Surge\" achievement condition) is worth tracking even outside of achievement runs, since a captured pylon hurts the squad."
+      ]
+    },
+    {
+      "heading": "Chaos damage",
+      "bullets": [
+        "Multiple attacks apply chaos-based damage and effects like Chaos Corrosion, including persistent damage fields — don't stand in lingering chaos zones."
+      ]
+    },
+    {
+      "heading": "Notes",
+      "bullets": [
+        "We haven't pinned down a full elemental phase breakdown or enrage timer for this one yet — treat it as a coordination-heavy fight and lean on your commander's callouts until this page gets a fuller pass."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Qadim the Peerless", "url": "https://wiki.guildwars2.com/wiki/Qadim_the_Peerless" }
+  ]
+}

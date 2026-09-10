@@ -1,0 +1,37 @@
+{
+  "boss": "samarog",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Tank-and-spank with two add phases (66% / 33%) and a group-wide coordination check. Enrage grants Samarog a 500% damage buff — treat any enrage as a wipe."
+      ]
+    },
+    {
+      "heading": "Samarog's attacks",
+      "bullets": [
+        "<b>Shockwave</b>: an expanding knockback from both spears — dodge or jump it, it can't be blocked.",
+        "<b>Spear placement</b>: spears planted around the arena apply taunt or fear — being caught in the placement's blast does roughly 80% of your max HP, so don't stand near a spear when it lands.",
+        "<b>Inevitable Betrayal</b>: two players need to overlap their green circles before the orange circle fills, or everyone nearby takes heavy damage.",
+        "<b>Brutalize</b>: Samarog pins a target and channels damage on them — break his defiance bar fast to cut it short before it ramps up."
+      ]
+    },
+    {
+      "heading": "Add phases (66% / 33%)",
+      "bullets": [
+        "Two adds spawn — Guldhem (jotun) and Rigom (human). CC and kill priority matters here; don't let both run loose while ignoring mechanics on Samarog.",
+        "Keep the group tight but not stacked — the spear/shockwave mechanics punish clumping just as much as being spread wrong."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "No fixed timer listed, but the enrage buff (+500% damage) is an effective hard wall — a slow group should call it and reset rather than push through."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Samarog", "url": "https://wiki.guildwars2.com/wiki/Samarog" }
+  ]
+}

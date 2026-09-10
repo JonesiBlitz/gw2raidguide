@@ -1,0 +1,23 @@
+{
+  "boss": "spirit-woods",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A timed escape, not a fight — outrun a ghostly mob through the woods and light the brazier at the far end. Hard fail if it takes longer than 2 minutes."
+      ]
+    },
+    {
+      "heading": "What to do",
+      "bullets": [
+        "Someone carries the spectral torch the whole way — don't drop it, and don't let the carrier die.",
+        "Keep moving. Getting <b>crippled</b> is the main way squads fall behind the mob and fail the timer.",
+        "Angered spirits are scattered through the woods — avoid fighting them, just keep running."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Spirit Woods", "url": "https://wiki.guildwars2.com/wiki/Spirit_Woods" }
+  ]
+}

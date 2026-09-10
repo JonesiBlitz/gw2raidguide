@@ -1,0 +1,37 @@
+{
+  "boss": "ura",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Mount Balrior's capstone fight — a defiance bar that reopens every 5% health, and a geyser-management problem that snowballs if ignored."
+      ]
+    },
+    {
+      "heading": "Rising Pressure & breakbar",
+      "bullets": [
+        "Ura maintains <b>Rising Pressure</b>, a stacking buff that increases her damage and reduces damage taken as the fight goes on — breaking her defiance bar (which unlocks every 5% health) stuns her and strips it. Don't fall behind on breaks.",
+        "Standing in Sulfuric Geysers grants her stacking Protection/Might/Resolution — destroy or avoid geysers rather than letting them sit."
+      ]
+    },
+    {
+      "heading": "Key attacks",
+      "bullets": [
+        "<b>Eruption Vent</b>: targeted geysers that burn — don't stand in the impact zone.",
+        "<b>Pressure Blast</b>: imprisons a target in an eruption — clear it with a bloodstone shard.",
+        "<b>Return</b>: a whirlpool that pulls players in and teleports them to the arena center — be ready for the sudden reposition.",
+        "<b>Steam Prison</b>: reflects projectiles and blocks escape — don't rely on ranged burst or movement skills to get out of it."
+      ]
+    },
+    {
+      "heading": "Adds",
+      "bullets": [
+        "Titanspawn spawn alongside the geysers — manage both at once rather than tunnel-visioning on the boss."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Ura, the Steamshrieker", "url": "https://wiki.guildwars2.com/wiki/Ura,_the_Steamshrieker" }
+  ]
+}

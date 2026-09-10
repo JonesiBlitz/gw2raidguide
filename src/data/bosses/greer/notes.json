@@ -1,0 +1,35 @@
+{
+  "boss": "greer",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "GW2's newest raid boss (Mount Balrior, added Nov 2024). Defiance bar only opens during specific windows at 75%/25% — miss it and the arena fills with hazards."
+      ]
+    },
+    {
+      "heading": "Rot the World (breakbar window)",
+      "bullets": [
+        "Greer channels spores and briefly opens his defiance bar — break it to stagger him and cut his Empowered stacks by 10-25%. Missing this window is the fight's biggest failure point."
+      ]
+    },
+    {
+      "heading": "Eruption of Rot",
+      "bullets": [
+        "Stack on the marked green circle — enough players inside when the timer ends stabilizes it safely. Failing spawns damaging rot walls and buffs Greer, so this isn't optional."
+      ]
+    },
+    {
+      "heading": "Other hazards",
+      "bullets": [
+        "<b>Blob of Blight</b>: a ranged projectile that leaves a stationary hazard where it lands — move away from your own splat.",
+        "<b>Cage of Decay</b>: cascading thorn walls that resolve into rotating rot cages with boon-corrupting pools — don't get boxed in.",
+        "Spread out for individual mechanics, but be ready to regroup fast for the green-circle stacks."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Greer, the Blightbringer", "url": "https://wiki.guildwars2.com/wiki/Greer,_the_Blightbringer" }
+  ]
+}

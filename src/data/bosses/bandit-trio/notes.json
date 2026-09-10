@@ -1,0 +1,29 @@
+{
+  "boss": "bandit-trio",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Protect the caged prisoners while fighting three bandit champions — Berg, Zane, and Narella — each with their own health pool. 9-minute cage timer."
+      ]
+    },
+    {
+      "heading": "What to watch",
+      "bullets": [
+        "The cage must survive the whole encounter — zero civilian casualties is the real win condition, not just killing the bosses.",
+        "Waves of regular bandits spawn throughout — don't let them reach the cage unchecked.",
+        "The arena has usable hazards (bombs, oil kegs, a beehive) — optional, but worth knowing they're there if the squad is undergeared for a clean kill."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "9:00 cage timer — treat it as the hard wall for this encounter."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Bandit Trio (Prison Camp)", "url": "https://wiki.guildwars2.com/wiki/Bandit_Trio" }
+  ]
+}

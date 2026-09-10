@@ -1,0 +1,36 @@
+{
+  "boss": "cairn",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "No enrage timer — this one's about not getting teleported out of position or caught by the group-wide spike."
+      ]
+    },
+    {
+      "heading": "Displacement",
+      "bullets": [
+        "Cairn drops 3 red circles close together — after a short delay they teleport anyone standing in them to a random edge of the arena. Don't clump on them.",
+        "During <b>Energy Surge</b>, standing between his teleport points deals damage and knocks you back hard — stay clear of that lane."
+      ]
+    },
+    {
+      "heading": "Green circle spike",
+      "bullets": [
+        "<b>Spatial Manipulation</b> needs the required number of players standing in the green circle before time runs out — missing it stacks Unseen Burden and deals heavy damage to everyone outside."
+      ]
+    },
+    {
+      "heading": "Targeting & hazards",
+      "bullets": [
+        "Cairn targets whoever is farthest from him — keep that in mind for positioning.",
+        "<b>Gravity Wave</b> sends out 3 cascading waves of damage from the center — watch your spacing during it.",
+        "His defiance bar is segmented and locked for most of the fight, so CC is limited — don't expect to break it early."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Cairn the Indomitable", "url": "https://wiki.guildwars2.com/wiki/Cairn_the_Indomitable" }
+  ]
+}

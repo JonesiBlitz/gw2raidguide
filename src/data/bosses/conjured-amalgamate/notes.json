@@ -1,0 +1,37 @@
+{
+  "boss": "conjured-amalgamate",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A 3-phase loop (arm slams → orb collection → burn) that repeats until the boss is dead. Needs two dedicated orb collectors."
+      ]
+    },
+    {
+      "heading": "Positioning & arm slams",
+      "bullets": [
+        "The squad stacks on the middle two of four platform tiles — the commander calls which tile to defend (commonly the right) when the boss slams.",
+        "Dodge or use a defensive cooldown on the slam — getting caught means a knockdown."
+      ]
+    },
+    {
+      "heading": "Orb collection",
+      "bullets": [
+        "One player collects <b>sword</b> bubbles: grab 4, then use the special action key on the 5th, and repeat — save the final 5 for the next hand phase.",
+        "The other collects <b>shield</b> bubbles and saves them rather than using them immediately — they're needed to survive the 50% health check.",
+        "When adds spawn off an arm slam, pull them together. Killing them leaves corpses to run through: <b>Conjured Slash</b> (from swords) applies a 50% damage debuff to the boss, <b>Conjured Protection</b> (from shields) prevents squad deaths."
+      ]
+    },
+    {
+      "heading": "50% check",
+      "bullets": [
+        "At 50% health, <b>Thunderhead Clap</b> downs the whole squad — counter it with saved shield bubbles or defensive cooldowns, or it's a wipe."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Conjured Amalgamate", "url": "https://wiki.guildwars2.com/wiki/Conjured_Amalgamate" },
+    { "label": "Hardstuck: Conjured Amalgamate", "url": "https://hardstuck.gg/gw2/guides/w6-mythwright-gambit/conjured-amalgamate/" }
+  ]
+}

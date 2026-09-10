@@ -1,0 +1,41 @@
+{
+  "boss": "cardinal-sabir",
+  "hasChallengeMote": true,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "A storm-themed fight that relocates the squad twice (80% and 60% health) and punishes standing still. 9-minute enrage."
+      ]
+    },
+    {
+      "heading": "Unbridled Tempest",
+      "bullets": [
+        "An expanding wave of lightning that deals lethal damage — get above it on a tornado, teleport past it, or use invulnerability. You cannot outrun it on foot."
+      ]
+    },
+    {
+      "heading": "Tornadoes",
+      "bullets": [
+        "Regular tornadoes can be ridden to escape Unbridled Tempest, but touching one while affected by Violent Currents triggers <b>Shocking Barrage</b> (strips stacks, sends out damaging waves) — know your stacks before you touch one.",
+        "A separate red <b>Titanic Twister</b> deals massive damage on contact — don't confuse it for a safe tornado."
+      ]
+    },
+    {
+      "heading": "Breakbar",
+      "bullets": [
+        "15,000 total defiance bar — breaking it triggers <b>Bolt Break</b>, an unavoidable lightning strike on everyone, so time your breaks with your healing/defensives up.",
+        "She targets the highest-toughness player, same as Adina."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "9:00 hard enrage."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Cardinal Sabir", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Sabir" }
+  ]
+}
