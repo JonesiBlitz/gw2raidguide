@@ -1,0 +1,37 @@
+{
+  "boss": "sabetha",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Four phases split by health (100 → 75 → 50 → 25 → 0%). Sabetha stays rooted in place the whole fight, but each phase adds a new turret to manage."
+      ]
+    },
+    {
+      "heading": "Sabetha's attacks",
+      "bullets": [
+        "<b>Flame Wall</b>: a wall of fire spawns on a random player and rotates around the arena — move with the rotation, don't get boxed in against the edge.",
+        "<b>Time Bomb</b>: tags the closest player, explodes in 3s — walk away from the group immediately, and stay clear of a downed ally carrying one.",
+        "<b>Flak Shot</b>: hits the furthest player and leaves a burning tar field — don't stand in it.",
+        "Below 25%: <b>Platform Crush</b> adds falling debris (dark orange circles) on top of everything else — watch your feet."
+      ]
+    },
+    {
+      "heading": "Turret phases",
+      "bullets": [
+        "Kernan, then Knuckles, then Karde each spawn as the fight progresses — call kill priority and burn them fast so they don't stack up on the squad."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "9:00 — damage scales up hard past that point. Treat it as a hard wall, not a soft target."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Sabetha the Saboteur", "url": "https://wiki.guildwars2.com/wiki/Sabetha_the_Saboteur" },
+    { "label": "Hardstuck: Raid Guides", "url": "https://hardstuck.gg/gw2/guides/raids/" }
+  ]
+}

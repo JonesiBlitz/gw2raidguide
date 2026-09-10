@@ -1,0 +1,86 @@
+[
+  {
+    "id": "spirit-vale",
+    "name": "Spirit Vale",
+    "released": "2015-11-17",
+    "bosses": [
+      { "slug": "vale-guardian", "name": "Vale Guardian" },
+      { "slug": "spirit-woods", "name": "Spirit Woods", "type": "event" },
+      { "slug": "gorseval", "name": "Gorseval the Multifarious" },
+      { "slug": "sabetha", "name": "Sabetha the Saboteur" }
+    ]
+  },
+  {
+    "id": "salvation-pass",
+    "name": "Salvation Pass",
+    "released": "2016-03-08",
+    "bosses": [
+      { "slug": "slothasor", "name": "Slothasor" },
+      { "slug": "bandit-trio", "name": "Bandit Trio" },
+      { "slug": "matthias", "name": "Matthias Gabrel" }
+    ]
+  },
+  {
+    "id": "stronghold-of-the-faithful",
+    "name": "Stronghold of the Faithful",
+    "released": "2016-06-14",
+    "bosses": [
+      { "slug": "escort", "name": "Escort", "type": "event" },
+      { "slug": "keep-construct", "name": "Keep Construct" },
+      { "slug": "twisted-castle", "name": "Twisted Castle", "type": "event" },
+      { "slug": "xera", "name": "Xera" }
+    ]
+  },
+  {
+    "id": "bastion-of-the-penitent",
+    "name": "Bastion of the Penitent",
+    "released": "2017-02-08",
+    "bosses": [
+      { "slug": "cairn", "name": "Cairn the Indomitable" },
+      { "slug": "mursaat-overseer", "name": "Mursaat Overseer" },
+      { "slug": "samarog", "name": "Samarog" },
+      { "slug": "deimos", "name": "Deimos" }
+    ]
+  },
+  {
+    "id": "hall-of-chains",
+    "name": "Hall of Chains",
+    "released": "2017-11-28",
+    "bosses": [
+      { "slug": "soulless-horror", "name": "Soulless Horror" },
+      { "slug": "river-of-souls", "name": "River of Souls", "type": "event" },
+      { "slug": "statues-of-grenth", "name": "Statues of Grenth", "type": "event" },
+      { "slug": "dhuum", "name": "Dhuum" }
+    ]
+  },
+  {
+    "id": "mythwright-gambit",
+    "name": "Mythwright Gambit",
+    "released": "2018-09-18",
+    "bosses": [
+      { "slug": "conjured-amalgamate", "name": "Conjured Amalgamate" },
+      { "slug": "twin-largos", "name": "Twin Largos" },
+      { "slug": "qadim", "name": "Qadim" }
+    ]
+  },
+  {
+    "id": "the-key-of-ahdashim",
+    "name": "The Key of Ahdashim",
+    "released": "2019-06-11",
+    "bosses": [
+      { "slug": "cardinal-adina", "name": "Cardinal Adina" },
+      { "slug": "cardinal-sabir", "name": "Cardinal Sabir" },
+      { "slug": "qadim-the-peerless", "name": "Qadim the Peerless" }
+    ]
+  },
+  {
+    "id": "mount-balrior",
+    "name": "Mount Balrior",
+    "released": "2024-11-19",
+    "bosses": [
+      { "slug": "greer", "name": "Greer, the Blightbringer" },
+      { "slug": "decima", "name": "Decima, the Stormsinger" },
+      { "slug": "ura", "name": "Ura, the Steamshrieker" }
+    ]
+  }
+]

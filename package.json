@@ -1,0 +1,9 @@
+{
+  "name": "gw2-raid-guide",
+  "private": true,
+  "description": "Static GW2 raid guide (the app itself has no dependencies or build step — see README). Quick commander notes per boss, plus team comp/builds later.",
+  "scripts": {
+    "gen:dates": "node scripts/gen-last-updated.mjs",
+    "serve": "npx --yes serve src"
+  }
+}

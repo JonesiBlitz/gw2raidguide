@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+
+# Generated at build/deploy time by scripts/gen-last-updated.mjs — regenerated
+# fresh from git history on every deploy, so it isn't committed.
+src/data/last-updated.json

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GW2 Raid Guide</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    // Applied before first paint so there's no flash of the wrong theme.
+    try {
+      var t = localStorage.getItem('gw2-raid-guide-theme');
+      if (t === 'dark' || t === 'light') document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  </script>
+</head>
+<body>
+
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand-row">
+        <a class="brand" href="./">
+          <h1>Raid Compass</h1>
+          <span>GW2 raid guide — placeholder name</span>
+        </a>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light / dark mode">
+          <span class="knob">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="4"/>
+              <line x1="12" y1="2" x2="12" y2="4"/>
+              <line x1="12" y1="20" x2="12" y2="22"/>
+              <line x1="4" y1="12" x2="2" y2="12"/>
+              <line x1="22" y1="12" x2="20" y2="12"/>
+              <line x1="5" y1="5" x2="3.5" y2="3.5"/>
+              <line x1="19" y1="19" x2="20.5" y2="20.5"/>
+              <line x1="5" y1="19" x2="3.5" y2="20.5"/>
+              <line x1="19" y1="5" x2="20.5" y2="3.5"/>
+            </svg>
+          </span>
+        </button>
+      </div>
+      <nav id="sidebar-wings" aria-label="Raid wings"></nav>
+    </aside>
+
+    <main class="main">
+      <div>
+        <div class="page-title">Pick a boss to get started</div>
+        <p class="page-lede">Every boss page has two views: quick mechanic notes for calling the fight, and the recommended team comp &amp; builds. Switch between them with one click — the wing/boss list on the left never goes away.</p>
+      </div>
+
+      <div class="intro-cards">
+        <div class="intro-card">
+          <h3>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/></svg>
+            Quick Notes
+          </h3>
+          <p>Bullet-point mechanics, phase by phase. No wiki paragraphs to dig through — photos step in where a picture explains it faster than words.</p>
+        </div>
+        <div class="intro-card">
+          <h3>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z"/></svg>
+            Builds &amp; Team Comp
+          </h3>
+          <p>The recommended 10-player comp for each fight, role by role — coming soon, starting with a placeholder on every boss page for now.</p>
+        </div>
+      </div>
+
+      <div>
+        <div style="font-size:0.85rem; color:var(--muted); margin-bottom:0.6rem;">Jump straight to a wing</div>
+        <div id="wing-chips" class="chip-row">Loading…</div>
+      </div>
+    </main>
+  </div>
+
+  <footer>
+    This is an unofficial fan tool and is not affiliated with ArenaNet or NCSoft.<br>
+    Game data and assets are provided via the <a href="https://wiki.guildwars2.com/wiki/API:Main" target="_blank" rel="noopener">Guild Wars 2 API</a>.<br>
+    &copy; ArenaNet, LLC. Guild Wars 2 and all associated content and assets are the property of ArenaNet, LLC.
+  </footer>
+
+  <script type="module" src="app-home.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "boss": "vale-guardian",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "Tank-and-spank with two split phases (66% and 33%) where three colored guardians spawn and must all die to bring Vale Guardian back."
+      ]
+    },
+    {
+      "heading": "Phase — Vale Guardian",
+      "bullets": [
+        "<b>Magic Storm</b>: gives the boss a breakbar — break it to shut the attack down.",
+        "<b>Green circle</b> appears on the ground — get at least 4 players standing in it before it closes, or the group takes heavy damage.",
+        "Tank stays in melee range facing the boss away from the group; keep steady pressure between splits."
+      ]
+    },
+    {
+      "heading": "Split Phase (66% / 33%)",
+      "bullets": [
+        "Vale Guardian goes invulnerable; <b>Red</b>, <b>Green</b>, and <b>Blue</b> guardians spawn on their own pillars.",
+        "Split into 3 groups, one per color, and aim to kill all three at roughly the same time.",
+        "Stay on your color's platform — stepping off deals heavy ongoing damage.",
+        "Red spawns adds, Green drops teleport circles, Blue applies a boon that needs to be stripped."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "No hard enrage — a slow group usually loses to a split-phase mistake before running out of time. Keep splits clean and fast."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Vale Guardian", "url": "https://wiki.guildwars2.com/wiki/Vale_Guardian" },
+    { "label": "Hardstuck: Raid Guides", "url": "https://hardstuck.gg/gw2/guides/raids/" }
+  ]
+}

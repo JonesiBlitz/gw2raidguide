@@ -1,0 +1,32 @@
+{
+  "boss": "gorseval",
+  "hasChallengeMote": false,
+  "sections": [
+    {
+      "heading": "Overview",
+      "bullets": [
+        "No invulnerable split phase — Gorseval is a straight burn with a hard 7-minute enrage and a signature glide-or-burst mechanic."
+      ]
+    },
+    {
+      "heading": "Key mechanics",
+      "bullets": [
+        "<b>Spectral Darkness</b>: orbs spawn and leave expanding damage fields — pop them for a cleanse orb if you're stacking the debuff.",
+        "<b>World Eater</b> (~66%, ~33%, ~0%): a slow cast that kills the whole squad if it finishes. Either burst Gorseval down first, or glide clear using the 4 updrafts.",
+        "Updrafts vanish ~15s after someone stands near one — don't burn them early, you'll need them for the next World Eater.",
+        "<b>Ghastly Rampage</b>: ground circles that detonate after 3s and stack heavy vulnerability — breaking the defiance bar cuts this short.",
+        "Melee swings target the highest-toughness player in the squad — don't stack toughness on DPS."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "7:00 hard enrage."
+      ]
+    }
+  ],
+  "sources": [
+    { "label": "GW2 Wiki: Gorseval the Multifarious", "url": "https://wiki.guildwars2.com/wiki/Gorseval_the_Multifarious" },
+    { "label": "Hardstuck: Raid Guides", "url": "https://hardstuck.gg/gw2/guides/raids/" }
+  ]
+}
