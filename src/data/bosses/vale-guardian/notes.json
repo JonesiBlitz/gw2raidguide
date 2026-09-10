@@ -5,7 +5,7 @@
     {
       "heading": "Overview",
       "bullets": [
-        "The same three skills — <b>Spawn Seekers</b>, <b>Distributed Magic</b>, <b>Unstable Magic Spike</b> — show up three separate times: as isolated pre-event trash, as Vale Guardian's own attacks in phase 1, and again as paired-down minis during the two split phases. Learn them once in the trash and the rest of the fight is just repetition."
+        "The same three skills — <mark>Spawn Seekers</mark>, <mark>Distributed Magic</mark>, <mark>Unstable Magic Spike</mark> — show up three separate times: as isolated pre-event trash, as Vale Guardian's own attacks in phase 1, and again as paired-down minis during the two split phases. Learn them once in the trash and the rest of the fight is just repetition."
       ]
     },
     {
@@ -18,17 +18,17 @@
     {
       "heading": "The three guardians",
       "bullets": [
-        "<b>Red</b> — casts <b>Spawn Seekers</b>, summoning orbs (commonly just called Seekers) that constantly home in on whoever's fighting him. Extremely high toughness, so condition damage is what actually gets through. During this trash/practice phase, power players should help push Seekers off the condi group while still throwing out what damage they can — it'll just be slower going against Red than it is on Blue or Green, given his toughness.",
-        "<b>Blue</b> — casts <b>Distributed Magic</b>, the green stack circle: get the required number of players standing in it before it closes, or the group takes heavy damage. Blue also carries <b>Blue Pylon Power</b>, a boon that blocks damage until it's stripped — clear the boon first or your hits do nothing.",
-        "<b>Green</b> — casts <b>Unstable Magic Spike</b>, dropping blue circles that teleport anyone caught in the impact. Takes normal damage, no boon-strip needed — typically power-focused since condi is reserved for Red.",
-        "All three also use <b>Magic Aura</b>, a passive pulse that damages anyone nearby every 3 seconds — nothing to react to beyond standard positioning, just don't ignore it as free damage.",
+        "<b>Red</b> — casts <mark>Spawn Seekers</mark>, summoning orbs (commonly just called Seekers) that constantly home in on whoever's fighting him. Extremely high toughness, so condition damage is what actually gets through. During this trash/practice phase, power players should help push Seekers off the condi group while still throwing out what damage they can — it'll just be slower going against Red than it is on Blue or Green, given his toughness.",
+        "<b>Blue</b> — casts <mark>Distributed Magic</mark>, the green stack circle: get the required number of players standing in it before it closes, or the group takes heavy damage. Blue also carries <mark>Blue Pylon Power</mark>, a boon that blocks damage until it's stripped — clear the boon first or your hits do nothing.",
+        "<b>Green</b> — casts <mark>Unstable Magic Spike</mark>, dropping blue circles that teleport anyone caught in the impact. Takes normal damage, no boon-strip needed — typically power-focused since condi is reserved for Red.",
+        "All three also use <mark>Magic Aura</mark>, a passive pulse that damages anyone nearby every 3 seconds — nothing to react to beyond standard positioning, just don't ignore it as free damage.",
         "None of the three die from damage alone — bring each to 1% health, then break its defiance bar to finish it off."
       ]
     },
     {
       "heading": "Phase — Vale Guardian (100% – 66%)",
       "bullets": [
-        "Vale Guardian uses the same three skills himself here, not just his guardians: <b>Spawn Seekers</b> (homing orbs), <b>Unstable Magic Spike</b> (blue teleport circles — get out of them), and <b>Distributed Magic</b> (green stack circle, needs 4+ players or the group takes heavy damage). Plus <b>Magic Storm</b>, which opens a breakbar — break it to shut the attack down.",
+        "Vale Guardian uses the same three skills himself here, not just his guardians: <mark>Spawn Seekers</mark> (homing orbs), <mark>Unstable Magic Spike</mark> (blue teleport circles — get out of them), and <mark>Distributed Magic</mark> (green stack circle, needs 4+ players or the group takes heavy damage). Plus <mark>Magic Storm</mark>, which opens a breakbar — break it to shut the attack down.",
         "Tank holds him at the edge of the arena rather than the center — gives more room to deal with Seekers and the teleport circles without getting boxed in."
       ]
     },
@@ -37,9 +37,9 @@
       "bullets": [
         "Red's condi group solos him on his own platform — remember, only condition damage really works on Red.",
         "Unlike the trash practice, the condi group doesn't have power players helping with Seekers this time — they're on their own for both damage and pushing, so call priority if Seekers start stacking up.",
-        "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways. Strip Blue Pylon Power before expecting damage to land.",
-        "You're attuned to whichever platform you're standing on — leaving your color's zone triggers <b>Unstable Pylon</b> and deals heavy damage, so don't wander over to help another group.",
-        "Vale Guardian also starts using <b>Bullet Storm</b> during these split phases — slow-moving white projectiles that hurt on hit. They're slow enough to just walk or dodge around.",
+        "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways. Strip <mark>Blue Pylon Power</mark> before expecting damage to land.",
+        "You're attuned to whichever platform you're standing on — leaving your color's zone triggers <mark>Unstable Pylon</mark> and deals heavy damage, so don't wander over to help another group.",
+        "Vale Guardian also starts using <mark>Bullet Storm</mark> during these split phases — slow-moving white projectiles that hurt on hit. They're slow enough to just walk or dodge around.",
         "Same rule as the trash mobs: bring each guardian to 1%, then break its defiance bar to finish it — and expect it to go faster than the pre-event version."
       ]
     },

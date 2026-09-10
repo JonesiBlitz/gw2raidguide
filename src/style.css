@@ -255,6 +255,16 @@ html[data-theme="dark"] .theme-toggle .knob { left: 21px; }
 .note-section { display: flex; gap: 1.25rem; align-items: flex-start; }
 .note-section ul { list-style: disc; padding-left: 1.1rem; font-size: 0.85rem; line-height: 1.7; }
 .note-section ul li b { color: var(--accent); }
+
+/* Named boss skills specifically (not general bolded callouts) */
+.note-section ul li mark {
+  background: var(--accent-tint);
+  color: var(--accent);
+  font-style: italic;
+  text-decoration: underline;
+  padding: 0.04em 0.32em;
+  border-radius: 3px;
+}
 .note-figure {
   flex-shrink: 0;
   width: 200px;
