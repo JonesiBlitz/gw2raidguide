@@ -12,7 +12,8 @@
       "heading": "Statue of Ice — Broken King",
       "bullets": [
         "Capture green ice orbs (one spawns per 2% of the boss's health lost) while damaging him — an uncaught orb detonates for massive squad damage.",
-        "Capturing 4 orbs freezes you (Frozen Wind) for a 10-second lockdown with continuous damage — stacks expire after 45s, so don't chain captures carelessly.",
+        "Capturing an orb grants a stack of Frozen Wind (expires after 45s) — at 3 stacks, capturing another orb triggers Glaciate: frozen for 10 seconds with continuous damage. Healing can save a Glaciated player, and it resets their stacks.",
+        "Spread orb-catching across multiple players rather than one hero-carrying it — if squad DPS is too high, orbs can spawn faster than one person can grab them, and an uncaught orb is a wipe risk.",
         "Ice cracks from his staff slams send out damaging pulses — watch your footing.",
         "Hard 3:30 enrage. Aim for ~75k squad DPS; below ~60k risks the enrage outright."
       ]

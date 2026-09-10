@@ -5,33 +5,39 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Two boss phases split by a gliding intermission at 50%, with an 11-minute enrage that pushes her damage +200% — a real DPS check on top of the mechanics."
+        "This is a multi-stage puzzle fight, not just a boss with attacks — an opening platform puzzle, two \"human phase\" burns, a mid-fight gliding intermission, and two split-squad puzzle phases late. 11-minute enrage. Needs Glider Basics and Ley Line Gliding — worth watching a video alongside these notes the first few times, especially for the puzzle layouts.",
+        "Requires 2 squads (east/west, then again for the 40%/20% splits) — this isn't a fight you can run with a loosely-coordinated pug and no plan."
       ]
     },
     {
-      "heading": "Defiance bar & Bloodstone Fragments",
+      "heading": "Opening platform puzzle",
       "bullets": [
-        "Her defiance bar opens at 90% health and resets every 60 seconds — break it fast, since it otherwise gives her 80% reduced incoming damage and speeds up <mark>Bloodstone Fragment</mark> spawns.",
-        "Fragments spawn every 10 seconds around the arena — they damage players and stack <mark>Derangement</mark>, but if Xera herself stands in one, she deals double damage and her conditions convert to boons. Destroy fragments deliberately to create safe space; DPS should focus the two shards nearest their marked position."
+        "The squad splits east/west. Each side needs to break a dome shielding a Bloodstone Fragment — either by pushing 3 Exquisite Conjunctions through Unstable Rifts (avoid the roaming orange AoEs, and don't push one off the platform edge or into an AoE or it's lost and has to respawn), or by having 3 players hold pressure pads simultaneously.",
+        "Pressure pads stack a debuff — rotate off around 9 stacks or it deals 100% max health damage. Xera's Ribbons also creep onto the platforms after 30-60s and inflict a very high-damage Void Zone, so don't dawdle."
       ]
     },
     {
-      "heading": "Derangement (chaos stacks)",
+      "heading": "Human phase (main arena)",
       "bullets": [
-        "Builds from environmental damage — 90 stacks causes a 5-second Fear, and 99 stacks is an instant kill. Players with Forsaken Magic mastery can destroy shards to cleanse stacks, but good positioning to avoid stacking in the first place matters more."
+        "Xera fights alongside White Mantle soldiers and illusions here. <mark>Blurred Frenzy</mark> stacks heavy Confusion — respect it.",
+        "Bloodstone Fragments spawn in sequence around the arena; standing near one stacks Derangement, but if Xera stands in one herself she gets <b>Bloodstone Blessed</b> (double damage, conditions convert to boons) — the tank should keep her away from forming fragments rather than tanking in place.",
+        "A red blurry AoE covers half the platform roughly every 30 seconds — standing in it lifts you after a delay for heavy damage and 25 Derangement stacks.",
+        "From 90% health, Xera gets a defiance bar roughly every 60 seconds — while it's up she takes 80% reduced damage and the fragments spawn faster, so break it quickly rather than continuing to DPS through it.",
+        "At 75% health, one random player gets the <b>Intervention</b> skill — a barrier appears 10 seconds after the prompt and blocks a squad-wide insta-kill blast. Time it right, don't pop it early."
       ]
     },
     {
-      "heading": "Intervention",
+      "heading": "Platform rotation (50%)",
       "bullets": [
-        "At 75% (phase 1) and 35%/15%/10% (phase 2), phantasms channel an insta-kill blast. One random player gets the <mark>Intervention</mark> skill — wait until the phantasms channel back, then pop the barrier to shield the squad rather than using it immediately."
+        "The squad glides between 6 surrounding platforms via ley lines, each shielding a Bloodstone Fragment behind a dome. Watch for daze effects that can knock you out of your glide near an edge, and wall obstructions that need routing around."
       ]
     },
     {
-      "heading": "Adds & platform intermission",
+      "heading": "Second human phase + split puzzles",
       "bullets": [
-        "Regular adds spawn throughout both phases — they can be stunned and cleaved fast; pull skills help stack them under the boss.",
-        "At 50% health, the squad glides clockwise through Ley Lines, destroying bloodstone shards on each platform. Exploding orange circles spawn everywhere (damage + Derangement) — keep pace, since lagging risks platforms wrapping in damaging ribbons."
+        "Same mechanics as the first human phase, but fragments now spawn counterclockwise and the half-platform AoE cooldown drops to 25 seconds — tighter margins.",
+        "At 40% health, 5 players get teleported to a floating tower and have 2 minutes to complete a core-pushing puzzle while the rest of the squad holds the main platform against the remaining soldiers/illusions. One portal lets a single player (usually the healer) return early.",
+        "At 20% health, the remaining players get teleported to a pressure-plate puzzle. Returning players get a shield that blocks damage from spawning back in, but not from projectiles — don't assume you're safe the instant you land."
       ]
     },
     {
@@ -43,6 +49,7 @@
   ],
   "sources": [
     { "label": "GW2 Wiki: Xera", "url": "https://wiki.guildwars2.com/wiki/Xera" },
+    { "label": "GW2 Wiki: Stronghold of the Faithful", "url": "https://wiki.guildwars2.com/wiki/Stronghold_of_the_Faithful" },
     { "label": "Hardstuck: Xera", "url": "https://hardstuck.gg/gw2/guides/w3-stronghold-of-the-faithful/xera/" }
   ]
 }

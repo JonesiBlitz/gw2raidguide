@@ -26,10 +26,11 @@
     {
       "heading": "Other hazards",
       "bullets": [
-        "<b>Hollowed Bombers</b> channel bombs that hit Desmina for 20% of her max health — interrupt or kill them before they finish.",
+        "<b>Hollowed Bombers</b> channel bombs that hit Desmina for 20% of her max health — they have a defiance bar, and breaking it cancels the explosion outright rather than just interrupting it.",
         "<b>Spectral Rifts</b> pull players toward them and need about 10 hits to deactivate.",
         "Around 25% progression, a <b>Spirit Horde</b> of small ghosts starts chasing and stacking damage. Around 33% progression, <b>Walls</b> knock players into a ghost state if they touch you.",
-        "<b>Time Bombs</b> spawn on escort players — walk away from the group before they go off."
+        "<b>Time Bombs</b> spawn on escort players — walk away from the group before they go off.",
+        "Players get one extra life — the first death turns you into a spirit that needs 5 purple orbs to revive, rather than an outright death. Don't play around it recklessly, but it's not a hard fail the first time either."
       ]
     }
   ],

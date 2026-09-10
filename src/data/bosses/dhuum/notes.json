@@ -5,7 +5,15 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Wing 5's capstone fight — built around protecting friendly Reaper allies (that carry the squad's real damage) while managing Dhuum's own kill mechanics. Two-stage enrage."
+        "Wing 5's capstone fight — built around protecting friendly Reaper allies (that carry the squad's real damage) while managing Dhuum's own kill mechanics, on top of a pre-phase where the Reapers get swarmed before he even leaves his throne. Two-stage enrage."
+      ]
+    },
+    {
+      "heading": "Pre-phase (before ~8:00)",
+      "bullets": [
+        "Enforcers spawn in the four corners in clockwise order from orbs traveling out of the throne, and hit the Reapers hard — catching those orbs in the air prevents the spawn in the first place.",
+        "Messengers spawn on a similar timer; small Deathling spiders also go after the Reapers but die easily. The Reapers have a x100 incoming-healing modifier during this window, so healing them is far more efficient than it looks.",
+        "<b>Arcing Affliction</b> (bombs): starting at 9:00, one player is tagged every 90 seconds — either wait out the 13-second timer and it detonates near allies, or use the special action key to pop it deliberately. The tag passes to the next non-debuffed player 3 seconds later."
       ]
     },
     {
@@ -13,15 +21,16 @@
       "bullets": [
         "Every 30 seconds Dhuum reaches for a friendly Reaper, telegraphed by a large green circle — a player must stand in it or the Reaper dies.",
         "Standing in it lifts you skyward, where you have 15 seconds to catch 5 red orbs to come back down safely.",
-        "This rotates across 3 players (commonly called G1/G2/G3) — you cannot take two Greens in a row without dying, so know your rotation."
+        "This rotates across 3+ players (commonly called G1/G2/G3) — a Fractured Spirit buff prevents you from taking two Greens in a row, so know your rotation."
       ]
     },
     {
       "heading": "Death Mark & Soul Shackle",
       "bullets": [
-        "<mark>Death Mark</mark>: Dhuum slams his scythe down on a random player with a large orange circle — anyone caught has their soul ripped out and must sprint back to their pillar of light within 10 seconds or die. <mark>Greater Death Mark</mark> is the same idea but also pulls targets toward him first.",
-        "<mark>Soul Shackle</mark> (from 60%): the two non-tank players closest to Dhuum get tethered together (yellow border, red tether) — 4 seconds later the shackle activates and deals heavy damage unless you've already run in opposite directions to separate.",
-        "<mark>Cataclysmic Cycle</mark>: pulls the squad toward him — anyone who can't escape gets consumed. Dodge or displace out rather than trying to walk against the pull."
+        "<mark>Death Mark</mark>: Dhuum slams his scythe down on a random player with a large orange circle — anyone caught has their soul ripped out and must sprint back to their pillar of light within 10 seconds or die. <mark>Greater Death Mark</mark> is the same idea but also pulls targets toward him first, applies torment, and strips boons.",
+        "<mark>Soul Shackle</mark> (from 60%): the two non-tank players closest to Dhuum get tethered together (yellow border, red tether) — 4 seconds later the shackle activates and deals heavy damage unless you've already run in opposite directions to separate. Greater Death Mark also breaks an active shackle.",
+        "<mark>Cataclysmic Cycle</mark>: pulls the squad toward him — anyone who can't escape gets consumed. Dodge or displace out rather than trying to walk against the pull.",
+        "Face Dhuum with your back to a wall when he reappears for Death Mark / Greater Death Mark — it reduces how far the knockback throws you."
       ]
     },
     {
@@ -31,14 +40,23 @@
       ]
     },
     {
+      "heading": "The 10% phase",
+      "bullets": [
+        "Once Dhuum hits 10%, the timer resets to the hard 1:45 window. He lifts the whole squad to the ceiling and soul-splits everyone — each player needs to collect 5 orbs in 30 seconds to come back down.",
+        "After landing, the squad starts in a protective bubble at the center — spread out to the 7 Reaper Seals and interact with them. All 7 need to be activated within 10 seconds of the first one, so this needs to be called and executed as a group, not trickled in.",
+        "That opens a 20-second window to damage Dhuum before he goes invulnerable again — the cycle (lift → orbs → seals → burst) repeats until he's dead or the 1:45 runs out, which is a wipe."
+      ]
+    },
+    {
       "heading": "Enrage",
       "bullets": [
-        "10:00 soft enrage from 100%→10% (Dhuum's damage jumps +500%), then a hard 1:45 window from 10%→0% that wipes the squad outright if missed."
+        "10:00 soft enrage from 100%→10% (Dhuum's damage jumps +500%), then a hard 1:45 window from 10%→0% (see above) that wipes the squad outright if it expires."
       ]
     }
   ],
   "sources": [
     { "label": "GW2 Wiki: Dhuum", "url": "https://wiki.guildwars2.com/wiki/Dhuum" },
+    { "label": "GW2 Wiki: Hall of Chains", "url": "https://wiki.guildwars2.com/wiki/Hall_of_Chains" },
     { "label": "Hardstuck: Dhuum", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/dhuum/" }
   ]
 }

@@ -5,7 +5,7 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A big single-target burn split by two invulnerable orb-catching phases and a core-exposure damage window. 10-minute enrage."
+        "A big single-target burn split by two invulnerable orb-catching phases and a core-exposure damage window. Targets the highest-toughness player. 10-minute enrage."
       ]
     },
     {
@@ -13,14 +13,15 @@
       "bullets": [
         "Keep Construct goes invulnerable and channels <mark>Magic Blast</mark> — everyone gets a red or white marker, and matching colored energy balls move toward the boss.",
         "Block the balls matching your own marker — spread by color and stay in your section rather than crossing the arena to help another color.",
-        "Every ball that connects stacks Magic Blast Intensity, which scales the eventual explosion — 15+ stacks gets dangerous, 20+ risks a wipe, so don't let them slip through."
+        "Every ball that connects stacks Magic Blast Intensity, which scales the eventual explosion — 15+ stacks gets dangerous, 20+ risks a wipe, so don't let them slip through.",
+        "The phase runs about 38 seconds — pace your orb-blocking for the duration rather than sprinting and burning out partway through."
       ]
     },
     {
       "heading": "Breakbar & core phase",
       "bullets": [
         "Kill the Projections near the boss to strip 2 stacks of vulnerability, which opens his defiance bar — break it fast to trigger the Exposed Core Phase.",
-        "Three green circles spawn needing at least 2 players each.",
+        "Three green circles spawn needing at least 2 players each, and at least 5 players total holding circles — falling short sends the construct back to center and kills everyone, so this isn't a phase to under-staff.",
         "A pink Construct Core appears with 5 Ley Rifts around the arena edge — a designated player (usually support) pushes the core through rifts. Each rift it passes through stacks a debuff for the next burn phase, worth +75% incoming damage per stack — aim for 3-5 rifts depending on squad damage."
       ]
     },

@@ -9,19 +9,26 @@
       ]
     },
     {
+      "heading": "The three pillars",
+      "bullets": [
+        "Three pillars around the arena grant special action skills: <b>Dispel</b> (strips orange shields, including off Jade Scouts), <b>Claim</b> (converts an enemy tile back to safe), and <b>Protect</b> (a 5-second invulnerability bubble, 180-second cooldown).",
+        "The Protect bubble is the only way to survive the spike-floor mechanic below — someone needs to hold it in reserve rather than using it early.",
+        "Mursaat Overseer fixates on whoever is currently holding the Claim skill, which affects positioning more than you'd expect."
+      ]
+    },
+    {
       "heading": "Jade Scouts & Soldiers",
       "bullets": [
         "Jade Scouts walk across the board — if they reach the far side, they become mobile Jade Soldiers that fixate on whoever holds Protect.",
-        "Soldiers flip safe tiles into <mark>Enemy Tile</mark> as they travel and pulse an aura that damages players, applies conditions, and empowers the boss (more aura damage, more damage from enemy-claimed tiles). Cleave Scouts down before they convert — letting multiple Soldiers stack up makes the fight noticeably worse."
+        "Soldiers flip safe tiles into <mark>Enemy Tile</mark> as they travel and pulse an aura that damages players, applies conditions, and empowers the boss (more aura damage, more damage from enemy-claimed tiles). Dispel their shield and cleave them down before they convert — letting multiple Soldiers stack up makes the fight noticeably worse."
       ]
     },
     {
       "heading": "The tiles",
       "bullets": [
-        "<mark>Enemy Tile</mark>: heavy ticking damage plus the Claimed condition — don't stand on one.",
-        "Green tiles turn blue-green, then spawn spikes that instantly kill anyone standing there after a 5-second delay — get off before the spikes trigger.",
-        "Tiles cycle on a 10-second loop — track the pattern rather than reacting late.",
-        "(Challenge Mote only: blue tiles require you to stand in them or die instantly — opposite of the normal rule.)"
+        "<mark>Enemy Tile</mark>: roughly 3,500 damage per second plus the Claimed condition — don't stand on one. Use Claim to convert it back when you can.",
+        "Green tiles turn blue-green, then spawn spikes that instantly kill anyone standing there — the only way to survive standing on one is the Protect bubble, so get off before it triggers if you don't have it up.",
+        "Spike/tile changes follow a set pattern rather than being random — track it instead of reacting late."
       ]
     },
     {
@@ -33,12 +40,13 @@
     {
       "heading": "Enrage",
       "bullets": [
-        "6:00 — past this point players can no longer claim tiles, which snowballs the floor hazards fast."
+        "6:00 — past this point players can no longer use Claim, which snowballs the floor hazards fast."
       ]
     }
   ],
   "sources": [
     { "label": "GW2 Wiki: Mursaat Overseer", "url": "https://wiki.guildwars2.com/wiki/Mursaat_Overseer" },
+    { "label": "GW2 Wiki: Bastion of the Penitent", "url": "https://wiki.guildwars2.com/wiki/Bastion_of_the_Penitent" },
     { "label": "Hardstuck: Mursaat Overseer", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/mursaat-overseer/" }
   ]
 }

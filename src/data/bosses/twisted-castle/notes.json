@@ -11,8 +11,9 @@
     {
       "heading": "Madness stacks",
       "bullets": [
-        "Everyone gains <b>Madness</b> stacks over time (1 every 3s) — and it doubles to 2 every 3s if you're looking at the giant rotating statue in the center. Don't stare at it.",
-        "Every 10 stacks brings a new effect, and at 99 you die with no exceptions. Fountains scattered through the castle cleanse 10 stacks at a time (\"dip your hands\") — prefer that over \"drink the water,\" which only pauses the buildup instead of removing it."
+        "Everyone gains <b>Madness</b> stacks steadily just from being in the castle, building faster while you're looking at the giant rotating statue in the center — don't stare at it.",
+        "Effects escalate in steps: 10/20 stacks cripple you (longer each time), 30 stacks deals heavy damage if you're facing the spire, 40/70 stacks apply Torment, 60 stacks deals even heavier damage if facing the spire, 80/90 stacks apply Fear, and 99 stacks is an instant kill with no exceptions.",
+        "Fountains scattered through the castle cleanse 10 stacks at a time (\"dip your hands\") — prefer that over \"drink the water,\" which only pauses the buildup instead of removing it."
       ]
     },
     {
@@ -27,7 +28,10 @@
         "Clear the starter platform, take the left portal down a damaging staircase, then the southwest portal to a U-shaped platform with mobs.",
         "Dodge off the U-shaped platform onto the lower archway — stay at full health before this jump, it's punishing.",
         "Hit buttons 3 and 4, then head left past statues and White Mantle enemies, jump the rocky sections, and climb the staircases to the final door.",
-        "White Mantle enemies here knock back and knock down — watch your footing near platform edges."
+        "White Mantle enemies here knock back and knock down — watch your footing near platform edges.",
+        "Pink one-way teleport gates take priority over player-placed portals, and only activate once every enemy on that platform is cleared — don't rely on a Mesmer portal to skip past a gate that hasn't opened yet.",
+        "There are 7 door-button pairs scattered through the castle; the final door only needs 5 of them activated, so don't feel obligated to find every single one.",
+        "Some floor panels are fake (a subtle distortion effect) and drop you to your death — look before you jump on an unfamiliar section."
       ]
     }
   ],

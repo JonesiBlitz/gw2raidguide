@@ -29,7 +29,8 @@
       "heading": "Abomination phase (40% → 0%)",
       "bullets": [
         "Weather now cycles through all three every 30 seconds instead of by health threshold, and every mechanic above returns except Sacrifice — with changes: Spread hits everyone (not just 5), and shards fire across the room instead of from center.",
-        "New: <b>Spirits</b> add — they can be blocked but not dodged, so sidestep their path instead."
+        "New: <b>Spirits</b> add — they can be blocked but not dodged, so sidestep their path instead. Below 20% health, two spirits spawn at once instead of one.",
+        "Matthias has no fixed target here — he just moves toward whoever's furthest away, so positioning matters more than usual."
       ]
     },
     {

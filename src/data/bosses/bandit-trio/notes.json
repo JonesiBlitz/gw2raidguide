@@ -32,11 +32,18 @@
       ]
     },
     {
+      "heading": "Bandit Saboteurs",
+      "bullets": [
+        "Stealthed adds (only visible with the right mastery) that run for the cage and plant a bomb — if it isn't interrupted within 10 seconds, it deals 55% of the cage's health. This is a bigger threat than it looks; someone needs to be watching for them at all times, not just reacting to the three main bosses."
+      ]
+    },
+    {
       "heading": "Common failure points",
       "bullets": [
-        "The cage going down from an unblocked Berg smash or Zane cone shot.",
+        "The cage going down from an unblocked Berg smash, Zane cone shot, or an uninterrupted Saboteur bomb.",
         "Missing breakbar interrupts on the Saboteur adds.",
-        "Running out of DPS time — a slow squad sees extra Saboteurs spawn near the end."
+        "Running out of DPS time — a slow squad sees extra Saboteurs spawn near the end.",
+        "9:00 enrage defeats the whole squad outright, not just a damage buff — there's no surviving past it."
       ]
     }
   ],

@@ -5,7 +5,16 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A platform fight with edges you can fall off, an escalating oil-management problem, and a support NPC (Saul) whose ward is a hard requirement past 75%. 12-minute enrage."
+        "A platform fight with edges you can fall off, layered with a second \"demonic realm\" storyline: Saul D'Alessio is a prisoner being tormented by demonic copies of himself, and each health threshold introduces a new copy with its own puzzle. 12-minute enrage."
+      ]
+    },
+    {
+      "heading": "Opening & Saul's copies",
+      "bullets": [
+        "At the start, Greed and Pride images walk toward Saul — break 4 demonic chains to free him. Only a few players (commonly 3) typically go into these demonic-realm phases; the rest hold the main platform.",
+        "<b>Thief</b> copy (~75%): tries to steal boons — break its defiance bar to stop it.",
+        "<b>Gambler</b> copy (~50%): summons 3 clones — identify the real one by weapon (a specific staff = real, a specific treasured bough = fake) rather than guessing. Greed and Pride reappear here too and explode on Saul for real damage if not handled.",
+        "<b>Drunkard</b> copy (~25%): teleports squad members around if its defiance bar isn't broken quickly — sometimes straight into an oil field, so don't let it sit."
       ]
     },
     {
@@ -25,7 +34,7 @@
     {
       "heading": "Mind Crush & Saul's ward",
       "bullets": [
-        "Roughly every 40 seconds, <mark>Mind Crush</mark> targets everyone on the platform — it can't be evaded or blocked. After a 5-second channel, anyone hit is instantly downed.",
+        "From around 90% health, <mark>Mind Crush</mark> targets everyone on the platform roughly every 40 seconds — it can't be evaded or blocked. After a 5-second channel, anyone hit is instantly downed.",
         "Saul drops a protective dome at the center that blocks it — get inside. Outside the dome (even with defensives up) still takes 70% max HP over 10 seconds.",
         "During the oil phase, tank Deimos away from center rather than on top of it — oils target whoever's closest to Deimos besides the tank, and keeping the boss off-center keeps Saul's ward accessible to everyone else."
       ]
@@ -34,19 +43,27 @@
       "heading": "Rapid Decay (oils, from 60%)",
       "bullets": [
         "<mark>Rapid Decay</mark> drops oil fields on the closest non-tank player to Deimos, telegraphed by orange circles that expand over 30 seconds and grow further with each player hit — new ones spawn every 15 seconds. A fully expanded oil is generally a wipe, so pop it or move the fight before that happens.",
-        "<mark>Soul Feast</mark> creates additional deadly zones around the room that periodically get consumed — treat these with the same caution as the oils.",
-        "At 25%, Drunkard Saul shows up — break his bar quickly, or he'll randomly teleport players, sometimes straight into an oil."
+        "<mark>Soul Feast</mark> creates additional deadly zones around the room that periodically get consumed — treat these with the same caution as the oils."
       ]
     },
     {
-      "heading": "Enrage",
+      "heading": "Final phase (from ~10%)",
       "bullets": [
+        "Deimos goes invulnerable and transforms into a structure — Annihilate and Mind Crush stop, but hands and oil circles keep spawning.",
+        "He alternates single-hand slams with a double-hand slam, each knocking back unless mitigated with Stability or Aegis. Keep clearing hands and oils through this phase rather than assuming it's a breather."
+      ]
+    },
+    {
+      "heading": "Targeting & Enrage",
+      "bullets": [
+        "Deimos fixates the highest-toughness player; the demonic copies target players by other traits (precision, etc.) depending on which copy is active.",
         "12:00 — Deimos deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
     { "label": "GW2 Wiki: Deimos", "url": "https://wiki.guildwars2.com/wiki/Deimos" },
+    { "label": "GW2 Wiki: Bastion of the Penitent", "url": "https://wiki.guildwars2.com/wiki/Bastion_of_the_Penitent" },
     { "label": "Hardstuck: Deimos", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/deimos/" }
   ]
 }
