@@ -38,6 +38,14 @@
       ]
     },
     {
+      "heading": "Golden Slubling (optional)",
+      "bullets": [
+        "A golden mushroom spawns center-arena at the start of the fight and despawns if no one eats it within the first 30 seconds — a player must already be transformed (via a normal Imbued Mushroom) to eat it.",
+        "Eating it swaps your transformation for the <b>Golden Slubling</b> bundle instead — it grants Slippery Slubling for 30 seconds and has to be thrown to another player before it expires, or it drops. This is purely for the optional \"Slippery Slubling\" achievement, not required to kill the boss.",
+        "Worth knowing either way: grabbing it ends your normal Slubling transformation without clearing any poison, so that player isn't available for mushroom duty during that window."
+      ]
+    },
+    {
       "heading": "Enrage",
       "bullets": [
         "7:00 — Imbued Mushrooms stop spawning and Slothasor deals +200% damage."

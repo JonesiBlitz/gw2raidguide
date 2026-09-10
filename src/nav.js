@@ -69,3 +69,34 @@ export async function renderSidebar(currentBossSlug) {
     container.appendChild(group);
   }
 }
+
+/**
+ * Wires up the mobile hamburger button to slide the sidebar in/out as an
+ * off-canvas drawer. No-op if the mobile topbar isn't on the page (it's
+ * hidden by CSS above the mobile breakpoint anyway, but skipping the
+ * listeners entirely is cheap and avoids null-ref surprises).
+ */
+export function initMobileNav() {
+  const toggle = document.getElementById('nav-toggle');
+  const sidebar = document.getElementById('app-sidebar');
+  const backdrop = document.getElementById('nav-backdrop');
+  if (!toggle || !sidebar || !backdrop) return;
+
+  function closeNav() {
+    sidebar.classList.remove('open');
+    backdrop.classList.remove('open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+
+  function openNav() {
+    sidebar.classList.add('open');
+    backdrop.classList.add('open');
+    toggle.setAttribute('aria-expanded', 'true');
+  }
+
+  toggle.addEventListener('click', () => {
+    if (sidebar.classList.contains('open')) closeNav();
+    else openNav();
+  });
+  backdrop.addEventListener('click', closeNav);
+}

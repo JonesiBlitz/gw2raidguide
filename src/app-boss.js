@@ -1,7 +1,8 @@
-import { renderSidebar, loadWings } from './nav.js';
+import { renderSidebar, loadWings, initMobileNav } from './nav.js';
 import { initThemeToggle } from './theme.js';
 
 initThemeToggle(document.getElementById('theme-toggle'));
+initMobileNav();
 
 const params = new URLSearchParams(location.search);
 const slug = params.get('boss');

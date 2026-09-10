@@ -1,8 +1,9 @@
-import { renderSidebar, loadWings } from './nav.js';
+import { renderSidebar, loadWings, initMobileNav } from './nav.js';
 import { initThemeToggle } from './theme.js';
 
 renderSidebar(null);
 initThemeToggle(document.getElementById('theme-toggle'));
+initMobileNav();
 
 const chipRow = document.getElementById('wing-chips');
 if (chipRow) {
