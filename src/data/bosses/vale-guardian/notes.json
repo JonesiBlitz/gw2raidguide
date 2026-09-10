@@ -39,13 +39,13 @@
         "Unlike the trash practice, the condi group doesn't have power players helping with Seekers this time — they're on their own for both damage and pushing, so call priority if Seekers start stacking up.",
         "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways. Strip <mark>Blue Pylon Power</mark> before expecting damage to land.",
         "You're attuned to whichever platform you're standing on — leaving your color's zone triggers <mark>Unstable Pylon</mark> and deals heavy damage, so don't wander over to help another group.",
-        "Vale Guardian also starts using <mark>Bullet Storm</mark> during these split phases — slow-moving white projectiles that hurt on hit. They're slow enough to just walk or dodge around.",
         "Same rule as the trash mobs: bring each guardian to 1%, then break its defiance bar to finish it — and expect it to go faster than the pre-event version."
       ]
     },
     {
-      "heading": "Arena hazards after each split",
+      "heading": "Phase 2 & 3 (after each split)",
       "bullets": [
+        "Once the guardians are dead and Vale Guardian is back, he starts using <mark>Bullet Storm</mark> — he plants himself and won't move while casting it, and it opens a breakbar. CC him to shut it down rather than trying to dodge through it.",
         "Phase 2 (66% → 33%): one arena section lights up and rotates roughly every 20 seconds — get off it before it activates.",
         "Phase 3 (33% → 0%): two sections light up and rotate simultaneously — tank in particular needs to keep chasing a safe edge, and the whole squad has less safe floor to work with."
       ]
