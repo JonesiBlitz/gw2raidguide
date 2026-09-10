@@ -5,28 +5,39 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Fight Nikare and Kenut together, then split into two groups at 50% to burn each one down separately. Platform submerges in 2 minutes once that phase starts."
+        "Fight Nikare, then Kenut, then split into two full subgroups (tank/heal/boons each) to finish both together. A 10-stack Waterlogged debuff is an instant kill throughout, so condition cleanse and healing matter the whole fight."
+      ]
+    },
+    {
+      "heading": "Nikare (100% → 50%)",
+      "bullets": [
+        "<b>Aquatic Detainment</b> (every 23s): a sword slash drops a small orange circle under everyone — brief float + damage.",
+        "<b>Geyser</b> (every 10s): large circles launch two random players and stack Waterlogged.",
+        "<b>Tidal Pool</b> (every 13s): a random non-tank gets a timed pool that drops an expanding water AoE after 5s — walk it to the platform edge before it lands.",
+        "<b>Vapor Rush</b> (every 23s): three dashes — twice at the furthest player, then back to the tank. Hits hard, don't be caught by it."
+      ]
+    },
+    {
+      "heading": "Kenut (100% → 50%)",
+      "bullets": [
+        "Three <b>water tornadoes</b> sweep clockwise across the platform, applying damage, conditions, and Waterlogged — don't get caught in one.",
+        "<b>Vapor Jet</b> (every 20s): teleports to the furthest player and fires a rectangle attack that steals boons.",
+        "<b>Sea Swell</b>: a shockwave that launches players and grants Kenut toughness per player hit — spread out for it.",
+        "<b>Cyclone Burst</b>: low direct damage, but stacks Waterlogged — don't ignore it just because the hit is small."
       ]
     },
     {
       "heading": "Split phase (50% → 25%)",
       "bullets": [
-        "The squad divides onto Nikare's and Kenut's platforms and fights both simultaneously — each side can advance once their target hits 25%.",
-        "DPS the twins down evenly — an enraged twin (from being left too far behind) is dangerous, especially Nikare, whose Vapor Rush dash can one-shot most players.",
-        "Communicate defiance bar breaks across both groups, not just your own platform."
+        "The squad divides onto left and right platforms, each fighting one Twin with the same mechanics as before, plus <b>Aquatic Barrage</b> — a defiance bar phase where the boss spins and fires water bolts (projectile destruction helps).",
+        "You have a 2-minute timer per platform before the arena floods — that's a wipe if missed."
       ]
     },
     {
-      "heading": "Kenut's platform hazards",
+      "heading": "Final phase (25% → 0%)",
       "bullets": [
-        "Three water tornadoes rotate clockwise around the arena — the tank should hold the boss center and step out (or channel a block) when a tornado sweeps through.",
-        "<b>Aquatic Barrage</b> spins up defiance bars that must be broken quickly to stop incoming water bolts — use projectile destruction where you have it."
-      ]
-    },
-    {
-      "heading": "Waterlogged",
-      "bullets": [
-        "Stacks build from water hazards and attacks — 10 stacks is instant death. Keep condition cleanses up and avoid unnecessary water exposure."
+        "<b>Aquatic Aura</b> stacks incoming damage +2% every 3 seconds — push to end the fight rather than let this run long.",
+        "Once one Twin dies, the other <b>Enrages</b> for +200% damage — bring both down at roughly even pace rather than favoring one side."
       ]
     }
   ],

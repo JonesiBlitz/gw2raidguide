@@ -5,37 +5,40 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A big single-target burn with two invulnerable orb-catching phases and a core-exposure damage phase in between."
+        "A big single-target burn split by two invulnerable orb-catching phases and a core-exposure damage window. 10-minute enrage."
       ]
     },
     {
-      "heading": "Orb phases (66% / 33%)",
+      "heading": "Orb phases (66% / 33%) — Magic Blast",
       "bullets": [
-        "Keep Construct goes invulnerable while colored orbs (Xera's Energy) move toward it from the statues.",
-        "Match your attunement color to a statue and intercept its orb — letting orbs through stacks a damage buff on the boss, so don't miss yours."
+        "Keep Construct goes invulnerable and channels Magic Blast — everyone gets a red or white marker, and matching colored energy balls move toward the boss.",
+        "Block the balls matching your own marker — spread by color and stay in your section rather than crossing the arena to help another color.",
+        "Every ball that connects stacks Magic Blast Intensity — 15+ stacks gets dangerous, 20+ risks a wipe, so don't let them slip through."
       ]
     },
     {
-      "heading": "Core phase",
+      "heading": "Breakbar & core phase",
       "bullets": [
-        "Once <b>Xera's Embrace</b> is stripped, the breakbar opens up — break it to expose the core.",
-        "Clear the phantasms guarding the core, then pull the core through the rifts to stack vulnerability before burning it down."
+        "Kill the Projections near the boss to strip 2 stacks of vulnerability, which opens his defiance bar — break it fast to trigger the Exposed Core Phase.",
+        "Three green circles spawn needing at least 2 players each.",
+        "A pink Construct Core appears with 5 Ley Rifts around the arena edge — a designated player (usually support) pushes the core through rifts. Each rift it passes through stacks a debuff for the next burn phase, worth +75% incoming damage per stack — aim for 3-5 rifts depending on squad damage."
       ]
     },
     {
-      "heading": "Red circles (Xera's Fury)",
+      "heading": "Phantasms",
       "bullets": [
-        "Expanding red circles spawn under each player — spread out so a filled circle only catches you, not the group."
+        "Large waves of Phantasms spawn with red/white markers matching player markers — only damage the ones matching your color. Failing to clear them in time triggers a squad-wide attack."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "No enrage timer listed."
+        "10:00 — Keep Construct deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Keep Construct", "url": "https://wiki.guildwars2.com/wiki/Keep_Construct" }
+    { "label": "GW2 Wiki: Keep Construct", "url": "https://wiki.guildwars2.com/wiki/Keep_Construct" },
+    { "label": "Hardstuck: Keep Construct", "url": "https://hardstuck.gg/gw2/guides/w3-stronghold-of-the-faithful/keep-construct/" }
   ]
 }

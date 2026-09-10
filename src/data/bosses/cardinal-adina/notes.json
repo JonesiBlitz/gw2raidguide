@@ -5,32 +5,39 @@
     {
       "heading": "Overview",
       "bullets": [
-        "An earth-themed fight built around pillar management, with an 8-minute enrage."
+        "An earth-themed fight built around baiting and breaking pillars before they empower Adina. 8-minute enrage."
       ]
     },
     {
-      "heading": "Pillars",
+      "heading": "Pillar empowerment",
       "bullets": [
-        "Damaged pillars empower Adina: +20% of her outgoing damage and +20% damage reduction per stack — manage pillar damage deliberately rather than letting it happen incidentally.",
-        "<b>Tectonic Upheaval</b> raises a pillar that kills nearby players with its shockwave unless you jump over it."
+        "Every damaged pillar still standing gives Adina a stack: +20% outgoing damage, -20% incoming damage per stack. Getting all 5 pillars to break during Boulder Barrage keeps this from stacking — position two players behind each pillar.",
+        "<b>Tectonic Upheaval</b> marks the 5 furthest players with an expanding circle that locks onto a tile and raises a pillar — baiters hold at max melee range, let it lock, then return to the boss. Staying on the circle when it rises is an instant kill, and a pillar that spawns too close to Adina blinds nearby allies (uncleansable)."
       ]
     },
     {
-      "heading": "Attacks",
+      "heading": "Radiant Blindness & Diamond Palisade",
       "bullets": [
-        "Boulder barrages and stalagmites that can't be evaded or blocked — get out of the way rather than trying to defend through them.",
-        "<b>Diamond Palisade</b> (Radiant Blindness) blinds anyone not facing away from her when it goes off — turn around for it.",
-        "She targets the highest-toughness player — plan positioning/roles with that in mind."
+        "<b>Diamond Palisade</b> ripples damage to players and pillars alike.",
+        "In later phases it pairs with <b>Radiant Blindness</b> — Adina raises her arms with a glowing eye overhead, and anyone looking at her gets a 20-second uncleansable blind. Get to your pillar and face away from her during this."
+      ]
+    },
+    {
+      "heading": "Sand Wall (every 25%)",
+      "bullets": [
+        "Adina goes invulnerable and a Sand Wall sweeps south to north — run counterclockwise around the arena to stay ahead of it; getting caught is an instant kill.",
+        "After the wall finishes, hands spawn (2 normally, 4 during the 50%/25% phases): <b>Hand of Erosion</b> stacks vulnerability, <b>Hand of Eruption</b> launches a knockback projectile. Kill Erosion hands first, and block or dodge Eruption's shot so you don't get knocked into quicksand."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "8:00 hard enrage."
+        "8:00 — Adina deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Cardinal Adina", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Adina" }
+    { "label": "GW2 Wiki: Cardinal Adina", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Adina" },
+    { "label": "Hardstuck: Cardinal Adina", "url": "https://hardstuck.gg/gw2/guides/w7-key-of-ahdashim/adina/" }
   ]
 }

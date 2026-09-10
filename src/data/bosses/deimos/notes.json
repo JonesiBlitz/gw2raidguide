@@ -5,31 +5,47 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Wing 4's DPS/mechanics check — a platform with edges you can fall off, tears that need closing, and a support NPC (Saul) whose buffs matter."
+        "A platform fight with edges you can fall off, an escalating oil-management problem, and a support NPC (Saul) whose ward is a hard requirement past 75%. 12-minute enrage."
       ]
     },
     {
-      "heading": "Tears",
+      "heading": "Demonic Tears (from 75%)",
       "bullets": [
-        "Demonic tears shoot projections at player locations — step into a tear's void to close it.",
-        "Closing a tear gives you a short debuff that stops you closing another one right away — spread tear duty across the squad, don't rely on one person."
+        "Tears spawn around the platform every 15 seconds — close one by walking into it. Each player has a 1-minute cooldown after closing a tear, so spread the duty across the squad.",
+        "The projectiles tears fire can't be blocked and ignore protection — don't rely on defensives to sit in one."
       ]
     },
     {
-      "heading": "Annihilate & Mind Crush",
+      "heading": "Annihilate (\"pizza\")",
       "bullets": [
-        "<b>Annihilate</b> smashes the ground and knocks everyone back — dangerous near the platform edge, since it can knock you off to an instant death.",
-        "<b>Mind Crush</b> applies Weak Minded, dealing 70% of max HP over 10 seconds unless you're standing in Saul's protective ward — get to the ward if you're hit."
+        "Roughly every 20 seconds Deimos smashes his flails down, sending a cascading knockback around the arena from front to back — telegraphed by an orange segmented circle.",
+        "Dodge toward the boss's front, or stay within a single segment, to avoid the damage (you'll still get knocked back either way). A block reduces damage but doesn't stop the knockback — mind the platform edge."
       ]
     },
     {
-      "heading": "Saul",
+      "heading": "Mind Crush & Saul's ward",
       "bullets": [
-        "Saul bolsters the squad's morale (movement speed) and provides the ward — keep him alive and pay attention to his callouts."
+        "Roughly every 40 seconds, <b>Mind Crush</b> targets everyone on the platform — after a 5-second channel, anyone hit is instantly downed.",
+        "Saul drops a protective dome at the center that blocks it — get inside. Outside the dome (even blocking) still takes 70% max HP over 10 seconds.",
+        "During the oil phase, tank Deimos away from center rather than on top of it — oils target whoever's closest to Deimos besides the tank, and keeping the boss off-center keeps Saul's ward accessible to everyone else."
+      ]
+    },
+    {
+      "heading": "Oils (from 60%)",
+      "bullets": [
+        "Oils spawn on the closest non-tank player to Deimos, telegraphed by orange circles that expand over 30 seconds — new ones spawn every 15 seconds. A fully expanded oil is generally a wipe, so pop it or move the fight before that happens.",
+        "At 25%, Drunkard Saul shows up — break his bar quickly, or he'll randomly teleport players, sometimes straight into an oil."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "12:00 — Deimos deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Deimos", "url": "https://wiki.guildwars2.com/wiki/Deimos" }
+    { "label": "GW2 Wiki: Deimos", "url": "https://wiki.guildwars2.com/wiki/Deimos" },
+    { "label": "Hardstuck: Deimos", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/deimos/" }
   ]
 }

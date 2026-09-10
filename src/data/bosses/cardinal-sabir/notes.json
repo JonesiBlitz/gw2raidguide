@@ -5,37 +5,41 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A storm-themed fight that relocates the squad twice (80% and 60% health) and punishes standing still. 9-minute enrage."
+        "A storm fight across 5 sub-phases with platform transitions at 80% and 60%, escalating from stack-and-break to serious wind hazards. 9-minute enrage."
       ]
     },
     {
-      "heading": "Unbridled Tempest",
+      "heading": "Phase 1 (100% → 80%) — Electrical Repulsion",
       "bullets": [
-        "An expanding wave of lightning that deals lethal damage — get above it on a tornado, teleport past it, or use invulnerability. You cannot outrun it on foot."
+        "Stack in front of Sabir to build Violent Currents stacks (boosts your damage). At 90% she gets a breakbar and starts a continuous knockback while dropping orange lines (Dynamic Deterrent) — break the bar fast with CC, using the Flash Discharge action key.",
+        "Once the bar breaks, spread out — the detonation circles that follow shouldn't overlap on anyone."
       ]
     },
     {
-      "heading": "Tornadoes",
+      "heading": "Phase 3 (80% → 60%) — wind hazards",
       "bullets": [
-        "Regular tornadoes can be ridden to escape Unbridled Tempest, but touching one while affected by Violent Currents triggers <b>Shocking Barrage</b> (strips stacks, sends out damaging waves) — know your stacks before you touch one.",
-        "A separate red <b>Titanic Twister</b> deals massive damage on contact — don't confuse it for a safe tornado."
+        "Circling tornadoes strip your Violent Currents stacks.",
+        "<b>Unbridled Tempest</b> (at 75%): a lethal wind wall — survive it by riding a tornado up and over, teleporting through with Flash Discharge, or using a death-prevention skill. You cannot outrun it on foot."
       ]
     },
     {
-      "heading": "Breakbar",
+      "heading": "Phase 5 (60% → 0%) — advanced mechanics",
       "bullets": [
-        "15,000 total defiance bar — breaking it triggers <b>Bolt Break</b>, an unavoidable lightning strike on everyone, so time your breaks with your healing/defensives up.",
-        "She targets the highest-toughness player, same as Adina."
+        "<b>Ion Shield</b>: a fast-refilling breakbar needing synchronized CC — the commander waits for ~6 players to have their action key up, then calls a simultaneous Flash Discharge.",
+        "<b>Titanic Twister</b> (from 50%): a huge orange tornado rotating clockwise — direct contact downs you, and being downed near it risks a full kill.",
+        "<b>Fury of the Storm</b> (at 50%): an expanding orange square — get into one of the two corner safe bubbles before it reaches the edge, or you go down.",
+        "<b>Paralyzing Wisps</b> (from 40%, more every 10%): side platforms spawn wisps — designated players glide over, break their bar, and kill them before they respawn 40 seconds later."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "9:00 hard enrage."
+        "9:00 — Sabir deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Cardinal Sabir", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Sabir" }
+    { "label": "GW2 Wiki: Cardinal Sabir", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Sabir" },
+    { "label": "Hardstuck: Cardinal Sabir", "url": "https://hardstuck.gg/gw2/guides/w7-key-of-ahdashim/sabir/" }
   ]
 }

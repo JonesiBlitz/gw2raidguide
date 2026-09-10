@@ -5,32 +5,44 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A ground phase followed by a platforming phase on floating shards, with an 11-minute enrage that doubles her damage — this is a real DPS check."
+        "Two boss phases split by a gliding intermission at 50%, with an 11-minute enrage that pushes her damage +200% — a real DPS check on top of the mechanics."
       ]
     },
     {
-      "heading": "Defiance bar & shards",
+      "heading": "Defiance bar & Bloodstone Fragments",
       "bullets": [
-        "Her defiance bar activates at 90% and roughly every 60 seconds after — break it or she summons more bloodstone fragments and takes 80% reduced damage while it's up.",
-        "Bloodstone shards spawn with shields that need clearing — don't ignore them, they build up."
+        "Her defiance bar opens at 90% health and resets every 60 seconds — break it fast, since it otherwise gives her 80% reduced incoming damage and speeds up Bloodstone Fragment spawns.",
+        "Fragments spawn every 10 seconds around the arena — they damage players and stack Derangement, but if Xera herself stands in one, she deals double damage and her conditions convert to boons. Destroy fragments deliberately to create safe space; DPS should focus the two shards nearest their marked position."
       ]
     },
     {
-      "heading": "Chaos stacks & adds",
+      "heading": "Derangement (chaos stacks)",
       "bullets": [
-        "Standing in the wrong place stacks <b>Bending/Shifting/Twisting Chaos</b> — at 10 stacks you're Overpowered, so don't let it build unchecked.",
-        "The <b>Intervention</b> buff protects against her deadliest attack — pay attention to when it's up.",
-        "She summons phantasms and soldiers throughout — clear them so they don't pile up during the platform phase."
+        "Builds from environmental damage — 90 stacks causes a 5-second Fear, and 99 stacks is an instant kill. Players with Forsaken Magic mastery can destroy shards to cleanse stacks, but good positioning to avoid stacking in the first place matters more."
+      ]
+    },
+    {
+      "heading": "Intervention",
+      "bullets": [
+        "At 75% (phase 1) and 35%/15%/10% (phase 2), phantasms channel an insta-kill blast. One random player gets the Intervention skill — wait until the phantasms channel back, then pop the barrier to shield the squad rather than using it immediately."
+      ]
+    },
+    {
+      "heading": "Adds & platform intermission",
+      "bullets": [
+        "Regular adds spawn throughout both phases — they can be stunned and cleaved fast; pull skills help stack them under the boss.",
+        "At 50% health, the squad glides clockwise through Ley Lines, destroying bloodstone shards on each platform. Exploding orange circles spawn everywhere (damage + Derangement) — keep pace, since lagging risks platforms wrapping in damaging ribbons."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "11:00 — Enraged state gives her +200% damage. Treat it as a hard DPS check."
+        "11:00 — Xera deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Xera", "url": "https://wiki.guildwars2.com/wiki/Xera" }
+    { "label": "GW2 Wiki: Xera", "url": "https://wiki.guildwars2.com/wiki/Xera" },
+    { "label": "Hardstuck: Xera", "url": "https://hardstuck.gg/gw2/guides/w3-stronghold-of-the-faithful/xera/" }
   ]
 }

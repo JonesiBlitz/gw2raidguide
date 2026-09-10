@@ -5,31 +5,39 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A shrinking-arena fight with a hard-fail breakbar attack — no enrage listed, but a missed breakbar can wipe the squad outright."
+        "A shrinking-arena fight with a hard-fail breakbar attack and constant moving hazards. 8-minute enrage."
       ]
     },
     {
       "heading": "Howling Death (breakbar)",
       "bullets": [
-        "If the defiance bar isn't broken within 6.75 seconds of this attack, the target flees in terror and it's a squad wipe. This is the one mechanic that must never be missed."
+        "This attack gives the boss a defiance bar — if it isn't broken in time, an uncleansable Fear sends the whole squad retreating off the platform, which is a wipe. This is the one mechanic that can never be missed.",
+        "It appears after every other Death Bloom cast and despawns all active Surging Souls when it happens — a brief breather to focus the bar."
       ]
     },
     {
-      "heading": "Shrinking platform",
+      "heading": "Shrinking arena",
       "bullets": [
-        "The arena shrinks at 90%, 66%, and 33% health — anyone standing near the edge when it shrinks falls and dies. Move toward the center as those thresholds approach."
+        "The platform shrinks at 90%, 66%, and 33% health — anyone standing on the edge when it happens falls and dies. Move toward center as those thresholds approach (in Challenge Mote, the arena starts crumbled, so the late fight is cramped from the beginning)."
       ]
     },
     {
-      "heading": "Adds & attacks",
+      "heading": "Adds & hazards",
       "bullets": [
-        "Tormented Dead spawn at the center after the first wall (past 90%) — killing them leaves Volatile Souls that drop damaging Soul Rift puddles, so don't kill them in a stack.",
-        "Two players get fixated via Issue Challenge — know who's holding it.",
-        "Watch for Surging Souls (moving death lines), Spinning Scythes (boon corrupt), and Slice (a frontal cone that spawns skeletal fingers)."
+        "<b>Tormented Dead</b> spawn every 20s after 90% health and fixate the inactive tank — kill them at range; their death leaves a deceptively large, high-damage AoE, so don't stand near the kill.",
+        "<b>Surging Souls</b> (from 7:50 remaining): moving walls that instantly kill on contact and can't be dodged, invulned, or blocked — the gaps are randomized each time, so stay mobile rather than memorizing a path. They disappear once the boss's defiance bar is up.",
+        "<b>Spinning Scythes</b>: slow-moving line hazards that corrupt all your boons into conditions on contact — easy to avoid if you're paying attention, punishing if you're not."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "8:00 — Soulless Horror deals +200% damage past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Soulless Horror", "url": "https://wiki.guildwars2.com/wiki/Soulless_Horror" }
+    { "label": "GW2 Wiki: Soulless Horror", "url": "https://wiki.guildwars2.com/wiki/Soulless_Horror" },
+    { "label": "Hardstuck: Soulless Horror", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/soulless-horror/" }
   ]
 }

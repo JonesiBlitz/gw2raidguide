@@ -5,19 +5,32 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A timed escape, not a fight — outrun a ghostly mob through the woods and light the brazier at the far end. Hard fail if it takes longer than 2 minutes."
+        "A 3-part traversal, not a fight — Spectral Rifts, then Spirit Race, then Cemetery. Condition cleanses and knockdown prevention matter more than damage here."
       ]
     },
     {
-      "heading": "What to do",
+      "heading": "Spectral Rifts",
       "bullets": [
-        "Someone carries the spectral torch the whole way — don't drop it, and don't let the carrier die.",
-        "Keep moving. Getting <b>crippled</b> is the main way squads fall behind the mob and fail the timer.",
-        "Angered spirits are scattered through the woods — avoid fighting them, just keep running."
+        "Capture the red circles before the falling orbs reach the ground — letting a rift explode is generally a squad wipe, so this is the one part of the encounter with zero room for error.",
+        "Use portals and mobility skills to reach multiple circles quickly — a Mesmer's portal is especially good for getting the squad to a rift fast."
+      ]
+    },
+    {
+      "heading": "Spirit Race",
+      "bullets": [
+        "After the rifts clear, the squad glides into a timed section — clear the path ahead fast enough to stay in front of a wall of spirits slowly creeping in from behind.",
+        "Similar circle-capture mechanics apply here as in the Rifts phase."
+      ]
+    },
+    {
+      "heading": "Cemetery",
+      "bullets": [
+        "The final phase needs all 5 squad members standing on hidden buttons scattered around the area at the same time to open the exit gate."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Spirit Woods", "url": "https://wiki.guildwars2.com/wiki/Spirit_Woods" }
+    { "label": "GW2 Wiki: Spirit Woods", "url": "https://wiki.guildwars2.com/wiki/Spirit_Woods" },
+    { "label": "Hardstuck: Spirit Woods", "url": "https://hardstuck.gg/gw2/guides/w1-spirit-vale/spirit-woods/" }
   ]
 }

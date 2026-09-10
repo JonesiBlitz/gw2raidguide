@@ -5,18 +5,29 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A scripted crossing event between Soulless Horror and the Statues of Grenth. We haven't verified detailed pathing/callouts for this one yet — follow your commander's lead for now."
+        "An escort/crossing event protecting the NPC Desmina, run by two subgroups working at the same time rather than a single squad pushing together."
       ]
     },
     {
-      "heading": "What we know",
+      "heading": "Squad split",
       "bullets": [
-        "Named attacks in this encounter are <b>Soul Siphon</b>, <b>Soul Wave</b>, and <b>Soulless Torrent</b> — expect AoE waves to dodge while the squad advances.",
-        "Treat this as a positioning/movement check rather than a burst-damage check."
+        "<b>Forward group</b> (typically ~3 healers + 5 DPS): clears the route ahead and kills <b>Enervators</b> before they reach Desmina — an Enervator disables her protective dome and freezes her in place if it gets close enough.",
+        "<b>Escort group</b> (typically 2 players): stays glued to Desmina, keeping her moving and alive with healing and movement buffs."
+      ]
+    },
+    {
+      "heading": "Hazards",
+      "bullets": [
+        "The river itself ticks heavy damage on anyone standing in it (blockable/dodgeable) — falling off the river entirely is an instant kill, so watch your footing.",
+        "<b>Hollowed Bombers</b> channel bombs that hit Desmina for 20% of her max health — interrupt or kill them before they finish.",
+        "<b>Spectral Rifts</b> pull players toward them and need about 10 hits to deactivate.",
+        "Around 25% progression, a <b>Spirit Horde</b> of small ghosts starts chasing and stacking damage. Around 33% progression, <b>Walls</b> knock players into a ghost state if they touch you.",
+        "<b>Time Bombs</b> spawn on escort players — walk away from the group before they go off."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: River of Souls", "url": "https://wiki.guildwars2.com/wiki/River_of_Souls" }
+    { "label": "GW2 Wiki: River of Souls", "url": "https://wiki.guildwars2.com/wiki/River_of_Souls" },
+    { "label": "Hardstuck: River of Souls", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/river-of-souls/" }
   ]
 }

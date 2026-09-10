@@ -5,33 +5,35 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Tank-and-spank with two add phases (66% / 33%) and a group-wide coordination check. Enrage grants Samarog a 500% damage buff — treat any enrage as a wipe."
+        "Tank-and-spank with two shielded adds at 66%/33% and a repeating fixation mechanic. 11-minute enrage grants Samarog +500% damage — treat any enrage as a wipe."
       ]
     },
     {
       "heading": "Samarog's attacks",
       "bullets": [
-        "<b>Shockwave</b>: an expanding knockback from both spears — dodge or jump it, it can't be blocked.",
-        "<b>Spear placement</b>: spears planted around the arena apply taunt or fear — being caught in the placement's blast does roughly 80% of your max HP, so don't stand near a spear when it lands.",
-        "<b>Inevitable Betrayal</b>: two players need to overlap their green circles before the orange circle fills, or everyone nearby takes heavy damage.",
-        "<b>Brutalize</b>: Samarog pins a target and channels damage on them — break his defiance bar fast to cut it short before it ramps up."
+        "<b>Shockwave</b>: a knockback wave from his spears — jump or dodge it. The tank can stand in his hitbox and dodge/jump backward on impact; some defensive skills prevent the knockback outright.",
+        "<b>Spear placement</b>: every 20s a red circle telegraphs a spear slam that hits hard on landing and leaves a damage-over-time hazard behind. Squads usually just cleave through spears while damaging the boss rather than dedicating time to destroying them (Challenge Mote: spears land every 5s in fixed patterns and can't be destroyed).",
+        "<b>Inevitable Betrayal</b>: every 25s two players are targeted — one gets a large orange circle, the other a small green one. They need to stack on each other or the orange-circle player takes heavy damage. Pull this pair away from the rest of the group so no one else eats the damage.",
+        "<b>Brutalize</b>: every 10% health, Samarog leaps onto the current tank, goes damage-immune, and gets a defiance bar — the rest of the squad needs to CC him to free the fixated player. Healing the fixated player buys more time to land the break. Fixation moves to the furthest player once it resolves."
       ]
     },
     {
-      "heading": "Add phases (66% / 33%)",
+      "heading": "Rigom & Guldhem (66% / 33%)",
       "bullets": [
-        "Two adds spawn — Guldhem (jotun) and Rigom (human). CC and kill priority matters here; don't let both run loose while ignoring mechanics on Samarog.",
-        "Keep the group tight but not stacked — the spear/shockwave mechanics punish clumping just as much as being spread wrong."
+        "Two shielded adds spawn together — <b>Rigom</b> (smaller) and <b>Guldhem</b> (larger). Damage to Guldhem transfers to Rigom while his shield is up, so the real play is pushing Rigom underneath Samarog while the squad kills Guldhem.",
+        "If Rigom's explosion hits Samarog, Guldhem loses his shield — that's the window to actually burn him down. His shield comes back every 33% of his own health, so expect to repeat this a few times per split.",
+        "Ranger pets/specific pulls can wrangle Rigom solo; otherwise any CC or displacement skill helps move him."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "No fixed timer listed, but the enrage buff (+500% damage) is an effective hard wall — a slow group should call it and reset rather than push through."
+        "11:00 — Samarog's damage jumps +500% past this point."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Samarog", "url": "https://wiki.guildwars2.com/wiki/Samarog" }
+    { "label": "GW2 Wiki: Samarog", "url": "https://wiki.guildwars2.com/wiki/Samarog" },
+    { "label": "Hardstuck: Samarog", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/samarog/" }
   ]
 }

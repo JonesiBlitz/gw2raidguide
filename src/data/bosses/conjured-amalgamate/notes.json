@@ -5,28 +5,49 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A 3-phase loop (arm slams → orb collection → burn) that repeats until the boss is dead. Needs two dedicated orb collectors."
+        "A repeating 3-part loop — arm smash → collection → burn — with a hard downstate check at 50%. 8-minute enrage."
       ]
     },
     {
-      "heading": "Positioning & arm slams",
+      "heading": "Arm smashes & adds",
       "bullets": [
-        "The squad stacks on the middle two of four platform tiles — the commander calls which tile to defend (commonly the right) when the boss slams.",
-        "Dodge or use a defensive cooldown on the slam — getting caught means a knockdown."
+        "Squad stacks on the middle two of the platform's four tiles. The first smash spawns <b>sword adds</b> — killing them grants a <b>Conjured Slash</b> special action key (50% damage debuff on the boss); save these for the second slam instead of using them right away.",
+        "The second smash spawns <b>shield adds</b> with their own breakbar — break it, kill them, and you get <b>Conjured Protection</b> (blocks some of the boss's attacks). Save these for Thunderhead Clap. Sword action keys can also break shield breakbars while cleaving through.",
+        "If swords/shields aren't killed fast enough they merge into much nastier Warriors — don't let that happen."
       ]
     },
     {
-      "heading": "Orb collection",
+      "heading": "Collection phase",
       "bullets": [
-        "One player collects <b>sword</b> bubbles: grab 4, then use the special action key on the 5th, and repeat — save the final 5 for the next hand phase.",
-        "The other collects <b>shield</b> bubbles and saves them rather than using them immediately — they're needed to survive the 50% health check.",
-        "When adds spawn off an arm slam, pull them together. Killing them leaves corpses to run through: <b>Conjured Slash</b> (from swords) applies a 50% damage debuff to the boss, <b>Conjured Protection</b> (from shields) prevents squad deaths."
+        "One player collects sword bubbles: grab 4, use the action key on the 5th, repeat — save the last 5 for the next hand phase.",
+        "One player collects and holds shield bubbles rather than using them immediately.",
+        "Everyone else stacks center and keeps damaging the boss."
       ]
     },
     {
-      "heading": "50% check",
+      "heading": "Burn phase — Junk Wall",
       "bullets": [
-        "At 50% health, <b>Thunderhead Clap</b> downs the whole squad — counter it with saved shield bubbles or defensive cooldowns, or it's a wipe."
+        "After collection, a damaging wall sweeps across the platform starting from the side of the arm you just killed. The shield collector pops shields right before it hits.",
+        "High-DPS squads can kill the boss before the wall returns; lower-DPS squads can reposition to the far side and use one shield activation to cover both the outgoing and returning wall."
+      ]
+    },
+    {
+      "heading": "Thunderhead Clap (50%)",
+      "bullets": [
+        "The boss goes invulnerable and downs the entire squad unless you're covered by a saved Conjured Protection, a defensive like Rebound, or similar precast protection."
+      ]
+    },
+    {
+      "heading": "Second phase",
+      "bullets": [
+        "At 25%, both arms respawn at 50% health. Focus one arm down through another collection cycle while keeping damage on the other hand — if you're too slow, the first arm respawns and the time pressure compounds.",
+        "Each arm defeat takes 10% of the boss's total health; the last 5% is a straight burn."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "8:00 — Conjured Amalgamate and all adds deal +200% damage past this point."
       ]
     }
   ],

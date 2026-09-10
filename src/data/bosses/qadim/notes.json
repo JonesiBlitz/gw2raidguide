@@ -5,31 +5,50 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A multi-platform fire fight that recycles adds from earlier wing 6 encounters (Conjured Amalgamate, Twin Largos) alongside new hazards."
+        "A multi-platform fight across three add phases (Hydra, Destroyer, Wyverns) before a final burn on Qadim himself. 13-minute enrage. One of the more mechanically dense fights in the raid roster — worth watching a video alongside these notes the first few times."
       ]
     },
     {
-      "heading": "Platforms & positioning",
+      "heading": "General rules",
       "bullets": [
-        "Qadim has a large hitbox and periodically teleports, leaving a meteor that destroys the platform he was on — don't be standing there when he leaves.",
-        "<b>Sea of Flame</b> sets a platform on fire, stripping boons and applying cripple/weakness — get off a burning platform.",
-        "If no one is on Qadim's current platform, <b>Djinn's Gaze</b> teleports him to the nearest one with a player — don't leave him unattended."
+        "Tanking is proximity-based — stand at the enemy's hitbox center to hold aggro. Tank Chronomancers are common picks for the portal utility.",
+        "Each Legendary Enemy follows Autoattack → Autoattack → Special Ability. When a platform transition starts, the enemy gets a red circle — everyone must leave it within 2 seconds or get teleported straight to Qadim."
       ]
     },
     {
-      "heading": "Lava Elementals & Fiery Surge",
+      "heading": "Hydra phase",
       "bullets": [
-        "When Qadim absorbs a Lava Elemental he gains a stack of <b>Fiery Surge</b> — each stack is +20% damage and +2% attack speed, so don't let these adds sit around."
+        "Applies debuffs via cone attacks, uses Flamebreath after 2 autoattacks, then gets a breakbar — break it before it leaps or the leap punishes hard."
       ]
     },
     {
-      "heading": "Champion adds",
+      "heading": "Destroyer phase",
       "bullets": [
-        "Expect to face the Conjured Amalgamate, the largos twins Kenut and Nikare, an Ancient Invoked Hydra, and an Apocalypse Bringer across the fight — treat each with the same care as their standalone encounters."
+        "Apocalypse Bringer spawns with an opening breakbar and 3 adds — same shockwave-special-ability pattern as the others."
+      ]
+    },
+    {
+      "heading": "Wyverns phase",
+      "bullets": [
+        "Needs 2 tanks: one holds the Matriarch away from the group, one holds the Patriarch with the squad. Both use tailswipe and flamebreath.",
+        "An NPC ally (Zommorros) helps tank the Patriarch and contributes a large share of the damage on both wyverns."
+      ]
+    },
+    {
+      "heading": "Final phase (33% → 0%)",
+      "bullets": [
+        "Platforms spin erratically as terrain evaporates. Two Pyres spawn — reach Qadim by jumping across or using portals."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "13:00 — Qadim stacks Fiery Empowerment (+20% damage, +2% attack speed per stack), making a slow kill snowball fast."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Qadim", "url": "https://wiki.guildwars2.com/wiki/Qadim" }
+    { "label": "GW2 Wiki: Qadim", "url": "https://wiki.guildwars2.com/wiki/Qadim" },
+    { "label": "Hardstuck: Qadim", "url": "https://hardstuck.gg/gw2/guides/w6-mythwright-gambit/qadim/" }
   ]
 }

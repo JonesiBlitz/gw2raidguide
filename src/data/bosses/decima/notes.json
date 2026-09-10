@@ -5,32 +5,47 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Three phases (breaks at 75%/50%/25%) built around a beam attack that gets progressively worse, plus a charge mechanic that punishes carelessness."
+        "A precision fight in 3 phases (100-75%, 75-40%, 40-0%) plus two intermissions, built around not letting \"Sparks\" reach her. Tight 10-minute enrage — low-DPS squads feel it hard in the final 10%."
       ]
     },
     {
-      "heading": "Fluxlance beams",
+      "heading": "Fluxlance & conduits",
       "bullets": [
-        "Starts as single beams, becomes <b>Fusillade</b> (multiple sequential beams) at 75%, then <b>Salvo</b> (simultaneous beams) at 40% — the safe path through the beams gets narrower as the fight goes on.",
-        "Conduits struck by a beam gain charge — know where the conduits are so you're not accidentally feeding them."
+        "<b>Orange Arrow</b> targets the furthest player(s) — after a 5s cast it fires a beam that applies Galvanic Sensitivity (massively boosts Spark damage to whoever's hit) and charges any conduit in its path. Phase 1 is a single arrow; phases 2-3 target the 5 furthest players (sequential in phase 2, simultaneous in phase 3).",
+        "<b>Red Arrow</b> (all phases) instantly kills anyone in its path — stand behind an uncharged conduit to block it.",
+        "Conduits charge up to 3 times and release Sparks during Seismic Crash — a Spark reaching Decima gives her a Charge stack, and 10 stacks is a squad wipe."
       ]
     },
     {
-      "heading": "Dancing Sparks & charge",
+      "heading": "Sparks",
       "bullets": [
-        "Charged conduits release sparks that drift toward Decima — stand in a spark's aura to slow it down.",
-        "If sparks reach her, she gains charge stacks. At 10 stacks she goes invulnerable and unleashes an unsurvivable <b>Flux Nova</b> — preventing that buildup matters most in Challenge Mote, but it's still worth managing on Normal."
+        "Sparks freeze once enough players are standing in them (more players = faster dissipation). In phase 1, anyone not kiting can soak a spark; in phases 2-3, only the boss group should soak — Galvanic Sensitivity makes it lethal for anyone else."
       ]
     },
     {
-      "heading": "Breakbar",
+      "heading": "Seismic Crash, Wind, and Green Arrow",
       "bullets": [
-        "Defiance bar opens at 75% and 40% — breaking it applies <b>Fractured Armor</b>, making her vulnerable to a Flux Nova punish.",
-        "Ring-shaped ground AoEs (Earthrend, Seismic Crash) push you toward or away from Decima and the conduits — know which one is active before you reposition."
+        "<b>Seismic Crash</b>: an instant-kill jump-crash near her, followed by a knockback and then a Spark release — Stability or CC-immunity gets you through it safely.",
+        "<b>Wind</b> (phases 2-3): forcibly rotates players around her (direction is random each cast) — fully countered by Stability. Phase 2 only affects the outer ring; phase 3 hits the whole platform.",
+        "<b>Green Arrow</b> (phase 3 only): 5 players must stand in it at detonation or the whole squad gets Exposed — missing players makes the targeted conduit overcharge instead."
+      ]
+    },
+    {
+      "heading": "Intermissions (75% / 40%)",
+      "bullets": [
+        "Decima channels with a defiance bar while everyone loses Galvanic Sensitivity, so the whole squad can soak Sparks freely — break the bar for a 10-second stun, but any Spark that reaches her during this fully regenerates it.",
+        "Each intermission ends with <b>Fulminate/Flux Nova</b>, detonating every conduit — any conduit at max charge when this goes off gives the squad an Exposed stack and Decima 5 stacks of Harmony and Discord each, so clear conduits down before the detonation."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "10:00 hard enrage — tighter than most other raid bosses, so don't expect to coast through phase 3."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Decima, the Stormsinger", "url": "https://wiki.guildwars2.com/wiki/Decima,_the_Stormsinger" }
+    { "label": "GW2 Wiki: Decima, the Stormsinger", "url": "https://wiki.guildwars2.com/wiki/Decima,_the_Stormsinger" },
+    { "label": "Hardstuck: Decima, the Stormsinger", "url": "https://hardstuck.gg/gw2/guides/w8-mount-balrior/decima-the-stormsinger/" }
   ]
 }

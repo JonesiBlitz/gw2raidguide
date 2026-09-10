@@ -5,32 +5,46 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Straightforward DPS check with a repeating sleep/breakbar cycle and a poison-mushroom floor to manage."
+        "A single-phase DPS check built around a poison-mushroom floor, a repeating sleep/fear cycle, and a rotating fixate that moves the boss around the arena. 7-minute enrage."
       ]
     },
     {
-      "heading": "Tantrum & breakbar",
+      "heading": "Tantrum & Narcolepsy",
       "bullets": [
-        "At 80/60/40/20/10% health Slothasor falls asleep (<b>Narcolepsy</b>) — break his defiance bar to wake him back up and keep DPS going.",
-        "<b>Tantrum</b>: he pounds the ground 3 times in a row, each hit knocking down anyone caught in it. Dodge each pound, don't just dodge the first."
+        "<b>Tantrum</b>: 3 ground pounds drop dark circles under each player — a 4th stack knocks you down for 5 seconds. Stop moving once it starts so you're not spreading the AoEs around the arena; dodge, block, or invuln each pound.",
+        "Every 20% health (and again at 10%), Slothasor falls asleep with a breakbar — breaking it applies a 10-second fear to the whole squad, so have stability, aegis, or a stunbreak ready."
       ]
     },
     {
-      "heading": "Poison mushrooms",
+      "heading": "Poison mushrooms & Volatile Poison",
       "bullets": [
-        "Purple mushroom patches on the ground stack poison fast — don't stand in them.",
-        "Someone can eat an <b>Imbued Mushroom</b> to turn into a Slubling and clear a poisoned patch by eating it — but Slublings read as hostile to the rest of the squad, so call it out.",
-        "The Slubling transform only lasts ~45s, then you're Nauseated and can't transform again for 4 minutes — don't waste it."
+        "The floor starts covered in poison from red mushrooms — 4 players transform into Slublings (via blue Imbued Mushrooms) and eat the red ones to clear safe zones. A transformed player can't transform again for 4 minutes, and the rest of the squad shouldn't cleave, pull, or stun their own Slublings.",
+        "Every 25 seconds someone gets <b>Volatile Poison</b> — carry it away from the group and drop it; it expands to cover roughly a third of the arena. It drops early if unused for 8s, you go down, or you eat an imbued mushroom."
+      ]
+    },
+    {
+      "heading": "Fire Breath & Spore Release",
+      "bullets": [
+        "<b>Fire Breath</b>: Slothasor stops and breathes fire in front of him — dodge, block, or sidestep out. He usually faces the tank, but not always, so stay alert even from behind.",
+        "From 50% health onward, <b>Spore Release</b> pulses poison/torment/confusion/vulnerability outward — dodge away, pause a beat, then dodge back into his hitbox rather than standing in the spore ring."
+      ]
+    },
+    {
+      "heading": "Fixate & adds",
+      "bullets": [
+        "A random player is fixated every 30 seconds (sound cue + purple diamond) — move the boss onto the most recently cleared mushroom patch and hold position there.",
+        "Slublings that aren't dealt with become Evolved Slublings and corrupt boons — use pulls and ranged cleave on them, carefully, without hitting your own transformed players."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "No enrage timer listed — this fight is a soft check, not a hard wall."
+        "7:00 — Imbued Mushrooms stop spawning and Slothasor deals +200% damage."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Slothasor", "url": "https://wiki.guildwars2.com/wiki/Slothasor" }
+    { "label": "GW2 Wiki: Slothasor", "url": "https://wiki.guildwars2.com/wiki/Slothasor" },
+    { "label": "Hardstuck: Slothasor", "url": "https://hardstuck.gg/gw2/guides/w2-salvation-pass/slothasor/" }
   ]
 }

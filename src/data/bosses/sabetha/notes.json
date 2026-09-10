@@ -5,33 +5,35 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Four phases split by health (100 → 75 → 50 → 25 → 0%). Sabetha stays rooted in place the whole fight, but each phase adds a new turret to manage."
+        "Sabetha stays rooted the whole fight, but each health threshold (75/50/25%) swaps in a new miniboss with its own priority mechanic — on top of her own attacks running continuously. 9-minute enrage."
       ]
     },
     {
-      "heading": "Sabetha's attacks",
+      "heading": "Sabetha's attacks (throughout)",
       "bullets": [
-        "<b>Flame Wall</b>: a wall of fire spawns on a random player and rotates around the arena — move with the rotation, don't get boxed in against the edge.",
-        "<b>Time Bomb</b>: tags the closest player, explodes in 3s — walk away from the group immediately, and stay clear of a downed ally carrying one.",
-        "<b>Flak Shot</b>: hits the furthest player and leaves a burning tar field — don't stand in it.",
-        "Below 25%: <b>Platform Crush</b> adds falling debris (dark orange circles) on top of everything else — watch your feet."
+        "<b>Flamewall</b>: every 45 seconds she unleashes a wall of fire that slowly rotates counter-clockwise around the arena — it instantly defeats anyone caught in it, so keep moving with the rotation.",
+        "<b>Time Bomb</b>: the closest player gets tagged and it detonates for heavy area damage — move away from the group immediately. Below 50% HP, two players get tagged at once instead of one.",
+        "<b>Flak Shot</b>: targets the furthest player and leaves fiery patches on the ground — don't stand in them.",
+        "<b>Cannons</b> spawn every 30 seconds — designated players need Sapper Bombs to reach and use them."
       ]
     },
     {
-      "heading": "Turret phases",
+      "heading": "Minibosses by phase",
       "bullets": [
-        "Kernan, then Knuckles, then Karde each spawn as the fight progresses — call kill priority and burn them fast so they don't stack up on the squad."
+        "<b>75% — Kernan</b>: fires three shotgun blasts at the closest player. Sidestep each one rather than trying to block or dodge-cancel through them.",
+        "<b>50% — Knuckles</b>: his defiance bar is a top priority — if it isn't broken in time, he knocks players up and flings them a long way back.",
+        "<b>25% — Karde</b>: uses a flamethrower on the closest player and spawns Flame Turrets around the platform — ranged players should dispatch the turrets quickly."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "9:00 — damage scales up hard past that point. Treat it as a hard wall, not a soft target."
+        "9:00 — at enrage all four cannons activate at once and Sabetha's outgoing damage jumps +500%. Treat it as a hard wall."
       ]
     }
   ],
   "sources": [
     { "label": "GW2 Wiki: Sabetha the Saboteur", "url": "https://wiki.guildwars2.com/wiki/Sabetha_the_Saboteur" },
-    { "label": "Hardstuck: Raid Guides", "url": "https://hardstuck.gg/gw2/guides/raids/" }
+    { "label": "Hardstuck: Sabetha the Saboteur", "url": "https://hardstuck.gg/gw2/guides/w1-spirit-vale/sabetha-the-saboteur/" }
   ]
 }

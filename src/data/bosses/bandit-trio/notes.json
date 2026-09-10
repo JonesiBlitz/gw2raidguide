@@ -5,25 +5,43 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Protect the caged prisoners while fighting three bandit champions — Berg, Zane, and Narella — each with their own health pool. 9-minute cage timer."
+        "Protect the caged prisoners through three staggered boss spawns — Berg, Zane, then Narella — each with a different way of threatening the cage. Fail condition is the cage going down, not a squad wipe."
       ]
     },
     {
-      "heading": "What to watch",
+      "heading": "Berg (spawns ~6:50)",
       "bullets": [
-        "The cage must survive the whole encounter — zero civilian casualties is the real win condition, not just killing the bosses.",
-        "Waves of regular bandits spawn throughout — don't let them reach the cage unchecked.",
-        "The arena has usable hazards (bombs, oil kegs, a beehive) — optional, but worth knowing they're there if the squad is undergeared for a clean kill."
+        "Weak to beehives (a non-stacking debuff).",
+        "His frontal smash can be cancelled by breaking his breakbar — break it if the smash is heading toward the cage."
       ]
     },
     {
-      "heading": "Enrage",
+      "heading": "Zane (spawns ~4:50)",
       "bullets": [
-        "9:00 cage timer — treat it as the hard wall for this encounter."
+        "Teleports to the furthest player on spawn and drops a blinding field where he lands.",
+        "Fires 3 cone shots with escalating damage — each one that reaches the cage can deal up to 50% of its max health, so positioning to block line of sight matters.",
+        "Weak to bleeding — opening the Warg Cages beforehand makes this easier."
+      ]
+    },
+    {
+      "heading": "Narella (spawns ~2:47)",
+      "bullets": [
+        "Summons fiery tornadoes that aggro randomly and repeatedly CC + damage whoever they catch.",
+        "Fires flak shots (burning AoE) at the furthest player and a flamethrower at the nearest.",
+        "Weak to oil kegs — each keg stacks 25 (max 50), but they deal self-damage, so use them carefully."
+      ]
+    },
+    {
+      "heading": "Common failure points",
+      "bullets": [
+        "The cage going down from an unblocked Berg smash or Zane cone shot.",
+        "Missing breakbar interrupts on the Saboteur adds.",
+        "Running out of DPS time — a slow squad sees extra Saboteurs spawn near the end."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Bandit Trio (Prison Camp)", "url": "https://wiki.guildwars2.com/wiki/Bandit_Trio" }
+    { "label": "GW2 Wiki: Bandit Trio", "url": "https://wiki.guildwars2.com/wiki/Bandit_Trio" },
+    { "label": "Hardstuck: Bandit Trio", "url": "https://hardstuck.gg/gw2/guides/w2-salvation-pass/bandit-trio/" }
   ]
 }

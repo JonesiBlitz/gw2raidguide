@@ -5,26 +5,39 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Three separate statue-restoration events, completable in any order. Finishing all three spawns a chest and opens the path to Dhuum."
+        "Three separate, unrelated encounters completable in any order — do the longest one (Statue of Ice) first so it isn't rushed at the end. All three need to finish before the path to Dhuum opens."
       ]
     },
     {
-      "heading": "The three statues",
+      "heading": "Statue of Ice — Broken King",
       "bullets": [
-        "<b>Statue of Ice</b> — fight the Broken King under a strict 3:30 time limit.",
-        "<b>Statue of Death & Resurrection</b> — collect spirit energy; a progress-tracked event, not a burst check.",
-        "<b>Statue of Darkness</b> — grab a light orb, then defeat two bosses: Eye of Judgment and Eye of Fate."
+        "Capture green ice orbs (one spawns per 2% of the boss's health lost) while damaging him — an uncaught orb detonates for massive squad damage.",
+        "Capturing 4 orbs freezes you (Frozen Wind) for a 10-second lockdown with continuous damage — stacks expire after 45s, so don't chain captures carelessly.",
+        "Ice cracks from his staff slams send out damaging pulses — watch your footing.",
+        "Hard 3:30 enrage. Aim for ~75k squad DPS; below ~60k risks the enrage outright."
       ]
     },
     {
-      "heading": "Hazards",
+      "heading": "Statue of Death & Resurrection — Eater of Souls",
       "bullets": [
-        "Expect Eaters of Souls, Light Thieves, Minotaurs, Twisted Spirits, and Spirit Hordes spawning throughout — these aren't just flavor, they can overwhelm an unprepared squad.",
-        "If going for the 5-minute achievement across all three, split the squad efficiently up front rather than finishing one before starting the next."
+        "Collect red orbs to light 6 torches — 20 orbs total needed, collected across repeating phases (the boss regenerates to full after each phase until all torches are lit).",
+        "Watch for poison vomit AoEs and Twisted Spirit adds that need precise targeting.",
+        "<b>Lost Spirit</b> green circles launch you into the air (first at 40s, then every 50s after) — you get a 30-second window airborne to grab 5 orbs before landing.",
+        "Skeleton adds can overrun the group if ignored for too long."
+      ]
+    },
+    {
+      "heading": "Statue of Darkness — Eyes",
+      "bullets": [
+        "Two throwers launch light orbs from an elevated platform while two squads stun and damage the Eyes below.",
+        "Both Eyes need to die within 8 seconds of each other, or the survivor regenerates and teleports away — sync your kills.",
+        "An Eye that isn't stunned by 70% health summons a Minotaur — keep a dedicated stunner (often a Druid with extended stun duration) re-stunning roughly every 10 seconds.",
+        "Eyes teleport at fixed health thresholds (85/70/55/40/25/10%) if left unstunned, and Light Thief adds need managing on top of everything else."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Statues of Grenth", "url": "https://wiki.guildwars2.com/wiki/Statues_of_Grenth" }
+    { "label": "GW2 Wiki: Statues of Grenth", "url": "https://wiki.guildwars2.com/wiki/Statues_of_Grenth" },
+    { "label": "Hardstuck: Statues of Grenth", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/statues-of-grenth/" }
   ]
 }

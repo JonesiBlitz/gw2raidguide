@@ -5,25 +5,34 @@
     {
       "heading": "Overview",
       "bullets": [
-        "A tighter, more punishing follow-up to Cairn — pulsing group damage plus an add phase that buffs the boss if left alone."
+        "Played out on a game-board arena of color-coded tiles rather than open ground — most of the difficulty here is floor management, not boss attacks. 6-minute enrage."
       ]
     },
     {
-      "heading": "Add phase",
+      "heading": "Jade Scouts & Soldiers",
       "bullets": [
-        "Jade Soldiers spawn periodically — every one left alive gives the Overseer a stack of <b>Empowered</b> (+25% damage each). Kill them fast, don't let them pile up."
+        "Jade Scouts walk across the board — if they reach the far side, they become mobile Jade Soldiers that fixate on whoever holds Protect.",
+        "Soldiers flip safe tiles as they travel and pulse an aura that damages players, applies conditions, and <b>empowers</b> the boss (more aura damage, more damage from enemy-claimed tiles). Cleave Scouts down before they convert — letting multiple Soldiers stack up makes the fight noticeably worse."
       ]
     },
     {
-      "heading": "Breakbar & ground damage",
+      "heading": "The tiles",
       "bullets": [
-        "His defiance bar is segmented — breaking it stuns him and opens a damage window, so save burst for that.",
-        "<b>Punishment</b> pulses magic damage to everyone every 3 seconds throughout the fight — this is a steady healing/sustain check, not a one-off dodge.",
-        "The arena floor has claimed tiles that deal damage while you're standing on them — keep moving, don't plant on a bad tile."
+        "<b>Orange tiles</b>: enemy-claimed — heavy ticking damage plus the Claimed condition. Don't stand on them.",
+        "<b>Green tiles</b>: turn blue-green, then spawn spikes that instantly kill anyone standing there after a 5-second delay — get off before the spikes trigger.",
+        "Tiles cycle on a 10-second loop — track the pattern rather than reacting late.",
+        "(Challenge Mote only: blue tiles require you to stand in them or die instantly — opposite of the normal rule.)"
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "6:00 — past this point players can no longer claim tiles, which snowballs the floor hazards fast."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Mursaat Overseer", "url": "https://wiki.guildwars2.com/wiki/Mursaat_Overseer" }
+    { "label": "GW2 Wiki: Mursaat Overseer", "url": "https://wiki.guildwars2.com/wiki/Mursaat_Overseer" },
+    { "label": "Hardstuck: Mursaat Overseer", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/mursaat-overseer/" }
   ]
 }

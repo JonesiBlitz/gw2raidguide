@@ -5,25 +5,46 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Wing 5's capstone fight. Normal mode is comparatively forgiving; the real difficulty (and most of the named mechanics below) shows up hard in Challenge Mote."
+        "Wing 5's capstone fight — built around protecting friendly Reaper allies (that carry the squad's real damage) while managing Dhuum's own kill mechanics. Two-stage enrage."
       ]
     },
     {
-      "heading": "Key mechanics",
+      "heading": "Greens (protecting the Reapers)",
       "bullets": [
-        "<b>Green Shackles</b> (Soul Shackle): links two players together — if they get too close, both souls destroy each other. Keep shackled pairs apart.",
-        "<b>Death Mark</b>: a scythe slam that rips souls from anyone hit by the initial blast — reunite body and soul quickly or it's a kill. A stronger <b>Greater Death Mark</b> variant also exists.",
-        "Dhuum's Messenger add appears during the fight — don't ignore it while focused on the boss."
+        "Every 30 seconds Dhuum reaches for a friendly Reaper, telegraphed by a large green circle — a player must stand in it or the Reaper dies.",
+        "Standing in it lifts you skyward, where you have 15 seconds to catch 5 red orbs to come back down safely.",
+        "This rotates across 3 players (commonly called G1/G2/G3) — you cannot take two Greens in a row without dying, so know your rotation."
+      ]
+    },
+    {
+      "heading": "Death Mark & Shackles",
+      "bullets": [
+        "<b>Death Mark</b>: Dhuum appears on a random player with a large orange circle — anyone caught has their boons stolen and must sprint back to their pillar of light within 10 seconds or die.",
+        "<b>Shackles</b> (from 60%): the two non-tank players closest to Dhuum get tethered together (yellow border, red tether) — 4 seconds later the shackle activates and deals heavy damage unless you've already run in opposite directions to separate."
+      ]
+    },
+    {
+      "heading": "Messengers",
+      "bullets": [
+        "These adds fixate on whoever attacks them first and die on their own 15 seconds after fixating — a dedicated kiter should grab one and run it around the arena so it doesn't chew through the friendly Reapers instead."
+      ]
+    },
+    {
+      "heading": "Greater Death Mark (soul split, ~6:30)",
+      "bullets": [
+        "Dhuum pulls everyone out of their body for 20% max HP damage plus torment stacks — sprint back to your own glowing soul marker before the timer runs out or it's a death.",
+        "Face the center of the room when Dhuum reappears and keep your back to a safe wall so you're not caught out of position."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "10:00 soft enrage from 100%→10% (Dhuum's outgoing damage jumps +500%), then a hard 1:45 window from 10%→0% that wipes the squad outright if missed."
+        "10:00 soft enrage from 100%→10% (Dhuum's damage jumps +500%), then a hard 1:45 window from 10%→0% that wipes the squad outright if missed."
       ]
     }
   ],
   "sources": [
-    { "label": "GW2 Wiki: Dhuum", "url": "https://wiki.guildwars2.com/wiki/Dhuum" }
+    { "label": "GW2 Wiki: Dhuum", "url": "https://wiki.guildwars2.com/wiki/Dhuum" },
+    { "label": "Hardstuck: Dhuum", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/dhuum/" }
   ]
 }
