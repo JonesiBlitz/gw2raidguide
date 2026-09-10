@@ -38,6 +38,18 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote (\"Godspoil Greer\")",
+      "bullets": [
+        "Two ally titans — <b>Ereg</b> and <b>Gree/Reeg</b> — buff Greer with Might, Protection, and Resolution throughout the fight. They're not present in Normal mode at all.",
+        "Empowered now increases his damage 5% per stack, and at 99 stacks his attacks become fully unblockable — the same threshold as Normal, but reaching it is far more punishing here.",
+        "Several attacks (Ripples of Rot, Cage of Decay) apply <b>Plague Rot</b> instead of normal conditions — 20 stacks of poison from Enfeebling Miasma also converts into a Plague Rot stack.",
+        "Greer shields himself behind an invulnerable barrier at points while his Greerlings attack instead — and during the 10% phase, he stays invulnerable as long as any Proto-Greerlings survive, so clear them fully rather than partially.",
+        "The final Rot the World is a full raid-wide kill if the bar isn't broken — not just an arena-fill like Normal."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Greer, the Blightbringer", "url": "https://wiki.guildwars2.com/wiki/Greer,_the_Blightbringer" }
   ]

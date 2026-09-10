@@ -47,6 +47,17 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "Much more health (~79.7M vs ~61.3M normal).",
+        "<b>Titanic Resistance</b> stacks permanently every time her defiance bar breaks — the fight gets harder to CC the longer it goes, so early breaks matter more than late ones.",
+        "Geyser defiance bars are much bigger here: Titanspawn Geysers go from 800 to 2,000, Toxic Geysers from 800 to 1,000 — clearing them takes real coordinated CC, not just incidental damage.",
+        "Her own defiance bar unlocks every 5% health instead of less often, so you'll be breaking it far more frequently overall."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Ura, the Steamshrieker", "url": "https://wiki.guildwars2.com/wiki/Ura,_the_Steamshrieker" }
   ]

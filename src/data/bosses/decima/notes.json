@@ -44,6 +44,17 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote (\"Godsquall Decima\")",
+      "bullets": [
+        "Decima is linked to a minion — if her health drops too low relative to it, the minion shields her and exposes itself instead. You may need to redirect damage onto the minion rather than just burning Decima directly.",
+        "An extra <mark>Fluxlance Salvo</mark> shows up at 40% health, firing beams simultaneously rather than in sequence — a step up in difficulty from Normal's phase progression.",
+        "New repositioning attacks have her leap to new spots before crashing down, changing up the predictable positioning you'd rely on in Normal.",
+        "Treat Charge management as a hard requirement, not a nice-to-have — several CM achievements exist specifically around never letting her gain a single Charge stack."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Decima, the Stormsinger", "url": "https://wiki.guildwars2.com/wiki/Decima,_the_Stormsinger" },
     { "label": "Hardstuck: Decima, the Stormsinger", "url": "https://hardstuck.gg/gw2/guides/w8-mount-balrior/decima-the-stormsinger/" }

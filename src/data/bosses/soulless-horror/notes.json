@@ -37,6 +37,16 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "The Elite Flesh Wurms from the opening of the fight respawn instead of being a one-time clear — expect consistent extra damage the whole encounter.",
+        "The tank's Necrosis stacks build faster, so both tanks need noticeably more defensive stats to survive their swaps.",
+        "The arena crumbles an extra time right at the start, so by 33% only the innermost circle is left — very little room to work with for Tormented Dead positioning by the late fight."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Soulless Horror", "url": "https://wiki.guildwars2.com/wiki/Soulless_Horror" },
     { "label": "Hardstuck: Soulless Horror", "url": "https://hardstuck.gg/gw2/guides/w5-hall-of-chains/soulless-horror/" }

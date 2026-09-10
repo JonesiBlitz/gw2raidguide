@@ -61,6 +61,17 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "+6 million health (42M vs 36M normal).",
+        "Saul is out of the fight entirely — no protective dome, so Mind Crush has to be survived with Aegis or another block instead. He also can't be healed while trapped, so killing Greed/Pride images before they reach him matters even more than in Normal.",
+        "The squad loses Unnatural Signet (a normal-mode damage buff), so overall DPS runs lower than you'd expect from gear alone.",
+        "The healing banner isn't placed on the hand kiter automatically like in Normal — they take extra pressure and need to plan sustain for it themselves."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Deimos", "url": "https://wiki.guildwars2.com/wiki/Deimos" },
     { "label": "GW2 Wiki: Bastion of the Penitent", "url": "https://wiki.guildwars2.com/wiki/Bastion_of_the_Penitent" },

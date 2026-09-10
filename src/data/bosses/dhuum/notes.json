@@ -54,6 +54,16 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "+8 million health (40M vs 32M normal).",
+        "<b>Ender's Echo</b> — a smaller copy of Dhuum — is an ever-present threat throughout the fight. It charges at players in straight lines and captures anyone it hits; break its defiance bar to free them. It also teleports whenever Greater Death Mark goes off, so expect it to reposition right when you're already dealing with that.",
+        "The friendly Reapers lose their x100 incoming-healing bonus from the pre-phase, so healing them efficiently is much harder — expect the pre-phase to run tighter overall."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Dhuum", "url": "https://wiki.guildwars2.com/wiki/Dhuum" },
     { "label": "GW2 Wiki: Hall of Chains", "url": "https://wiki.guildwars2.com/wiki/Hall_of_Chains" },

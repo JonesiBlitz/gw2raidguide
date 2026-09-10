@@ -41,6 +41,15 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "+10% health on both twins.",
+        "New mechanic — <b>Aquatic Domain</b>: at 80%, 60%, 40%, and 20% health, the boss channels an expanding orange circle that instantly kills anyone still on the platform once it reaches the edge. It can't be blocked or invulned — jump off and glide to a water fountain well before it finishes expanding, since the cast can animation-lock you if you wait too long."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Twin Largos", "url": "https://wiki.guildwars2.com/wiki/Twin_Largos" },
     { "label": "Hardstuck: Twin Largos", "url": "https://hardstuck.gg/gw2/guides/w6-mythwright-gambit/twin-largos/" }

@@ -41,6 +41,15 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "The pulsing damage border that's normally only active during the Exposed Core Phase stays active for the entire fight instead.",
+        "That's the only real change — same strategy, same callouts, just less room for error the whole way through since the border punishes you at all times, not just during core phases."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Keep Construct", "url": "https://wiki.guildwars2.com/wiki/Keep_Construct" },
     { "label": "Hardstuck: Keep Construct", "url": "https://hardstuck.gg/gw2/guides/w3-stronghold-of-the-faithful/keep-construct/" }

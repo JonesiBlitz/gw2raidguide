@@ -38,6 +38,15 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "More health (~32.4M vs ~29.5M normal).",
+        "<mark>Dynamic Deterrent</mark> drops 5 lines at once instead of 3 — noticeably less safe floor space during the opening breakbar phase."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Cardinal Sabir", "url": "https://wiki.guildwars2.com/wiki/Cardinal_Sabir" },
     { "label": "Hardstuck: Cardinal Sabir", "url": "https://hardstuck.gg/gw2/guides/w7-key-of-ahdashim/sabir/" }
