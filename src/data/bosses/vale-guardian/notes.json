@@ -5,41 +5,48 @@
     {
       "heading": "Overview",
       "bullets": [
-        "Tank-and-spank with two split phases (66% and 33%) where the same three colored guardians from the pre-fight trash show up together. Platform layout is randomized every pull, so this one needs live callouts, not memorized positions."
+        "The same three mechanics — Seekers, Blues, Greens — show up three separate times: as isolated pre-event trash, as Vale Guardian's own attacks in phase 1, and again as paired-down minis during the two split phases. Learn them once in the trash and the rest of the fight is just repetition."
       ]
     },
     {
       "heading": "Before the pull — trash guardians",
       "bullets": [
-        "Before Vale Guardian itself, the squad clears 3 trash mobs — Red, Blue, and Green — one at a time. These are the exact same guardians that reappear together during the split phases, just isolated, so treat this as a practice run.",
-        "Their platform layout is randomized each time you enter or pull — don't assume it matches the last attempt. The commander will call positions fresh every time."
+        "Before Vale Guardian itself, the squad clears 3 trash mobs — Red, Blue, and Green — one at a time. These are the same guardians that reappear together during the split phases, just isolated, so treat this as a practice run.",
+        "Their platform layout is randomized each time you enter or pull — don't assume it matches the last attempt. The commander will call positions fresh every time.",
+        "The split-phase versions later in the fight have noticeably less health than these pre-event versions — don't be surprised when they die faster during the real splits."
       ]
     },
     {
       "heading": "The three guardians",
       "bullets": [
-        "<b>Red</b> — spawns Seekers, orbs that constantly home in on whoever's fighting him. Only takes condition damage. During this trash/practice phase everyone can pitch in a bit (power DPS does far less here) — power players should spend that time pushing Seekers off the condi players rather than trying to out-damage Red.",
-        "<b>Blue</b> — spawns the green stack circles: get the required number of players standing in one before it closes, or the group takes heavy damage. Takes damage from either type, but is usually fought with power since condi is reserved for Red.",
-        "<b>Green</b> — spawns blue teleport circles. Same damage rules as Blue — either type works, typically power-focused.",
+        "<b>Red</b> — spawns Seekers, orbs that constantly home in on whoever's fighting him. Extremely high toughness, so condition damage is what actually gets through — power damage is close to wasted on him. During this trash/practice phase everyone can pitch in a bit (power DPS does far less here) — power players should spend that time pushing Seekers off the condi players rather than trying to out-damage Red.",
+        "<b>Blue</b> — spawns the green stack circles (Distributed Magic): get the required number of players standing in one before it closes, or the group takes heavy damage. Blue also carries a boon (Blue Pylon Power) that blocks damage until it's stripped — clear the boon first or your hits do nothing.",
+        "<b>Green</b> — spawns blue teleport circles (Unstable Magic Spike). Takes normal damage, no boon-strip needed — typically power-focused since condi is reserved for Red.",
         "None of the three die from damage alone — bring each to 1% health, then break its defiance bar to finish it off."
       ]
     },
     {
-      "heading": "Phase — Vale Guardian",
+      "heading": "Phase — Vale Guardian (100% – 66%)",
       "bullets": [
-        "<b>Magic Storm</b>: gives the boss a breakbar — break it to shut the attack down.",
-        "<b>Green circle</b> appears on the ground — get at least 4 players standing in it before it closes, or the group takes heavy damage.",
-        "Tank stays in melee range facing the boss away from the group; keep steady pressure between splits."
+        "Vale Guardian uses all three guardian mechanics himself here, not just one: <b>Seekers</b> (homing orbs), <b>Blues</b> (teleporting electric fields — get out of them), and <b>Greens</b> (stack circle, needs 4+ players or the group takes heavy damage).",
+        "Tank holds him at the edge of the arena rather than the center — gives more room to deal with Seekers and Blues without getting boxed in."
       ]
     },
     {
-      "heading": "Split phase strategy (66% / 33%)",
+      "heading": "Split phase strategy (66% and 33%)",
       "bullets": [
-        "Red's condi group solos him on his own platform — remember, only condition damage works on Red.",
+        "Red's condi group solos him on his own platform — remember, only condition damage really works on Red.",
         "Unlike the trash practice, the condi group doesn't have power players helping with Seekers this time — they're on their own for both damage and pushing, so call priority if Seekers start stacking up.",
-        "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways.",
-        "Same rule as the trash mobs: bring each guardian to 1%, then break its defiance bar to finish it.",
-        "Stay on your assigned platform — stepping off deals heavy ongoing damage."
+        "The main tank pulls Green over onto Blue's platform, so the power group kills Blue and Green together in one spot instead of splitting three ways. Strip Blue Pylon Power before expecting damage to land.",
+        "You're attuned to whichever platform you're standing on — leaving your color's zone deals heavy damage, so don't wander over to help another group.",
+        "Same rule as the trash mobs: bring each guardian to 1%, then break its defiance bar to finish it — and expect it to go faster than the pre-event version."
+      ]
+    },
+    {
+      "heading": "Arena hazards after each split",
+      "bullets": [
+        "Phase 2 (66% → 33%): one arena section lights up and rotates roughly every 20 seconds — get off it before it activates.",
+        "Phase 3 (33% → 0%): two sections light up and rotate simultaneously — tank in particular needs to keep chasing a safe edge, and the whole squad has less safe floor to work with."
       ]
     },
     {
@@ -51,6 +58,6 @@
   ],
   "sources": [
     { "label": "GW2 Wiki: Vale Guardian", "url": "https://wiki.guildwars2.com/wiki/Vale_Guardian" },
-    { "label": "Hardstuck: Raid Guides", "url": "https://hardstuck.gg/gw2/guides/raids/" }
+    { "label": "Hardstuck: Vale Guardian", "url": "https://hardstuck.gg/gw2/guides/w1-spirit-vale/vale-guardian/" }
   ]
 }
