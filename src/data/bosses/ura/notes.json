@@ -30,7 +30,20 @@
       "heading": "Conditions & adds",
       "bullets": [
         "<mark>Sulfuric Acid</mark> (applied via <mark>Acid Spray</mark> / <mark>Sulfuric Froth</mark>) ticks damage every second and applies Exposed every 5 seconds — keep condition cleanse up.",
-        "Titanspawn adds spawn alongside the geysers — manage both at once rather than tunnel-visioning on the boss."
+        "Titanspawn adds spawn alongside the geysers — manage both at once rather than tunnel-visioning on the boss. Break their defiance bars to kill them outright rather than grinding through their health."
+      ]
+    },
+    {
+      "heading": "Bloodstone shards",
+      "bullets": [
+        "Two players need to be continuously managing dropped bloodstone shards — if one sits for 4-5 seconds without being picked up, it pulses unblockable radiation for 10% of everyone's max health. Some transforms (Death Shroud, Celestial Avatar, etc.) can't pick shards up, so know who's on duty.",
+        "At 70% health, <mark>Return</mark> pulls the whole squad together into a rising bubble that needs Dispel to clear."
+      ]
+    },
+    {
+      "heading": "Enrage",
+      "bullets": [
+        "10:00 hard enrage — defeats the whole squad outright, not just a damage buff."
       ]
     }
   ],

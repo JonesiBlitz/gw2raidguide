@@ -26,7 +26,15 @@
     {
       "heading": "Fire split (80% / 60%)",
       "bullets": [
-        "<mark>Shatter</mark> lifts the whole squad and drops fire circles beneath everyone — the squad typically stacks on a predetermined pylon side for this so the drop is coordinated rather than chaotic."
+        "<mark>Shatter</mark> lifts the whole squad and drops fire circles beneath everyone — the squad typically stacks on a predetermined pylon side for this so the drop is coordinated rather than chaotic.",
+        "The lava fields left behind don't go away — they persist for the rest of the fight, so the safe floor space keeps shrinking as you go."
+      ]
+    },
+    {
+      "heading": "Pylons get destroyed over time",
+      "bullets": [
+        "This isn't a static 3-pylon fight the whole way through — Qadim permanently destroys one at each threshold: north at 40%, southwest at 30%, southeast at 20%. By 20%-0% there are no pylons left at all.",
+        "Once pylons are gone, Qadim just fixates the closest player and can stack up to 3 Bad Tethers at once — expect the final stretch to feel like a different fight from the pylon-defense phase before it."
       ]
     },
     {

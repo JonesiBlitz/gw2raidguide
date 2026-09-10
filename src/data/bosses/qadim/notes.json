@@ -12,6 +12,7 @@
       "heading": "General rules",
       "bullets": [
         "Tanking is proximity-based — stand at the enemy's hitbox center to hold aggro. Tank Chronomancers are common picks for the portal utility.",
+        "Lava Elementals spawn at the platform corners throughout — if one reaches Qadim, he absorbs it for a stack of Fiery Surge (+20% damage). Kill or displace them before they get there.",
         "Each Legendary Enemy follows Autoattack → Autoattack → Special Ability. When a platform transition starts, the enemy gets a red circle — everyone must leave it within 2 seconds or <mark>Djinn's Gaze</mark> teleports them straight to Qadim."
       ]
     },
