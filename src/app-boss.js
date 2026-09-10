@@ -33,17 +33,8 @@ function renderNotFound() {
   `;
 }
 
-function renderNotesPanel(notes, bossName) {
-  if (!notes) {
-    return `
-      <div class="placeholder-panel">
-        <strong>Quick notes coming soon</strong>
-        We haven't written up ${bossName} yet — check back soon.
-      </div>
-    `;
-  }
-
-  const sections = notes.sections
+function renderSections(sections) {
+  return sections
     .map(
       (s) => `
       <div class="note-section">
@@ -56,16 +47,41 @@ function renderNotesPanel(notes, bossName) {
     `
     )
     .join('');
+}
 
-  const sources = notes.sources && notes.sources.length
+function renderSources(notes) {
+  return notes.sources && notes.sources.length
     ? `<div style="font-size:0.72rem; color:var(--muted);">
         Sources: ${notes.sources
           .map((s) => `<a href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`)
           .join(' · ')}
       </div>`
     : '';
+}
 
-  return sections + sources;
+function renderNotesPanel(notes, bossName, mode) {
+  if (!notes) {
+    return `
+      <div class="placeholder-panel">
+        <strong>Quick notes coming soon</strong>
+        We haven't written up ${bossName} yet — check back soon.
+      </div>
+    `;
+  }
+
+  if (mode === 'cm') {
+    if (!notes.cmSections || !notes.cmSections.length) {
+      return `
+        <div class="placeholder-panel">
+          <strong>Challenge Mote notes coming soon</strong>
+          We haven't written up ${bossName}'s CM differences yet — check back soon.
+        </div>
+      `;
+    }
+    return renderSections(notes.cmSections) + renderSources(notes);
+  }
+
+  return renderSections(notes.sections) + renderSources(notes);
 }
 
 function renderBuildsPanel(bossName) {
@@ -116,8 +132,8 @@ async function init() {
   const moteRow = notes && notes.hasChallengeMote
     ? `
       <div class="mote-row">
-        <div class="mote" style="border-color:var(--accent); color:var(--accent);">Normal</div>
-        <div class="mote cm">Challenge Mote</div>
+        <button class="mote active" data-mode="normal" type="button">Normal</button>
+        <button class="mote cm" data-mode="cm" type="button">Challenge Mote</button>
       </div>
     `
     : '';
@@ -137,7 +153,7 @@ async function init() {
       <button class="tab-btn" data-tab="builds" type="button">Builds &amp; Team Comp</button>
     </div>
 
-    <div class="tab-panel" data-panel="notes">${renderNotesPanel(notes, boss.name)}</div>
+    <div class="tab-panel" data-panel="notes">${renderNotesPanel(notes, boss.name, 'normal')}</div>
     <div class="tab-panel" data-panel="builds" hidden>${renderBuildsPanel(boss.name)}</div>
   `;
 
@@ -149,6 +165,16 @@ async function init() {
       panels.forEach((p) => {
         p.hidden = p.dataset.panel !== btn.dataset.tab;
       });
+    });
+  });
+
+  const moteButtons = main.querySelectorAll('.mote');
+  const notesPanel = main.querySelector('.tab-panel[data-panel="notes"]');
+  moteButtons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (btn.classList.contains('active')) return;
+      moteButtons.forEach((b) => b.classList.toggle('active', b === btn));
+      notesPanel.innerHTML = renderNotesPanel(notes, boss.name, btn.dataset.mode);
     });
   });
 }

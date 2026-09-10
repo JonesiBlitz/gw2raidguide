@@ -36,6 +36,16 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "No health increase — this is a mechanics check, not a bigger damage race.",
+        "You gain a buff that counts down from 10 seconds — if you don't manually use Celestial Dash before it runs out, you're forced to dash in whatever direction you're currently facing. Keep it on near-permanent cooldown for the whole fight.",
+        "At 99 stacks of Unseen Burden, you're immobilized and locked out of every skill except Celestial Dash until you stand in a green circle during Spatial Manipulation — you can no longer invuln through the green circle requirement like in Normal."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Cairn the Indomitable", "url": "https://wiki.guildwars2.com/wiki/Cairn_the_Indomitable" },
     { "label": "Hardstuck: Cairn the Indomitable", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/cairn-the-indomitable/" }

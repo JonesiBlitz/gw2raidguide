@@ -44,6 +44,17 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "The boss gains ~36% more health (22M → 30M), and Jade Soldiers nearly double their own health too — expect a much longer floor-management grind.",
+        "New mechanic: 4 tiles turn blue at intervals (starting around 5:33 remaining, every 30s, lasting 3s) — you must be standing on a blue tile when it detonates or you die instantly. The Protect bubble does not save you from this, unlike every other floor hazard.",
+        "Each player gets their own client-side set of blue tiles from one of four rotating patterns, so don't assume your tiles match your neighbor's.",
+        "The hard part is timing overlap between Blue detonations and the normal spike tiles — the Claim holder needs to keep the four center tiles safe at all times, sometimes forcing a Protect bubble placement just to survive the overlap."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Mursaat Overseer", "url": "https://wiki.guildwars2.com/wiki/Mursaat_Overseer" },
     { "label": "GW2 Wiki: Bastion of the Penitent", "url": "https://wiki.guildwars2.com/wiki/Bastion_of_the_Penitent" },

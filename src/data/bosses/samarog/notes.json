@@ -32,6 +32,17 @@
       ]
     }
   ],
+  "cmSections": [
+    {
+      "heading": "What's different in Challenge Mote",
+      "bullets": [
+        "+10 million health on top of every attack hitting harder.",
+        "Spear Impact spawns every 5 seconds in a fixed pattern instead of on a timer, and the spears can't be destroyed — once all 12 have landed, Spear Return kicks in to start clearing them. The usable floor space keeps shrinking as the fight goes on.",
+        "Inevitable Betrayal is active from the very start of the fight (not just later), and the large-circle player can no longer move — their partner has to come to them instead. Each occurrence also drops an extra Spear Impact at that spot.",
+        "Net effect: constant repositioning with less and less room to do it in, especially during the Rigom/Guldhem splits where floor space was already tight."
+      ]
+    }
+  ],
   "sources": [
     { "label": "GW2 Wiki: Samarog", "url": "https://wiki.guildwars2.com/wiki/Samarog" },
     { "label": "Hardstuck: Samarog", "url": "https://hardstuck.gg/gw2/guides/w4-bastion-of-the-penitent/samarog/" }

@@ -221,9 +221,15 @@ html[data-theme="dark"] .theme-toggle .knob { left: 21px; }
   border-radius: 20px;
   padding: 0.4rem 0.9rem;
   font-size: 0.75rem;
+  font: inherit;
   color: var(--muted);
+  background: var(--bg);
+  cursor: pointer;
 }
-.mote.cm { border-color: var(--gold); color: var(--gold); }
+.mote:hover { border-color: var(--accent); color: var(--accent); opacity: 1; }
+.mote.active { border-color: var(--accent); color: var(--accent); }
+.mote.cm.active { border-color: var(--gold); color: var(--gold); }
+.mote.cm:hover { border-color: var(--gold); color: var(--gold); }
 
 .last-updated {
   font-size: 0.7rem;
