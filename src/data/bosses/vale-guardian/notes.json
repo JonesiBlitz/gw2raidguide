@@ -19,7 +19,7 @@
       "heading": "The three guardians",
       "bullets": [
         "<b>Red</b> — casts <mark>Spawn Seekers</mark>, summoning orbs (commonly just called Seekers) that constantly home in on whoever's fighting him. Extremely high toughness, so condition damage is what actually gets through. During this trash/practice phase, power players should help push Seekers off the condi group while still throwing out what damage they can — it'll just be slower going against Red than it is on Blue or Green, given his toughness.",
-        "<b>Blue</b> — casts <mark>Distributed Magic</mark>, the green stack circle: get the required number of players standing in it before it closes, or the group takes heavy damage. Blue also carries <mark>Blue Pylon Power</mark>, a boon that blocks damage until it's stripped — clear the boon first or your hits do nothing.",
+        "<b>Blue</b> — casts <mark>Distributed Magic</mark>, the green stack circle: get the required number of players standing in it before it closes, or the group takes damage equal to 80% of their health. Blue also carries <mark>Blue Pylon Power</mark>, a boon that blocks damage until it's stripped — clear the boon first or your hits do nothing.",
         "<b>Green</b> — casts <mark>Unstable Magic Spike</mark>, dropping blue circles that teleport anyone caught in the impact. Takes normal damage, no boon-strip needed — typically power-focused since condi is reserved for Red.",
         "All three also use <mark>Magic Aura</mark>, a passive pulse that damages anyone nearby every 3 seconds — nothing to react to beyond standard positioning, just don't ignore it as free damage.",
         "None of the three die from damage alone — bring each to 1% health, then break its defiance bar to finish it off."
@@ -28,8 +28,9 @@
     {
       "heading": "Phase — Vale Guardian (100% – 66%)",
       "bullets": [
-        "Vale Guardian uses the same three skills himself here, not just his guardians: <mark>Spawn Seekers</mark> (homing orbs), <mark>Unstable Magic Spike</mark> (blue teleport circles — get out of them), and <mark>Distributed Magic</mark> (green stack circle, needs 4+ players or the group takes heavy damage). Plus <mark>Magic Storm</mark>, which opens a breakbar — break it to shut the attack down.",
-        "Tank holds him at the edge of the arena rather than the center — gives more room to deal with Seekers and the teleport circles without getting boxed in."
+        "Vale Guardian uses the same three skills himself here, not just his guardians: <mark>Spawn Seekers</mark> (homing orbs), <mark>Unstable Magic Spike</mark> (blue teleport circles — get out of them), and <mark>Distributed Magic</mark> (green stack circle, needs 4+ players or the group takes 80% health damage). Plus <mark>Magic Storm</mark>, which opens a breakbar — break it to shut the attack down.",
+        "Tank holds him at the edge of the arena rather than the center — gives more room to deal with Seekers and the teleport circles without getting boxed in.",
+        "Vale Guardian targets whoever has the highest toughness in the squad — worth knowing if you're speccing into toughness for another reason."
       ]
     },
     {
@@ -46,14 +47,14 @@
       "heading": "Phase 2 & 3 (after each split)",
       "bullets": [
         "Once the guardians are dead and Vale Guardian is back, he starts using <mark>Bullet Storm</mark> — he plants himself and won't move while casting it, and it opens a breakbar. CC him to shut it down rather than trying to dodge through it.",
-        "Phase 2 (66% → 33%): one arena section lights up and rotates roughly every 20 seconds — get off it before it activates.",
-        "Phase 3 (33% → 0%): two sections light up and rotate simultaneously — tank in particular needs to keep chasing a safe edge, and the whole squad has less safe floor to work with."
+        "Phase 2 (66% → 33%): one arena section lights up and rotates roughly every 20 seconds, dealing 2000 unavoidable damage per second to anyone standing on it — get off before it activates.",
+        "Phase 3 (33% → 0%): two sections light up and rotate simultaneously, and a 4th Seeker joins the usual homing orbs — tank in particular needs to keep chasing a safe edge, and the whole squad has less safe floor to work with."
       ]
     },
     {
       "heading": "Enrage",
       "bullets": [
-        "No hard enrage — a slow group usually loses to a split-phase mistake before running out of time. Keep splits clean and fast."
+        "8:00 — Vale Guardian deals +200% damage past this point. A slow group usually loses to a split-phase mistake before reaching the timer anyway, but it's a real hard wall, not just a soft check."
       ]
     }
   ],
