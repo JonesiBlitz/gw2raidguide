@@ -2,6 +2,8 @@
 
 *(working title — "Raid Compass" is a placeholder)*
 
+**Live site: https://jonesiblitz.github.io/gw2raidguide/**
+
 An unofficial fan site for Guild Wars 2 raids, built around two goals:
 
 1. **Quick Notes** — bullet-point mechanics per boss, meant to be read out loud by
